@@ -1,5 +1,8 @@
-    [
-      {
+   [
+     {
+           "name": "UNIFI ANEKA",
+            "samples": [
+       {
         "name": "TV1",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
         "drm_scheme": "widevine",
