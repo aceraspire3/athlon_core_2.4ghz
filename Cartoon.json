@@ -1,0 +1,71 @@
+﻿[
+  {
+    "name": "CARTOON",
+    "samples": [
+      {
+               "name": "DISNEY CHANNEL",
+        "uri": "http://nonton.site:8888/live/Kost/171709/306.m3u8"   
+         },
+               {
+               "name": "DREAMWORKS",
+        "uri": "http://185.246.210.115:25461/CGlxyFUXzZ/1LuFVhAkMH/55430?play_token=KkQrlEkRuu&token=GRdRWUpbQV9BCw0FVlMEAQYACAcFBVBVBAdRAFRaWlcAV1hcDwpbUVQRFEQQFxAGVQxnD1YVCVQGV1cCHEFNQgdHZlFdEVlHUgcNUVdXVkEYQ0wPX1IRWwJWXQQCWgoAUw0VGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+      },
+      {
+               "name": "CARTOON NETWORK",
+        "uri": "http://185.59.222.189:25461/0I7dmmXe3e/GAXY2deqzo/110232?play_token=vGoBKfxipX&token=GRdRWUpbQV9BVgoDWwdSUAYEXgIDDwJVUVZTBQFXCgYABAtcD1UHUVYRFEQQFxAGVQxnD1YVCVACU1YBAk8aRBFQS2dQV0FfQQIMU1NRUlIWTRoSW1pWQwlSUQsGUQAFVgQOFBtDCgFBCRpUW1RSVhZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVw9EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBWloHWBob"
+       },
+       {
+               "name": "NICKELODEON",
+        "uri": "http://iptv-line.com:7899/live/yassinabarbie8/xvQmjCx4/110233.m3u8"
+        },
+        {
+               "name": "NICK JR",
+        "uri": "http://iptv-line.com:7899/live/yassinabarbie8/xvQmjCx4/110234.m3u8"
+         },
+         {
+               "name": "DISNEY JR",
+        "uri": "http://iptv-line.com:7899/live/yassinabarbie8/xvQmjCx4/110230.m3u8"
+          },
+          {
+                "name": "DISNEY XD",
+        "uri": "http://iptv-line.com:7899/live/yassinabarbie8/xvQmjCx4/110229.m3u8"
+           },
+           {
+                "name": "BOOMERANG",
+        "uri": "http://iptv-line.com:7899/live/yassinabarbie8/xvQmjCx4/55451.m3u8"
+           },
+           {
+                 "name": "ANIMAX",
+        "uri": "http://iptv-line.com:7899/live/yassinabarbie8/xvQmjCx4/46467.m3u8"
+            },
+            {
+                  "name": "ANIPLUS",
+        "uri": "http://iptv-line.com:7899/live/yassinabarbie8/xvQmjCx4/110266.m3u8"
+             },
+             {
+                  "name": "UNIVESAL KIDS",
+        "uri": "http://iptv-line.com:7899/live/yassinabarbie8/xvQmjCx4/110088.m3u8"
+               },
+               {
+                  "name": "TOM & JERRY",
+        "uri": "http://aldirect.rtmp.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8"
+               },
+               {
+                  "name": "LARVA",
+        "uri": "http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv"
+               },
+               {
+                  "name": "DRAGON BALL",
+        "uri": "https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv" 
+               },
+               {
+                   "name": "BARUTO",
+        "uri": "http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv" 
+               },
+               {
+                    "name": "TEEN KIDS",
+        "uri": "http://iptv-line.com:7899/live/yassinabarbie8/xvQmjCx4/45851.m3u8"
+               }
+                   ]
+           }
+         ]
