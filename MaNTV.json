@@ -106,7 +106,7 @@
       },
       {
         "name": "TV3",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227509/3221227509.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227760/3221227760.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
@@ -353,7 +353,7 @@
       },
       {
              "name": "ANIPLUS HD",
-        "uri": "http://mantul.biz.id:8888/live/randu/280520/265.m3u8"
+        "uri": "  "
       },
       {
         "name": "BLUE ANT ENTERTAINMENT HD",
