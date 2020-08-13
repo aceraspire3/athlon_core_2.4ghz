@@ -1174,7 +1174,7 @@
       },
       {
         "name": "Sony PixHD",
-        "uri": "http://195.181.173.91:25461/2mdXxLFl74/XVdt0YLz2x/7703?play_token=JXukwY8sHs&token=GRdRWUpbQV9BClpeUFBTVlBQXlFUBwAAV1BcCwdVXFRRVgkKWABSUAURFEQQFxAGVQxnD1YVCVYEU1ceEhZLVBBqUFwbCUFUVAsLXltUQE8WFVELVxUJUAZaUwADUgEDURkbSFBXQV9BAgFQV1pQQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAHEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBU1YDURpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFWUFAMURob"
+        "uri": "http://iptv-line.com:7899/live/4MmgBcJxXU/wNuRicM35y/7703.m3u8"
       },
       {
         "name": "HBOHD",
@@ -1261,8 +1261,8 @@
         "uri": "http://mantul.biz.id:8888/live/randu/280520/1145.m3u8"
       },
       {
-        "name": "Cinemax US",
-        "uri": "http://iptv-line.com:7899/t_tudose1/E8a7DfER/46832?play_token=8WHdplFKZr"
+        "name": "Cineplex HD",
+        "uri": "http://iptv-line.com:7899/live/4MmgBcJxXU/wNuRicM35y/110869.m3u8"
       },
       {
         "name": "Cinemax MoreMax",
@@ -1274,7 +1274,7 @@
       },
       {
         "name": "X WESTERN HD",
-        "uri": "http://185.102.218.41:25461/bangaeric6/kofiinova1/3411?play_token=KRyU8Oza5q&token=GRdRWUpbQV9BVlpSU1ZRUwFYDlFWBgsHVwFUAANRDAZUBA0LDABTBwcRFEQQFxAGVQxnD1YVCVIHUlUeEhZLVBBqUFwbCUFUWwcPVlNbQE8WFVELVxUJUAZaUgsFVQoBWxkbSFBXQV9BAg1RW1JATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAIVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFSUVEBQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFZTVlsWHA=="
+        "uri": "http://iptv-line.com:7899/live/4MmgBcJxXU/wNuRicM35y/3411.m3u8"
       },
       {
         "name": "X Action HD",
@@ -1286,7 +1286,7 @@
       },
       {
         "name": "PINK MOVIES",
-        "uri": "http://195.181.172.99:25461/uqLnml5I5K/1PBX0Jux6R/3568?play_token=byj4s8AjUr&token=GRdRWUpbQV9BVlxfUwAEAlFZAV9QBVcDVVAHCwNaXVMHVg4MXVBRA1YRFEQQFxAGVQxnD1YVCVIGVVweEhZLVBBqUFwbCUFUWwoBX1pUQE8WFVELVxUJUAZaUgsFVw8HURkbSFBXQV9BAgFWWlFRQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAHEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBU1oMVhpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFXUFIGVA9ETw=="
+        "uri": "http://iptv-line.com:7899/live/4MmgBcJxXU/wNuRicM35y/3568.m3u8"
        }
     ]
   }
