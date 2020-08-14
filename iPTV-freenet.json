@@ -264,6 +264,22 @@
    "uri": "http://195.181.173.90:25461/T4T8LjszWh/PJ2v9emSyE/55478?play_token=b03dUqaBDH&token=GRdRWUpbQV9BBloHUVBbBgZUWgUKVVFUVVsGAQlXDwQHVw9ZXAZVUlsRFEQQFxAGVQxnD1YVCVQGV1MKHEFNQgdHZlFdEVlHUgUPU1BQWkEYQ0wPX1IRWwJWXQUCUwoDWgUVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
      },
      {
+        "name": "OSN MOVIES(ar)",
+   "uri": "http://iptv-line.com:7899/live/Abdi9921/rvBu81DK5u/52923.m3u8"
+     },
+     {
+         "name": "STAR MOVIES(ar)",
+   "uri": "http://iptv-line.com:7899/live/Abdi9921/rvBu81DK5u/52907.m3u8"
+     },
+     {
+           "name": "MBC ACTION(ar)",
+   "uri": "http://iptv-line.com:7899/live/Abdi9921/rvBu81DK5u/110736.m3u8"
+     },
+     {
+           "name": "MBC MAX(ar)",
+   "uri": "http://iptv-line.com:7899/live/Abdi9921/rvBu81DK5u/110737.m3u8"
+     },
+     {
          "name": "TRING FANTASY",
    "uri": "http://iptv-line.com:7899/live/zsolt.lanczok1/VL0sGg3l/2126.m3u8"
      },
