@@ -623,27 +623,27 @@
    "uri": "http://185.102.218.107:25461/amitgaur1-mac/NDp6XNNBet/47282?play_token=SqRVrx6pM1&token=GRdRWUpbQV9BBQ5VU1JaUlEFD1YBAlcDCldSBwAHCAFSAwgKWAsFVlARFEQQFxAGVQxnD1YVCVUEUVwAHEFNQgdHZlFdEVlHUgAMU1paVUEYQ0wPX1IRWwJWXQQGUQECVw0VGklaB0dZEQlUUFBSQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUVoAVhpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFSUFEHWBob"
          },
          {
-             "name": "BT SPORT 1",
+             "name": "BT SPORTS 1",
    "uri": "http://iptv-line.com:7899/1vlatche1/wzdhLSWU/40205?play_token=o4zqVVi205"
          },
          {
-              "name": "BT SPORT 2",
+              "name": "BT SPORTS 2",
    "uri": "http://iptv-line.com:7899/live/stevencap.turf2/Capsteven/8619.m3u8"
          },
          {         
-              "name": "FOX SPORT 1",
+              "name": "FOX SPORTS 1",
         "uri": "https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
       {
-              "name": "FOX SPORT 2",
+              "name": "FOX SPORTS 2",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
        },
        {
-              "name": "FOX SPORT 3",
+              "name": "FOX SPORTS 3",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
