@@ -51,12 +51,20 @@
         "uri": "http://iptv-line.com:7899/corbs301/uRjcKPxB/55453"
       },
       {
-          "name": "ASTRO CERIA",
+          "name": "ASTRO CERIA 1",
         "uri": "http://iptv-line.com:7899/rebel.robert1/yQVpCdG9/110228"
       },
       {
-        "name": "ASTRO OASIS",
+          "name": "ASTRO CERIA 2",
+        "uri": "http://m3ulink.com:7899/carlos.nunes447/ILIsdlrY/110228"
+      },
+      {
+        "name": "ASTRO OASIS 1",
         "uri": "http://iptv-line.com:7899/rebel.robert1/yQVpCdG9/110157"
+      },
+      {
+        "name": "ASTRO OASIS 2",
+        "uri": "http://m3ulink.com:7899/carlos.nunes447/ILIsdlrY/110157"
       },
       {
         "name": "ASTRO WARNA 1",
