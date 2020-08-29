@@ -59,20 +59,36 @@
         "uri": "http://iptv-line.com:7899/rebel.robert1/yQVpCdG9/110157"
       },
       {
-        "name": "ASTRO WARNA",
+        "name": "ASTRO WARNA 1",
         "uri": "http://m3ulink.com:7899/carlos.nunes447/ILIsdlrY/110158"
       },
       {
-        "name": "ASTRO RIA",
+        "name": "ASTRO WARNA 2",
+        "uri": "http://iptv-line.com:7899/rebel.robert1/yQVpCdG9/110158"
+      },
+      {
+        "name": "ASTRO RIA 1",
         "uri": "http://m3ulink.com:7899/carlos.nunes447/ILIsdlrY/110155"
       },
       {
-        "name": "ASTRO CITRA",
+        "name": "ASTRO RIA 2",
+        "uri": "http://iptv-line.com:7899/rebel.robert1/yQVpCdG9/110155"
+      },
+      {
+        "name": "ASTRO CITRA 1",
         "uri": "http://m3ulink.com:7899/carlos.nunes447/ILIsdlrY/110270"
       },
       {
-        "name": "ASTRO PRIMA",
+        "name": "ASTRO CITRA 2",
+        "uri": "http://iptv-line.com:7899/rebel.robert1/yQVpCdG9/110270"
+      },
+      {
+        "name": "ASTRO PRIMA 1",
         "uri": "http://m3ulink.com:7899/carlos.nunes447/ILIsdlrY/110156"
+      },
+      {
+        "name": "ASTRO PRIMA 2",
+        "uri": "http://iptv-line.com:7899/rebel.robert1/yQVpCdG9/110156"
       },
       {
         "name": "ASTRO RANIA",
