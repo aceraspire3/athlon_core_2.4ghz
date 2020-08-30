@@ -76,6 +76,9 @@
         "uri": "http://m3ulink.com:7899/daniel.ciliman6/ciliman/110270"
       },
       {
+        "name": "CITRA 2",
+        "uri": "http://iptv-line.com:7899/pazzo455@hotmail.com/LYu0nIAvQX/110270"
+      {
         "name": "PRIMA",
         "uri": "http://185.59.222.189:25461/kevinshah234961_mac/EE8cPrEghF/110156?play_token=AK78FaTmOL&token=GRdRWUpbQV9BVw5eAQIGU1BWClBWAARZBFoBVgZRCANVUQFbWgYHBgIRFEQQFxAGVQxnD1YVCVACU1UHBk8aRBFQS2dQV0FfQQcMUFJXVUEYQ0wPX1IRWwJWXQcFWwgEUgEVGklaB0dZEQlWUFFATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFSWlIEQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJTU1QWHA=="
       },
@@ -1182,7 +1185,7 @@
       },
       {
         "name": "Star Select MoviesHD",
-        "uri":"http://103.194.169.115:25461/FavePSnm9s/SRPndsUrKF/54175?play_token=EcEctpakmt&token=GRdRWUpbQV9BBQxVUgBQVgxUWwUDBVIHB1BUVAEAW1dWUVhdDFdRUVcRFEQQFxAGVQxnD1YVCVQHUlMHHEFNQgdHZlFdEVlHUgoMUFVVW0EYQ0wPX1IRWwJWXQUFVwAEVQYVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "uri":"http://iptv-line.com:7899/pazzo455@hotmail.com/LYu0nIAvQX/54175"
       },
       {
         "name": "BLACKBERRY",
@@ -1210,7 +1213,7 @@
       },
       {
         "name": "HBOHD",
-        "uri": "http://iptv-line.com:7899/maksitodo1/fFWZq16k/54233?play_token=UonSlNKm62"
+        "uri": "http://iptv-line.com:7899/pazzo455@hotmail.com/LYu0nIAvQX/54233"
       },
       {
         "name": "Red By HBO",
@@ -1218,23 +1221,23 @@
       },
       {
         "name": "Colors InfinityHD",
-      "uri":"http://iptv-line.com:7899/live/jamie.vanerkelens1/wdQMda2H/54155.m3u8"
+      "uri":"http://iptv-line.com:7899/pazzo455@hotmail.com/LYu0nIAvQX/54155"
       },
       {
         "name": "MNPlusHD",
-        "uri": "http://103.194.169.115:25461/FavePSnm9s/SRPndsUrKF/54104?play_token=4OHuu7QmJh&token=GRdRWUpbQV9BUgBSBVJSBlICXFJRBgEEUFECAQUADFcDDAtdCAdXVwIRFEQQFxAGVQxnD1YVCVQHUlQGHEFNQgdHZlFdEVlHUgoMUFVVW0EYQ0wPX1IRWwJWXQUFWw4DUA0VGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "uri": "http://iptv-line.com:7899/pazzo455@hotmail.com/LYu0nIAvQX/54104"
       },
       {
         "name": "MNXHD",
-        "uri": "http://103.194.169.115:25461/FavePSnm9s/SRPndsUrKF/54103?play_token=u1Mcdd35u7&token=GRdRWUpbQV9BAwBWUgVVAA1QXlMKBQIDBAJXCgEGXFQHUQBeD1ZVUAcRFEQQFxAGVQxnD1YVCVQHUlQBHEFNQgdHZlFdEVlHUgoMUFVVW0EYQ0wPX1IRWwJWXQUFWw4DVgYVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "uri": "http://iptv-line.com:7899/pazzo455@hotmail.com/LYu0nIAvQX/54103"
       },
       {
         "name": "Now MoviesHD",
-        "uri": "http://103.194.169.115:25461/FavePSnm9s/SRPndsUrKF/54102?play_token=4Q0xjOtAH0&token=GRdRWUpbQV9BVllSWgBXUgxRWVQHVgdYV1dWAwBaWQAAVwheDARVUgYRFEQQFxAGVQxnD1YVCVQHUlQAHEFNQgdHZlFdEVlHUgoMUFVVW0EYQ0wPX1IRWwJWXQUFWw4FVwQVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "uri": "http://iptv-line.com:7899/pazzo455@hotmail.com/LYu0nIAvQX/54102"
       },
       {
         "name": "And PicsHD",
-        "uri": "http://103.194.169.115:25461/FavePSnm9s/SRPndsUrKF/54091?play_token=FYGRSzo2ny&token=GRdRWUpbQV9BCw5RVVRaUg0CXQAGAQRSUQcFU1EGC1BXBgsBCFdaVAURFEQQFxAGVQxnD1YVCVQHU10DHEFNQgdHZlFdEVlHUgoMUFVVW0EYQ0wPX1IRWwJWXQUFWw4FVAwVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "uri": "http://iptv-line.com:7899/pazzo455@hotmail.com/LYu0nIAvQX/54091"
       },
       {
         "name": "And XplorHD",
@@ -1242,7 +1245,7 @@
       },
       {
         "name": "Zee CinemaHD",
-        "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/54228?play_token=6mzFUF4OXT"
+        "uri": "http://iptv-line.com:7899/pazzo455@hotmail.com/LYu0nIAvQX/54228"
       },
       {
         "name": "Colors CinePlexHD",
@@ -1254,7 +1257,7 @@
       },
       {
         "name": "COLORS HD",
-        "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/54013?play_token=XUkDaMLWgS"
+        "uri": "http://iptv-line.com:7899/pazzo455@hotmail.com/LYu0nIAvQX/110161"
       },
       {
         "name": "D2H Movies HD",
@@ -1266,7 +1269,7 @@
       },
       {
         "name": "TV1000",
-        "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/27094?play_token=tjFJJAx3zH"
+        "uri": "http://iptv-line.com:7899/pazzo455@hotmail.com/LYu0nIAvQX/27094"
       },
       {
         "name": "Cineplex HD",
