@@ -13,7 +13,9 @@
       },
       {
         "name": "TV3",
-     "uri": "http://185.246.210.115:25461/2mdXxLFl74/XVdt0YLz2x/55473?play_token=sJxU5vDnXg&token=GRdRWUpbQV9BBwwHVFABAldQCgJXAlBQVlNTUAkHAVIAUwoLCwJWUVYRFEQQFxAGVQxnD1YVCVQGV1MBHEFNQgdHZlFdEVlHUgQAVVtbVUEYQ0wPX1IRWwJWXQUCUAkBWgYVGklaB0dZEQlSU1ZaVRZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFEHUA5EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFQGUQtWEEo="
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
         "name": "NTV7",
@@ -142,7 +144,7 @@
       },
       {
         "name": "TV3",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227760/3221227760.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
