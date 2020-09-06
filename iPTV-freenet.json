@@ -2,7 +2,7 @@
   {
     "name": "IPTVFREENET TV",
     "samples": [
-      {
+      
         "name": "TV1",
         "uri": "https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
       },
