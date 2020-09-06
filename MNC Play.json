@@ -2,7 +2,7 @@
       {
     "name": "MNC PLAY MOVIES",
     "samples": [
-      {
+      
         "name": "HBO Signature",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
         "drm_scheme": "widevine",
