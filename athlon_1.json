@@ -631,15 +631,15 @@
               "samples": [
         {
               "name": "NAT GOE WILL",
-     "uri": "http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8"
+     "uri": "http://iptv-line.com:7899/mariosnic@gmail.com/Orfeas2011/55464?play_token=30VWie30cD"
         },
         {
               "name": "NAT GOE PEOPLE",
-     "uri": "http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8"
+     "uri": "http://iptv-line.com:7899/mariosnic@gmail.com/Orfeas2011/55463?play_token=qyT789PG3l"
         },
         {
               "name": "NAT GOE",
-     "uri": "http://iptv-line.com:7899/live/irvinbrowne2/0kpiqBUW/55462.m3u8"
+     "uri": "http://iptv-line.com:7899/mariosnic@gmail.com/Orfeas2011/55462?play_token=dhBIPvI2XM"
         },
         {
                "name": "BBC EARTH",
@@ -651,7 +651,7 @@
         },
         {
                 "name": "DISCOVERY",
-     "uri": "http://103.47.132.164/PLTV/88888888/224/3221227169/index.m3u8"
+     "uri": "http://iptv-line.com:7899/mariosnic@gmail.com/Orfeas2011/110219?play_token=Oifbncalbb"
         },
         {
                 "name": "DISCOVERY ASIA",
@@ -663,7 +663,7 @@
         },
         {
                 "name": "LOVE NATURE",
-     "uri": "http://103.47.132.164/PLTV/88888888/224/3221227339/index.m3u8"
+     "uri": "http://myngx.space:8080/Lfv8AFa48Q/PIcxYJWNhA/15953?play_token=AUYxm6EiTM&token=TRJbBRZbF15GVwAGCwABUQJQXFEAAAJSV1NdB1paUwAPAVcABAVWUgBETxVKFUUDBV86WlxAD1NTWA1RFEBCEFNCbA0BEQ9GVVdXBAhDG0QQWwhWGlgEV19YCVYNVgRUGhJDDQERDwoRCg8bGwRPEgFAC1JUPVEHEAhbBxpYWRZaXB9GCl1qAAELAlldQw1EVRBJEVERRUBcD00OVE4VAV9EQQURVhdeChMPWxVDVAkRXBFBQUAPQCs4Gk4aB08XU15ADQpdF15GEhAVFUNeFTtAAEBMEFADCwRKQAJAB0EaEl4FHWxWCwoIBlRNCFgIFxBfEQlAGUALDlYLTA1FPEZZV0ZfXUAICBs="
         },
         {
                 "name": "SMITHSONIAN CHANNEL",
