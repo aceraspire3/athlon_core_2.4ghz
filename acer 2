@@ -1,6 +1,6 @@
  [
       {
-    "name": "MNC PLAY MOVIES",
+    "name": "MOVIES",
     "samples": [
       {
         "name": "HBO Signature",
@@ -101,7 +101,7 @@
     ]  
   },
   {
-    "name": "MNC PLAY KIDS",
+    "name": "KIDS",
     "samples": [      
       {
         "name": "Nick Jr.",
