@@ -430,8 +430,8 @@
      "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
-      }
-    ]
+         }
+       ]
       },
       {
          "name": "CARTOON",
@@ -499,7 +499,7 @@
              {
                     "name": "TEEN KIDS",
         "uri": "http://iptv-line.com:7899/live/yassinabarbie8/xvQmjCx4/45851.m3u8"
-               }
-             ]
-           }
-         ]
+             }
+           ]
+         }
+       ]
