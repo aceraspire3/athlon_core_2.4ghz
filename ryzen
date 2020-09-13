@@ -305,7 +305,7 @@
    ]
       },
       {
-    "name": "MOVIES 1",
+    "name": "MOVIES",
     "samples": [
        {
         "name": "HBO ASIA",
@@ -494,7 +494,7 @@
     ]
        },
        {
-    "name": "MOVIES 2",
+    "name": "MOVIES PREMIUM",
     "samples": [
       {
         "name": "HBO SIGNATURE",
