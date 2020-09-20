@@ -848,7 +848,7 @@
       },
       {
         "name": "Flik",
-        "uri": "http://103.148.77.27:80/eq2an5sme/752537/29592?token=QhBYV0dYRg4TCFYLWwJRBwRWVAsAW1VWAVECAlEFUQEOAFMEBQFSDQcaSBAQEEJXVQhvWgIbCVcAAQkDTRQUEVxAb19QEl4WCQldBlVGHBBADF1WRAMCUAAMBgJTBFJVFRBAX1ASXhYIC1QHQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTNVsPB00eEGJRXAFfXlVEfwIIUUtHDFETJFFXSxsYElMIQhMDTVcSDBYBVg0HGkgQAAtFXEAXSRFcG348GxgSVBlCBAxKW19YFgpGQEIaSBAKF29AURZEQQNYXgBLFgoTURRNQFRTSGlXXwpaVFsQWwwKQxAORwERShteClddRF4TaRELXRAKFAcHVQcTRQ=="
+        "uri": "http://tvku.live:8888/live/eq2an5sme/752537/29592.m3u8"
       },
       {
         "name": "SCTV",
@@ -861,10 +861,6 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "Eflik",
-        "uri": "http://mantul.biz.id:8888/live/randu/280520/228.m3u8"
       },
       {
         "name": "Muslim TV",
@@ -891,16 +887,8 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
       },
       {
-        "name": "Bioskop Indonesia",
-        "uri": "http://103.148.77.27:80/eq2an5sme/752537/908?token=QhBYV0dYRg4TD1NXUVMAVwMHBgIFCAIAXwNWAwQDU1MOCgRVAwgAV1caSBAQEEJXVQhvWgIbCVwJDBwTFEUEEGZbVBQOElwFCAxSEE9GRFtZABIJVwwKXQ8HAgFZAE1ASVtUFA4SXAAGGkgQBhxEV0YLUV85XVYTUFdVE1tYFA5VHhJZWm8AUVxZClZBXhICFkkSWhVJEV8bYF1fBEJNQm1XXFNfXwkUfFkIUxoXWVMUJ1hXSBsfR1tdREMAQgRAAxAJBAASSBZSVxFcFxZJEA5HfWpEFREAQUBVXxJfDgwbCBJCRxJIFlhLO0AGF0RAUQRdVhQbCUcJFhwTDFcZPVpdXlhRUxBdXlYXEFlGARAYR11cCFBHCktrQFgFFFtACwYADxZN"
-      },
-      {
         "name": "Dunia Lain",
         "uri": "http://tvku.live:8888/eq2an5sme/752537/910"
-      },
-      {
-        "name": "Cinema Indo",
-        "uri": "http://mantul.biz.id:8888/live/randu/280520/1195.m3u8"
       },
       {
         "name": "MNC Sports1",
@@ -913,10 +901,6 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-        "name": "Etv Indo",
-        "uri": "http://mantul.biz.id:8888/live/randu/280520/230.m3u8"
       },
       {
         "name": "Trans7",
