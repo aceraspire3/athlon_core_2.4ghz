@@ -32,14 +32,17 @@
       },
       {
         "name": "TV9",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8"
       },
       {
-        "name": "TV OKEY",
+        "name": "OKEY",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/okey.png",
       "uri": "https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
       },
       {
         "name": "DRAMA SANGAT",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dramasangat.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
       },
       {
