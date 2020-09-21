@@ -339,37 +339,43 @@
            "name": "UNIFI ANEKA",
             "samples": [
        {
-        "name": "TV1",
+        "name": "nTV1",
+		    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
       },
       {
-        "name": "TV2",
+        "name": "nTV2",
+		    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
       },
       {
-        "name": "TV3",
+        "name": "nTV3",
+		    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
       },
       {
-        "name": "NTV7",
+        "name": "nNTV7",
+		    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/ntv7.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
       },
       {
-        "name": "8TV",
+        "name": "n8TV",
+		    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/8tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
       },
       {
-        "name": "TV9",
+        "name": "nTV9",
+		    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
