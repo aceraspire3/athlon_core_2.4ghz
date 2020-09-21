@@ -4,45 +4,36 @@
     "samples": [
       {
         "name": "TV1",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",
-   "uri":
-"https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
+        "uri": "https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
       },
       {
         "name": "TV2",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
         "uri": "https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
       },
       {
         "name": "TV3",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
         "name": "NTV7",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/ntv7.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8"
       },
       {
         "name": "8TV",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/8tv.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8"
       },
       {
         "name": "TV9",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8"
       },
       {
         "name": "OKEY",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/okey.png",
       "uri": "https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
       },
       {
         "name": "DRAMA SANGAT",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dramasangat.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
       },
       {
