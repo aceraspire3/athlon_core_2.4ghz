@@ -332,10 +332,10 @@
         "uri": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJhZGhvY19UTGl2ZTAyX2Rhc2hfd2ViIiwiZmlsZXMiOiIyODA4NDQ5IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=RW3PNMNY89cAbise3cO0RNxzC84%3D&"
-      }
-    ] 
-       }, 
-       {
+        }
+      ] 
+   }, 
+   {
            "name": "UNIFI ANEKA",
             "samples": [
        {
@@ -772,10 +772,10 @@
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
 
-      }
-    ]
-      },
-      {
+       }
+     ]
+   },
+   {
     "name": "MNC PLAY MOVIES",
     "samples": [
       {
