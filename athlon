@@ -4,29 +4,62 @@
     "samples": [
       {
         "name": "TV1",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",
         "uri": "https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
       },
       {
         "name": "TV2",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
         "uri": "https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
       },
       {
         "name": "TV3",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
         "name": "NTV7",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/ntv7.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8"
       },
       {
         "name": "8TV",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/8tv.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8"
       },
       {
         "name": "TV9",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8"
+      },
+      {
+        "name": "ALHIJRAH",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/al-hijrah.png",
+        "uri": "http://62.210.127.217:8080/YmG5yCssDr/dV474W7xD9/28636?play_token=KJFOTpfPtB&token=QhVcUhcJRggXVANSV1EHDVEEDwdWAgAGUwFQUAJSAFUPBwVSBlIAUw1GGURBEkJRAFtpWgVEXlFdUgZXSkAXElxFa1oAQ14QAVwDVANeEhhDQl9eBEReUlNUBVdeVVBZCRsWQw0FRggXUwxfBkQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRANWCQRDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVwBSAQRDSw=="
+      },
+      {
+        "name": "SALAM HD",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/salam.png",
+        "uri": "http://62.210.124.97:8080/HzryZnS2Uk/tAgbXfn6jm/33248?play_token=sn9sHgr7mM&token=QhVcUhcJRggXAgZTVF8GAwcOBlVQVwJUXAcAWVcEAAVfVgUCU1FWAVdGGURBEkJRAFtpWgVEXlBWVgFZSkAXElxFa1oAQ14QAVAAVwBeEhhDQl9eBEReUlBdAFNSVFJWDxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
+      },
+      {
+        "name": "DUNIA SINEMA LINK 1",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png",
+        "uri": "http://62.210.127.217:8080/HzryZnS2Uk/tAgbXfn6jm/28681?play_token=B8Q7ezNeQb&token=QhVcUhcJRggXVQRWVwNTBwMGAQtTBV1UV1QNA1BaU1UAAgUCV1ABAlZGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QAVAAVwBeEhhDQl9eBEReUlBdAFNSVFFQCRsWQw0FRggXVwRfB1USGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBUAQNWFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRAFXCQdUFEs="
+      },
+      {
+        "name": "DUNIA SINEMA LINK 2",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png",
+        "uri": "http://iptvtree.net:8080/F11501/bb37235d/171969?play_token=lO3LOUgUPc?play_token=lO3LOUgUPc&token=ShUNAEFcElxEW1JTDwhWBwBQBQJTBgRcVAhbBwcAWAUIBQRSVlJSA1caGEZKTREDAFhpWAUVDwgBAFpUDk5DFkJSFz5bUBJcRA0BUQoOQUpDQV9cBBUPCAABU1UAUFNaBBtHEVtQElxECQBRAAtBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsLW1BTFxoTAlhAV0JDGkANQCMkExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORggJVV5UF0s="
+      },
+      {
+        "name": "SURIA",
+        "logo_uri": "https://www.mewatch.sg/blob/5180646/b04cd6919683462e1b8149b153d7a73e/suria-png-data.png",
+        "uri": "https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&"
       },
       {
         "name": "OKEY",
@@ -35,14 +68,6 @@
       {
         "name": "DRAMA SANGAT",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
-      },
-      {
-        "name": "DUNIA SINEMA LINK 1",
-        "uri": "http://62.210.127.217:8080/HzryZnS2Uk/tAgbXfn6jm/28681?play_token=B8Q7ezNeQb&token=QhVcUhcJRggXVQRWVwNTBwMGAQtTBV1UV1QNA1BaU1UAAgUCV1ABAlZGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QAVAAVwBeEhhDQl9eBEReUlBdAFNSVFFQCRsWQw0FRggXVwRfB1USGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBUAQNWFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRAFXCQdUFEs="
-      },
-      {
-        "name": "DUNIA SINEMA LINK 2",
-        "uri": "http://iptvtree.net:8080/F11501/bb37235d/171969?play_token=lO3LOUgUPc?play_token=lO3LOUgUPc&token=ShUNAEFcElxEW1JTDwhWBwBQBQJTBgRcVAhbBwcAWAUIBQRSVlJSA1caGEZKTREDAFhpWAUVDwgBAFpUDk5DFkJSFz5bUBJcRA0BUQoOQUpDQV9cBBUPCAABU1UAUFNaBBtHEVtQElxECQBRAAtBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsLW1BTFxoTAlhAV0JDGkANQCMkExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORggJVV5UF0s="
       },
       {
         "name": "CERIA LINK 1",
@@ -117,22 +142,8 @@
         "uri": "http://iptvtree.net:8080/f653192f/Ms3FtoRU2B/171986?play_token=0dlSthfD6X?play_token=0dlSthfD6X&token=ShUNAEFcElxECw1dDwEFU1UNB1NYD1cMBAUFVwQHVFZXBVdYAg0JVl8aGEZKTREDAFhpWAUVDwgBAFpaAU5DFkJSFz5bUBJcRA0CUw0IQUpDQV9cBBUPCAABU1UAU1RSAxtHEVtQElxECQZcCQBBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVVNYFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORgENWlVDSA=="
       },
       {
-        "name": "ALHIJRAH",
-        "uri": "http://62.210.127.217:8080/YmG5yCssDr/dV474W7xD9/28636?play_token=KJFOTpfPtB&token=QhVcUhcJRggXVANSV1EHDVEEDwdWAgAGUwFQUAJSAFUPBwVSBlIAUw1GGURBEkJRAFtpWgVEXlFdUgZXSkAXElxFa1oAQ14QAVwDVANeEhhDQl9eBEReUlNUBVdeVVBZCRsWQw0FRggXUwxfBkQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRANWCQRDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVwBSAQRDSw=="
-      },
-      {
-        "name": "SALAM HD",
-        "uri": "http://62.210.124.97:8080/HzryZnS2Uk/tAgbXfn6jm/33248?play_token=sn9sHgr7mM&token=QhVcUhcJRggXAgZTVF8GAwcOBlVQVwJUXAcAWVcEAAVfVgUCU1FWAVdGGURBEkJRAFtpWgVEXlBWVgFZSkAXElxFa1oAQ14QAVAAVwBeEhhDQl9eBEReUlBdAFNSVFJWDxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
-      },
-      {
         "name": "NAURA",
         "uri": "http://185.59.222.189:25461/2mdXxLFl74/XVdt0YLz2x/110159?play_token=dVApJkRITx&token=GRdRWUpbQV9BVQsHVwVSVlFYWQdXVFJTAQBTBAYHDQcAVgsBWAoBUVoRFEQQFxAGVQxnD1YVCVACU1UHCU8aRBFQS2dQV0FfQQIPXlBbWlQWTRoSW1pWQwlSUQsHUQsAUwIJFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
-      },
-      {
-        "name": "SURIA",
-        "uri": "https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&"
       }
     ]
      },
