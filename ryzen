@@ -34,17 +34,17 @@
       },
       {
         "name": "TV OKEY",
-      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/okey.png",
+      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Tv-Okey.png",
       "uri":"https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
       },
       {
         "name": "DRAMA SANGAT",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dramasangat.png",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Drama-Sangat.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
       },
       {
         "name": "SURIA",
-
+        "logo_uri": "https://www.mewatch.sg/blob/5180646/b04cd6919683462e1b8149b153d7a73e/suria-png-data.png",
         "uri": "http://188.40.76.108:25461/live/mytv01/uSIRzmks51/123.m3u8"
       },
       {
