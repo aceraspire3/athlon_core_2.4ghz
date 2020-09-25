@@ -34,12 +34,12 @@
       },
       {
         "name": "TV OKEY",
-      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Tv-Okey.png",
+      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/TvOkey.png",
       "uri":"https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
       },
       {
         "name": "DRAMA SANGAT",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Drama-Sangat.png",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/DramaSangat.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
       },
       {
@@ -79,7 +79,7 @@
       },
       {
           "name": "ASTRO CERIA 1",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Astro-Ceria.png",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/AstroCeria.png",
         "uri": "http://62.210.127.144:8080/vD6tKMnhx3/PmdzktRVXP/9618?play_token=iw1efN7zay&token=QhVcUhcJRggXUwxXAQQEVgNTVAdUXwEHB1UHVwIHBFRaDlBRUFYBAQ1GGURBEkJRAFtpWgVEXlpTVQ1NRBcRBEtoXVdGW0YFDV0NUwNEHBYVX1tWQ1xVVVVVBVNWUlJYFRVEWgBDXhAEVwJeA0QcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUA0NKRgoWFBdbCBcODRUVVloQEwVGUEYPRANQBAFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVAVUBQBDSw=="
       },
       {
