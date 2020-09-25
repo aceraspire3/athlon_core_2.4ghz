@@ -4,51 +4,78 @@
     "samples": [
       {
         "name": "TV1",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",
         "uri": "https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
       },
       {
         "name": "TV2",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
         "uri": "https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
       },
       {
         "name": "TV3",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
         "uri": "http://iptvtree.net:8080/f653192f/Ms3FtoRU2B/158360?play_token=z7MxGDfFmJ?play_token=z7MxGDfFmJ&token=ShUNAEFcElxEWlAAWl1SVFRUBgZZUVQJBQJXAw9WAFQGBwdTBgRRBV4aGEZKTREDAFhpWAUVDwgDCVBUB05DFkJSFz5bUBJcRA0CUw0IQUpDQV9cBBUPCAABU1EDWlFaAhtHEVtQElxECQZQDwtBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVF5UFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORggPUVFDSA=="
       },
       {
         "name": "NTV7",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/ntv7.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8"
       },
       {
         "name": "8TV",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/8tv.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8"
       },
       {
         "name": "TV9",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8"
       },
       {
         "name": "TV OKEY",
+      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/okey.png",
       "uri":"https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
       },
       {
         "name": "DRAMA SANGAT",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dramasangat.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
       },
       {
         "name": "SURIA",
+
         "uri": "http://188.40.76.108:25461/live/mytv01/uSIRzmks51/123.m3u8"
       },
       {
          "name": "HYPP SENSASI",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Hypp-Sensasi.png",
         "uri": "http://62.210.127.217:8080/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/28664?play_token=745P0pQkTj&token=QhVcUhcJRggXBVFXVl4EBlYHDgNWUQICVAdQVwVSUFkPUgUFVQUFCgFGGURBEkJRAFtpWgVEXlFdUgNVSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBZCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
       },
       {
           "name": "HYPP INSPIRASI",
+          "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/hypp-inspirasi.png",
           "uri": "http://85.203.33.120:25461/ZP2TRfbKjW/t9TY3rkNPR/174466?play_token=Vra6ZiPNtl&token=ShdcBRFREglDVVULVQJbVgYKCFYOCQdTAwBYAwNUXAAAAQZdUghTV1lGHxERR0tSUF5mClwbCQZRUQ0DAU4bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQUAVA8HCQIYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
       },
       {
         "name": "DUNIA SINEMA",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png",
         "uri": "http://62.210.127.217:8080/hR16y86CWH/RScw5CgSEU/28681?play_token=85NhByIDku&token=QhVcUhcJRggXVFZfBgIBBlQHDlFSAlNRBwACVANUW1AIVgBSVAQHV1RGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QAF0BVANXEhhDQl9eBEReUlNUBVZQVFNZCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
+      },
+      {
+        "name": "PESONA HD",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Pesona.png",
+        "uri": "http://iptv-line.com:7899/atoohonest19611/tGF8jFOR/55468"
+      },
+      {
+        "name": "SALAM HD",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/salam.png",
+        "uri": "http://62.210.124.97:8080/eDmbbhuyZq/xpFS1k7fPk/33248?play_token=wopcLk6vYg&token=QhVcUhcJRggXVVZTVgRSBFgBBgBWVQECVFANUgVSVgANBlFVXVBSVFFGGURBEkJRAFtpWgVEXlBWVgFZSkAXElxFa1oAQ14QAFIDUgpQEhhDQl9eBEReUlBdDVlTW1dWCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
+      },
+      {
+        "name": "AL HIJRAH",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/al-hijrah.png",
+        "uri": "http://185.59.222.189:25461/RLZfKX0UKw/XYSRI0ZNsX/110160?play_token=dCQ1idF2yk&token=GRdRWUpbQV9BAA9UU1FWBQQCW14FDwJXBwcCC1IGCQEGVw4BXwEAXQERFEQQFxAGVQxnD1YVCVACU1UEAE8aRBFQS2dQV0FfQQINUlNaUlQWTRoSW1pWQwlSUQsGUw8DUwUNFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
       },
       {
           "name": "ASTRO CERIA 1",
@@ -115,14 +142,6 @@
         "uri": "http://iptvtree.net:8080/13354/27c12697/171986?play_token=xB1IL6izyr&token=ShUNAEFcElxEWQwBDQoHBVFTAFIHAAENAFBUVwMGBwYIVANTB1YBUVYaGEZKTREDAFhpWAUVDwgBAFpaAU5DFkJSFz5bUBJcRA0FUA0LQUpDQV9cBBUPCAMIWlUOUFhTCBtHEVtQElxECgBTDgBBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVVFXFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1FAG0AMDF9eEQ5Aa0APAhoORgEBUlJDSA=="
       },
       {
-        "name": "PESONA HD",
-        "uri": "http://iptv-line.com:7899/atoohonest19611/tGF8jFOR/55468"
-      },
-      {
-        "name": "Al HIJRAH",
-        "uri": "http://185.59.222.189:25461/RLZfKX0UKw/XYSRI0ZNsX/110160?play_token=dCQ1idF2yk&token=GRdRWUpbQV9BAA9UU1FWBQQCW14FDwJXBwcCC1IGCQEGVw4BXwEAXQERFEQQFxAGVQxnD1YVCVACU1UEAE8aRBFQS2dQV0FfQQINUlNaUlQWTRoSW1pWQwlSUQsGUw8DUwUNFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
-      },
-      {
         "name": "ASTRO BOO HD 1",
         "uri": "http://iptvtree.net:8080/13319/d3238650/171958?play_token=3hGQ2n0FzM&token=ShUNAEFcElxEAVBRCV1RVAMDAABSBVdaAQZQBwcHVQBVBVNSUFcAUVIaGEZKTREDAFhpWAUVDwgBAFpXD05DFkJSFz5bUBJcRA0EVwEOQUpDQV9cBBUPCAMIWlQGU1lRARtHEVtQElxECQRXDg1BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIUl5TFxoTAlhAV0JDGkANQCMkExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORgsKVVNTF0s="
       },
@@ -133,10 +152,6 @@
       {
         "name": "ASTRO NAURA",
         "uri":  "http://185.59.222.189:25461/RLZfKX0UKw/XYSRI0ZNsX/110159?play_token=Kp2PbL7NP1&token=GRdRWUpbQV9BBgwHUlNQVgFYC1JRDgtXV1BRBAUBCgRVAQAOCAMHVwERFEQQFxAGVQxnD1YVCVACU1UHCU8aRBFQS2dQV0FfQQINUlNaUlQWTRoSW1pWQwlSUQsGUw8AWwIAFBtDCgFBCRpUUFJXWxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFIDUAtEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFsFVRob"
-      },
-      {
-        "name": "SALAM HD",
-        "uri": "http://62.210.124.97:8080/eDmbbhuyZq/xpFS1k7fPk/33248?play_token=wopcLk6vYg&token=QhVcUhcJRggXVVZTVgRSBFgBBgBWVQECVFANUgVSVgANBlFVXVBSVFFGGURBEkJRAFtpWgVEXlBWVgFZSkAXElxFa1oAQ14QAFIDUgpQEhhDQl9eBEReUlBdDVlTW1dWCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
       },
       {
         "name": "ASTRO AWANI",
