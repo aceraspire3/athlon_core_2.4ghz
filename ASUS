@@ -392,9 +392,54 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      }
+    ]
       },
-
-
+      {
+         "name": "KIDS",
+         "samples": [
+      {
+        "name": "DREAMWORK HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "NICK JR.",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nick-jr.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "CBEEBIES HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cbeebies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {           
+		"name": "NICKELODEON",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nickelodeon.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "BOOMERANG HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/boomerang.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "BABYTV",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      }
 
     ]
         },
