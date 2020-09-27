@@ -80,11 +80,19 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "PESONA HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Pesona.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+        "name": "TV OKEY",
+      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/TvOkey.png",
+      "uri":"https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
+      },
+      {
+        "name": "DRAMA SANGAT",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/DramaSangat.png",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
+      },
+
+
+
+
      }
     ]
   },
