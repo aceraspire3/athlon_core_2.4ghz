@@ -46,6 +46,10 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
+        "name": "ANIPLUS",
+        "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110266"
+      },
+      {
         "name": "ANIMAX",
         "uri": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
         "drm_scheme": "widevine",
