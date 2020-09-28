@@ -34,12 +34,12 @@
       },
       {
         "name": "TV OKEY",
-      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/TvOkey.png",
+      "logo_uri": "https://freeview.github.io/logos/okey.png",
       "uri":"https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
       },
       {
         "name": "DRAMA SANGAT",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/DramaSangat.png",
+        "logo_uri": "https://freeview.github.io/logos/dramasangat.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
       },
       {
@@ -78,80 +78,99 @@
         "uri": "http://185.246.210.115:25461/hHQcyglr3i/DsIXstfyTnisshared/55472?token=GRdRWUpbQV9BCg1XU1JSBQ0HDl4FBgAHB1AFAFNbDwVUBg5aCApbUlYRFEQQFxAGVQxnD1YVCVQGV1MAHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMBVQ0AVwAVGklaB0dZEQlfVlJQVBZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFEHWQBEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUVEDUwtTEEo="
       },
       {
+        "name": "ASTRO NAURA",
+        "logo_uri": "https://freeview.github.io/logos/naura.png",
+        "uri":  "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110159?token=GRdRWUpbQV9BUA9fBwZRW1JTDgJQDgcCClMABglRAQBWBF0LXFAAVVERFEQQFxAGVQxnD1YVCVACU1UHCU8aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg4EUg0KFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
+      },
+      {
           "name": "ASTRO CERIA 1",
+          "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/F11664/1704fb2b/157481?play_token=x5uwQTLHSh"
       },
       {
           "name": "ASTRO CERIA 2",
+          "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110228?play_token=hOTKI9qzX0"
       },
       {
         "name": "ASTRO OASIS 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110157?token=GRdRWUpbQV9BUghfV1ZUWlYEWV9UDwoCV1ZTBAdRDwcBAgBaWwFXUVMRFEQQFxAGVQxnD1YVCVACU1UHB08aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg4FWgwOFBtDCgFBCRpXUFRbUhZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVwlEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1IHUg1ETw=="
       },
       {
         "name": "ASTRO OASIS 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/F11664/1704fb2b/157489?play_token=gg2FGCFzDw"
       },
       {
         "name": "ASTRO WARNA 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110158?play_token=YHb1uMvSBg"
       },
       {
         "name": "ASTRO WARNA 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157492?play_token=BQFceXMXzH?play_token=BQFceXMXzH&token=ShUNAEFcElxEWgEADg5VBFUNBgBUVQZYAAcFVQdQBVVXUldSBgECU1EaGEZKTREDAFhpWAUVDwgDBldbBU5DFkJSFz5bUBJcRAwBUw0OQUpDQV9cBBUPCAABU1QAWlNaCBtHEVtQElxECgdUDQ9BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVVJWFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORggIW1RXF0s="
       },
       {
         "name": "ASTRO RIA 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110155?token=GRdRWUpbQV9BUABeVwUDVwBVC1NTAwdUV1tRCgUGAANRDFxZDFUBB1ERFEQQFxAGVQxnD1YVCVACU1UHBU8aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg4FVAUKFBtDCgFBCRpUVltVQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaUlFWVkFJ"
       },
       {
         "name": "ASTRO RIA 2",
+         "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110155?play_token=UXV18MQ1Dk"
       },
       {
         "name": "ASTRO CITRA 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptv-line.com:7899/htlbdi4E5n/g5HfRs97Y7/110270?token=GRdRWUpbQV9BVVxRUVpSBQMAXFcLBVdXBgdSAAJUCQYABwBeW1EGXVARFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQIAVlNbVFAWTRoSW1pWQwlSUgIAVwADWwUNFBtDCgFBCRpUVlJQVRZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFIAUQ9EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFYFUQlETw=="
       },
       {
         "name": "ASTRO CITRA 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110270?token=GRdRWUpbQV9BVg9TUABTUwxRCgVQA1AHC1RQCgACXlJaU1heDgIHB1MRFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg4FWwMIFBtDCgFBCRpUVFdTURZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZDBZYDRREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFFUUVQGQ0U="
       },
       {
         "name": "ASTRO PRIMA 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157467?play_token=szH1jWfxOj?play_token=szH1jWfxOj&token=ShUNAEFcElxECQVQCApSUgdTDwNWAAxcB1JXV1VSBwICAgFQCwxWBwAaGEZKTREDAFhpWAUVDwgDBldUAE5DFkJSFz5bUBJcRAwBUw0OQUpDQV9cBBUPCAABU1QAWlVRCRtHEVtQElxECQFTDglBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVVNRFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORgwIW0Qc"
       },
       {
         "name": "ASTRO PRIMA 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/F11664/1704fb2b/157467?play_token=jFOs6rstAS"
       },
       {
         "name": "ASTRO RANIA 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/171984?play_token=yXZMsAb7qk?play_token=yXZMsAb7qk&token=ShUNAEFcElxEWVEGWwpTUVMBUAgHVVNfU1MCVVZSWQJSA1wHUQwCX18aGEZKTREDAFhpWAUVDwgBAFpaA05DFkJSFz5bUBJcRAwBUw0OQUpDQV9cBBUPCAABU1QAWlZUARtHEVtQElxECQZXCw9BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVVVSFxoTAlhAV0JDGkANQCMkExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORggLV1FDSA=="
       },
       {
         "name": "ASTRO RANIA 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://85.203.33.120:25461/ix0CrC6K5S/bSyblbESqM/174348?play_token=AfGGqkAKZR&token=ShdcBRFREglDBwtWAFFaDwBWCFsPCFBVBQQAAFEGDgMFBwEABw8HBARGHxERR0tSUF5mClwbCQZRUQoBD04bRUJQRjsLXRIJQ1AGA1QDDRUdEU0KVVwRDVdTCQUAUQoIAAAYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
       },
       {
         "name": "ASTRO AURA 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://85.203.33.120:25461/ix0CrC6K5S/bSyblbESqM/174350?play_token=cJ9WD3OqMO&token=ShdcBRFREglDBgVQAQYKVAIACFAPXAFWBVBfBVIDAAMBUwRUVQACC1BGHxERR0tSUF5mClwbCQZRUQoAB04bRUJQRjsLXRIJQ1AGA1QDDRUdEU0KVVwRDVdTCQUAUQoIBAYYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
       },
       {
         "name": "ASTRO AURA 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://85.203.33.120:25461/ZP2TRfbKjW/t9TY3rkNPR/174350?play_token=4W8WlIMzHh&token=ShdcBRFREglDAQNQVQJdBwECCwUIDAMFB1UKVg4AC1EAVwQGAVxTUlJGHxERR0tSUF5mClwbCQZRUQoAB04bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQQHVQEJBwMYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
       },
       {
         "name": "ASTRO BOO HD 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/13319/d3238650/171958?play_token=3hGQ2n0FzM&token=ShUNAEFcElxEAVBRCV1RVAMDAABSBVdaAQZQBwcHVQBVBVNSUFcAUVIaGEZKTREDAFhpWAUVDwgBAFpXD05DFkJSFz5bUBJcRA0EVwEOQUpDQV9cBBUPCAMIWlQGU1lRARtHEVtQElxECQRXDg1BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIUl5TFxoTAlhAV0JDGkANQCMkExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORgsKVVNTF0s="
       },
       {
         "name": "ASTRO BOO HD 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/f653192f/Ms3FtoRU2B/171958?play_token=mZoXNwTP9P?play_token=mZoXNwTP9P&token=ShUNAEFcElxEAFFSXABWBwIMDlIDU1cNVQNUUwQBVAEGBAEAVgEABFUaGEZKTREDAFhpWAUVDwgBAFpXD05DFkJSFz5bUBJcRA0CUw0IQUpDQV9cBBUPCAABU1QPVlNbABtHEVtQElxECgBRCg5BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIUlZXFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORgsKVVNTF0s="
-      },
-      {
-        "name": "ASTRO NAURA",
-        "uri":  "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110159?token=GRdRWUpbQV9BUA9fBwZRW1JTDgJQDgcCClMABglRAQBWBF0LXFAAVVERFEQQFxAGVQxnD1YVCVACU1UHCU8aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg4EUg0KFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
       },
       {
         "name": "ASTRO AWANI",
@@ -226,43 +245,85 @@
     "samples": [
         {
         "name": "INDOSIAR",
+         "logo_uri": "https://freeview.github.io/logos/indosiar.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        },
        {
         "name": "RCTI",
+         "logo_uri": "https://freeview.github.io/logos/rcti.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        },
        {
         "name": "GLOBAL TV",
+        "logo_uri": "https://freeview.github.io/logos/gtv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        },
        {
         "name": "MNC TV",
+        "logo_uri": "https://freeview.github.io/logos/mnc.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
         },
         {
         "name": "MNC ENT",
+        "logo_uri": "https://freeview.github.io/logos/mnc.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        },
        {
         "name": "TRANSTV",
+        "logo_uri": "https://freeview.github.io/logos/transtv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
+        "name": "TRANS7",
+        "logo_uri": "https://freeview.github.io/logos/trans7.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
         "name": "SCTV",
+        "logo_uri": "https://freeview.github.io/logos/sctv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "RTV",
+        "logo_uri": "https://freeview.github.io/logos/rtv.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "ANTV",
+         "logo_uri": "https://freeview.github.io/logos/antv.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "NET TV",
+        "logo_uri": "https://i.postimg.cc/8P8JP5D0/VYej-Q0y-400x400.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "TVRI",
+        "logo_uri": "https://i.postimg.cc/8P8JP5D0/VYej-Q0y-400x400.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/TVRI/sa_dash_vmx/TVRI.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
@@ -291,38 +352,8 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"  
       }, 
       {
-        "name": "TRANS7",
-        "uri": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
         "name": "MUSIC TV",
         "uri": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "RTV",
-        "uri": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "ANTV",
-        "uri": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "NET TV",
-        "uri": "https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "TVRI",
-        "uri": "https://liveanevia.mncnow.id/live/eds/TVRI/sa_dash_vmx/TVRI.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       }
