@@ -63,86 +63,107 @@
       },
       {
         "name": "OKEY",
+        "logo_uri": "https://freeview.github.io/logos/okey.png",
         "uri": "https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
       },
       {
         "name": "DRAMA SANGAT",
+        "logo_uri": "https://freeview.github.io/logos/dramasangat.png",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
       },
       {
         "name": "CERIA LINK 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/test-4cdcbd/1752/157481?play_token=HAqn1irtco?play_token=HAqn1irtco&token=ShUNAEFcElxEDFBUXF1XAAMHUgNTUgUKAgACAA4HWFFUAVFSAlICVQcaGEZKTREDAFhpWAUVDwgDBldaBk5DFkJSFz5bUBJcRAkBVgENQUpDQV9cBBUPCAABU1UBVVJRCBtHEVtQElxECgBcDwBBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVVJUFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORgsBUldTF0s="
       },
       {
         "name": "CERIA LINK 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://185.59.222.189:25461/onNp5Tvl93/InG18Qk86v/110228?token=GRdRWUpbQV9BBwkHVVoHWgUHCQUCB1JYCgYFVAZUCARbDAsBW1AFA1IRFEQQFxAGVQxnD1YVCVACU1YACE8aRBFQS2dQV0FfQQEIVlBXV1cWTRoSW1pWQwlSUgIBUg8GWgUJFBtDCgFBCRpXUFZaURZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZDBZYDRREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJQV1QGQ0U="
       },
       {
         "name": "OASIS LINK 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://185.59.222.189:25461/onNp5Tvl93/InG18Qk86v/110157?token=GRdRWUpbQV9BC14AVlVUVwBUCl5XVQYHBFpdBwlaXQEGBg8KDgFVXAARFEQQFxAGVQxnD1YVCVACU1UHB08aRBFQS2dQV0FfQQEIVlBXV1cWTRoSW1pWQwlSUgIBUg8GWgILFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
       },
       {
         "name": "OASIS LINK 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://185.59.222.189:25461/liviu1211/DkpoMEj7/110157?token=GRdRWUpbQV9BBFsHVgBbVFIEDVRRAgcFAAFcAAhXCFMEVA5bWAtXXQURFEQQFxAGVQxnD1YVCVACU1UHB08aRBFQS2dQV0FfQQIPUVZWW1AWTRoSW1pWQwlSUgIBUwwIUQcIFBtDCgFBCRpUWlBTVRZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICUABEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFoGVgFETw=="
       },
       {
         "name": "WARNA LINK 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/test-4cdcbd/1752/157492?play_token=Tz4hsfc4Wy?play_token=Tz4hsfc4Wy&token=ShUNAEFcElxEW1AAAVxaVVgDBFACAAEOAwgHU1MAUwcBUldYClZWVlAaGEZKTREDAFhpWAUVDwgDBldbBU5DFkJSFz5bUBJcRAkBVgENQUpDQV9cBBUPCAABU1UBVVdTAhtHEVtQElxEDAddDRtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggPVlZDGRRSDkJbTURIQVgVMDRBHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdREBgSCwdAawdWVw0DAkFfXg9EFwMUAEFOFQ8ODVhDChNtRFkCRAIWVQgBUVBDSA=="
       },
       {
         "name": "WARNA LINK 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110158?play_token=sPo5Ld0A85"
       },
       {
         "name": "RIA LINK 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/158347?play_token=VWTvpu1clm&token=ShUNAEFcElxECAEFWApRA1UAB1MCVAUNAgJXUwIAUAUHB11UAFVTUgcaGEZKTREDAFhpWAUVDwgDCVBWAE5DFkJSFz5bUBJcRA4CVgwMQUpDQV9cBBUPCAABUlMGUFJQBhtHEVtQElxECgxUDgpBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVVJXFxoTAlhAV0JDGkANQCMkExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORg4PVkQc"
       },
       {
         "name": "RIA LINK 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110155?play_token=28P3XRD4jY"
       },
       {
         "name": "CITRA LINK 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/157569?play_token=2TTBylZBDv?play_token=2TTBylZBDv&token=ShUNAEFcElxEDQNRCl0CVlYCBFBVAwILAQhaVQYEBwUFBlECUVcFUVcaGEZKTREDAFhpWAUVDwgDBlZUDk5DFkJSFz5bUBJcRA4CVgwMQUpDQV9cBBUPCAABUlMGUFNSCRtHEVtQElxECQFcAQ1BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIUFVRFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORggMW1VRF0s="
       },
       {
         "name": "CITRA LINK 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptv-line.com:7899/htlbdi4E5n/g5HfRs97Y7/110270?token=GRdRWUpbQV9BVVkFVFYGUgQACF4KAgNVBFVWBgFaAAZaBQhdCFBTUFMRFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQIAVlNbVFAWTRoSW1pWQwlSUgIAUQ4JWgUAFBtDCgFBCRpXVFBVVxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFIMUQhEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFIMVwpETw=="
       },
       {
         "name": "PRIMA LINK 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157467?play_token=yCBah29kX4&token=ShUNAEFcElxEDgRTCg4BBAQHAwFXUVEJBwFUBAIDBAZVD1YHVFJSUwAaGEZKTREDAFhpWAUVDwgDBldUAE5DFkJSFz5bUBJcRAwBUw0OQUpDQV9cBBUPCAABU1QAWlRbCBtHEVtQElxECQFTDglBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVVdWFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORgwIW0Qc"
       },
       {
         "name": "PRIMA LINK 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110156"
       },
       {
         "name": "BOO LINK1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/test-edd59f/329a/171958?play_token=CL4l0NY0eb&token=ShUNAEFcElxEXgVRDApUA1ACUgQFBwUIBFNSWwJbAwdXBwYCUwACXgUaGEZKTREDAFhpWAUVDwgBAFpXD05DFkJSFz5bUBJcRA4EXQ0MQUpDQV9cBBUPCAMIWlsOUFZQCRtHEVtQElxEDQxWDxtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggIWlRDGRRSDkJbTURIQVgVMDRBHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdREBgSCwdAawdWVw0DAkFfXg9EFwMUAEFOFQ8ODVhDChNtRFkCRAIWVgoPVlRDSA=="
       },
       {
         "name": "BOO LINK 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/f653192f/Ms3FtoRU2B/171958?play_token=HXk8PqscEQ?play_token=HXk8PqscEQ&token=ShUNAEFcElxEDwJdWwBaUFVTBgcDDlBfBQACU1IHWFQCBAAACg0IXlAaGEZKTREDAFhpWAUVDwgBAFpXD05DFkJSFz5bUBJcRA0CUw0IQUpDQV9cBBUPCAABUlIDW1daBxtHEVtQElxECgVWCxtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggIUVZDGRRSDkJbTURIQVgVICZBHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdREBgSCwdAawdWVw0DAkFfXg9EFwMUAEFOFQ8ODVhDChNtRFkCRAIWVw8MUEQc"
       },
       {
         "name": "RANIA LINK 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://85.203.33.120:25461/OaLkW3zPlF/61PxvWL7HJ/174348?play_token=uL60C25GwH&token=ShdcBRFREglDV1UCVwEKVVNVAFYPXAdTUQcPDFFTXAEEBw1TBA4CClVGHxERR0tSUF5mClwbCQZRUQoBD04bRUJQRjsLXRIJQ1ADA1UFCxUdEU0KVVwRDVdQAAMAUAwGAwMYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
       },
       {
         "name": "RANIA LINK 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/f653192f/Ms3FtoRU2B/171984?play_token=FZMbcfnGel?play_token=FZMbcfnGel&token=ShUNAEFcElxEAQdQXAwCVVEFV1JRUlQJUgABVQBRAAYHBl1RUQAGUgIaGEZKTREDAFhpWAUVDwgBAFpaA05DFkJSFz5bUBJcRA0CUw0IQUpDQV9cBBUPCAABUlIDW1lVCBtHEVtQElxECgxdCRtPRARNQlQTWVRVaVUGFF4BBEELWRANXhgSCQhnUAFUWA0CQw8UAUMbF1BFQUFYWRcNDx0VBwhGRlESAxoORggOUlNDGRRSDkJbTURIQVgVICZBHRUAGUZRXhUPV1pGAxsXFUMZFFgSaEdcRUURB1YPBBETDUdREBgSCwdAawdWVw0DAkFfXg9EFwMUAEFOFQ8ODVhDChNtRFkCRAIWVgEPUkQc"
       },
       {
         "name": "AURA LINK 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://85.203.33.120:25461/OaLkW3zPlF/61PxvWL7HJ/174350?play_token=fpNFL9fmOU&token=ShdcBRFREglDXFUFBgBaVAIDAQEBDgQGUwYIAQRSWFQDVlIHVwAABlVGHxERR0tSUF5mClwbCQZRUQoAB04bRUJQRjsLXRIJQ1ADA1UFCxUdEU0KVVwRDVdQAAMAUAwGAgIYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
       },
       {
         "name": "AURA LINK 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/f653192f/Ms3FtoRU2B/171986?play_token=0dlSthfD6X?play_token=0dlSthfD6X&token=ShUNAEFcElxECw1dDwEFU1UNB1NYD1cMBAUFVwQHVFZXBVdYAg0JVl8aGEZKTREDAFhpWAUVDwgBAFpaAU5DFkJSFz5bUBJcRA0CUw0IQUpDQV9cBBUPCAABU1UAU1RSAxtHEVtQElxECQZcCQBBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVVNYFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORgENWlVDSA=="
       },
       {
         "name": "NAURA",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://185.59.222.189:25461/2mdXxLFl74/XVdt0YLz2x/110159?play_token=dVApJkRITx&token=GRdRWUpbQV9BVQsHVwVSVlFYWQdXVFJTAQBTBAYHDQcAVgsBWAoBUVoRFEQQFxAGVQxnD1YVCVACU1UHCU8aRBFQS2dQV0FfQQIPXlBbWlQWTRoSW1pWQwlSUQsHUQsAUwIJFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
       }
     ]
@@ -152,63 +173,90 @@
     "samples": [
       {
         "name": "Indosiar",
+         "logo_uri": "https://freeview.github.io/logos/indosiar.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "Citra Dangdut",
-        "uri": "http://tvku.live:8888/eq2an5sme/752537/2207"
-      },
-      {
-        "name": "Citra Drama",
-        "uri": "http://tvku.live:8888/eq2an5sme/752537/905"
-      },
-      {
-        "name": "IMC",
-        "uri": "http://tvku.live:8888/eq2an5sme/752537/1483"
-      },
-      {
-        "name": "Flik",
-        "uri": "http://tvku.live:8888/live/eq2an5sme/752537/29592.m3u8"
-      },
-      {
-        "name": "Dunia Lain",
-        "uri": "http://tvku.live:8888/live/eq2an5sme/752537/910.m3u8"
-      },
-      {
         "name": "RCTI",
+         "logo_uri": "https://freeview.github.io/logos/rcti.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Global TV",
+        "logo_uri": "https://freeview.github.io/logos/gtv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "MNC TV",
+        "logo_uri": "https://freeview.github.io/logos/mnc.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "MNC Ent",
+        "logo_uri": "https://freeview.github.io/logos/mnc.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "TransTV",
+        "logo_uri": "https://freeview.github.io/logos/transtv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "SCTV",
+        "logo_uri": "https://freeview.github.io/logos/sctv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "TVRI",
+        "logo_uri": "https://i.postimg.cc/8P8JP5D0/VYej-Q0y-400x400.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/TVRI/sa_dash_vmx/TVRI.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Trans7",
+        "logo_uri": "https://freeview.github.io/logos/trans7.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "RTV",
+        "uri": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ANTV",
+        "logo_uri": "https://freeview.github.io/logos/rtv.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Net TV",
+        "logo_uri": "https://freeview.github.io/logos/antv.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Music TV",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
@@ -243,52 +291,24 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "MNC Sports1",
-        "uri": "https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "name": "Citra Dangdut",
+        "uri": "http://tvku.live:8888/eq2an5sme/752537/2207"
       },
       {
-        "name": "MNC Sports2",
-        "uri": "https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "name": "Citra Drama",
+        "uri": "http://tvku.live:8888/eq2an5sme/752537/905"
       },
       {
-        "name": "Trans7",
-        "uri": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "name": "IMC",
+        "uri": "http://tvku.live:8888/eq2an5sme/752537/1483"
       },
       {
-        "name": "Music TV",
-        "uri": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "name": "Flik",
+        "uri": "http://tvku.live:8888/live/eq2an5sme/752537/29592.m3u8"
       },
       {
-        "name": "RTV",
-        "uri": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
-        "name": "ANTV",
-        "uri": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
-        "name": "Net TV",
-        "uri": "https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
-        "name": "TVRI",
-        "uri": "https://liveanevia.mncnow.id/live/eds/TVRI/sa_dash_vmx/TVRI.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "name": "Dunia Lain",
+        "uri": "http://tvku.live:8888/live/eq2an5sme/752537/910.m3u8"
       }
     ]
   },
@@ -358,61 +378,71 @@
         "samples": [
       {
         "name": "HBO Signature",
+        "logo_uri": "https://i.postimg.cc/v8fJTSwn/400x400-3hbo-signature.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "HBO",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
-        "name": "Cinemax",
-        "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_dash_vmx/CinemaxHD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
-        "name": "HBO Family",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
         "name": "HBO Hits",
+        "logo_uri": "https://s15.postimg.cc/g7oiuikkr/hbo_hits.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "Hits Movies",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
+        "name": "HBO Family",
+        "logo_uri": "https://s26.postimg.cc/ajgw5ibk9/400x400_35fox_family_movies.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "HBO",
+        "logo_uri": "https://s11.postimg.cc/ybnoc9ir7/400x400_38hbo_hd.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "FOX Movies",
+        "logo_uri": "https://s26.postimg.cc/67sagi4nd/400x400_15fox_movies.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Fox Family Movies",
+        "logo_uri": "https://s26.postimg.cc/ajgw5ibk9/400x400_35fox_family_movies.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Fox Action Movies",
+        "logo_uri": "https://s26.postimg.cc/ripukrmrt/400x400_71fox_action_movies.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
+        "name": "Cinemax",
+        "logo_uri": "https://i.postimg.cc/Hx2xtJSy/cinemax.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_dash_vmx/CinemaxHD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
         "name": "Star Chinese Movie",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Star Chinese Legend",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
@@ -441,8 +471,8 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "Star Chinese Legend",
-        "uri": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd",
+        "name": "Hits Movies",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
@@ -713,6 +743,18 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
+        "name": "MNC Sports1",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MNC Sports2",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
         "name": "Fight Sports",
         "uri": "https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd",
         "drm_scheme": "widevine",
@@ -880,6 +922,7 @@
       },
       {
         "name": "And PicsHD",
+        "logo_uri": "https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png",
         "uri": "http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54091?token=GRdRWUpbQV9BVVoCBlIHVlFSDF8DVlUAUVJWVABTDQFVUQ8BWAEAXAcRFEQQFxAGVQxnD1YVCVQHU10DHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkJWwcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
       },
       {
