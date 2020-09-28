@@ -236,20 +236,21 @@
       },
       {
         "name": "RTV",
+        "logo_uri": "https://freeview.github.io/logos/rtv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "ANTV",
-        "logo_uri": "https://freeview.github.io/logos/rtv.png",
+        "logo_uri": "https://freeview.github.io/logos/antv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Net TV",
-        "logo_uri": "https://freeview.github.io/logos/antv.png",
+        "logo_uri": "https://i.postimg.cc/8P8JP5D0/VYej-Q0y-400x400.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
