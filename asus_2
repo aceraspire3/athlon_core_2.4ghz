@@ -182,30 +182,35 @@
           "samples": [      
         {
         "name": "FOX SPORTS 1",
+        "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "FOX SPORTS 2",
+        "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "FOX SPORTS 3",
+        "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "BEIN SPORTS 1",
+        "logo_uri": "https://s4.postimg.cc/m171drj19/bein-sports-400.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "BEIN SPORTS 2",
+        "logo_uri": "https://s4.postimg.cc/m171drj19/bein-sports-400.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
@@ -258,24 +263,28 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
           },
           {
-                "name": "ASTRO ARENA",
-   "uri": "http://iptvtree.net:8080/13477/38364ab9/157485?play_token=PO764g7No3"
-          },
-          {
                 "name": "ASTRO SUPERSPORTS 1",
+    "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
    "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110252?token=GRdRWUpbQV9BBwFUAQYBUQ0CXlIGAQoCBAJUBwdSCANWUAlZDQBWAwYRFEQQFxAGVQxnD1YVCVACU1YHAk8aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg8CVQAKFBtDCgFBCRpXVFBXVRZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFIDUwhEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFADVAFETw=="
           },
           {
                  "name": "ASTRO SUPERSPORTS 2",
+   "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
    "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110253?token=GRdRWUpbQV9BBV4ABwFXVlIEDQcKVgpXAlUFUFUFW1BbBQ1aCQEBV1IRFEQQFxAGVQxnD1YVCVACU1YHA08aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg8CWgEMFBtDCgFBCRpXVFBbVxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVQxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1EEUQxETw=="
           },
           {
                  "name": "ASTRO SUPERSPORTS 3",
+   "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
    "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110254"
           },
           {
                   "name": "ASTRO SUPERSPORTS 4",
+   "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
    "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110255"
+           },
+           {
+                "name": "ASTRO ARENA",
+   "uri": "http://iptvtree.net:8080/13477/38364ab9/157485?play_token=PO764g7No3"
       }
     ]  
   }
