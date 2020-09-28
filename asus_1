@@ -91,6 +91,7 @@
       },
       {
           "name": "ASTRO CERIA",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.ceria,png",
         "uri": "http://iptvtree.net:8080/F11664/1704fb2b/157481?play_token=x5uwQTLHSh"
       },
       {
@@ -115,10 +116,12 @@
       },
       {
         "name": "ASTRO PRIMA",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110156"
       },
       {
         "name": "ASTRO BOO HD",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/F11664/1704fb2b/171958?play_token=ZKXS9CNWnG"
       }
     ]
@@ -142,30 +145,35 @@
       },
       {
         "name": "GLOBAL TV",
+        "logo_uri": "https://freeview.github.io/logos/gtv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "MNC TV",
+        "logo_uri": "https://freeview.github.io/logos/mnc.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "MNC ENT",
+        "logo_uri": "https://freeview.github.io/logos/mnc.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "TRANS TV",
+        "logo_uri": "https://freeview.github.io/logos/transtv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "SCTV",
+        "logo_uri": "https://freeview.github.io/logos/sctv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
@@ -190,6 +198,7 @@
       },
       {
         "name": "TRANS7",
+        "logo_uri": "https://freeview.github.io/logos/trans7.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
@@ -202,24 +211,28 @@
       },
       {
         "name": "RTV",
+        "logo_uri": "https://freeview.github.io/logos/rtv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "ANTV",
+        "logo_uri": "https://freeview.github.io/logos/antv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "NET TV",
+        "logo_uri": "https://i.postimg.cc/8P8JP5D0/VYej-Q0y-400x400.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "TVRI",
+        "logo_uri": "https://freeview.github.io/logos/tvri.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/TVRI/sa_dash_vmx/TVRI.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
