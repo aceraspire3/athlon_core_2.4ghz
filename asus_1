@@ -81,12 +81,12 @@
       },
       {
         "name": "TV OKEY",
-      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/TvOkey.png",
+      "logo_uri": "https://freeview.github.io/logos/okey.png",OKEY",
       "uri":"https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
       },
       {
         "name": "DRAMA SANGAT",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/DramaSangat.png",
+        "logo_uri": "https://freeview.github.io/logos/dramasangat.png",Drama Sangat",
         "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
       },
       {
@@ -95,18 +95,22 @@
       },
       {
         "name": "ASTRO OASIS",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",Oasis",
         "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110157?token=GRdRWUpbQV9BUghfV1ZUWlYEWV9UDwoCV1ZTBAdRDwcBAgBaWwFXUVMRFEQQFxAGVQxnD1YVCVACU1UHB08aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg4FWgwOFBtDCgFBCRpXUFRbUhZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVwlEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1IHUg1ETw=="
       },
       {
         "name": "ASTRO WARNA",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",Warna",
         "uri": "http://85.203.33.120:25461/ZP2TRfbKjW/t9TY3rkNPR/174506?play_token=v9pyidzlvb&token=ShdcBRFREglDBgEBBAEKUlAFXwJdWwpVVlMKAQUECglTBFdVAFsGV1lGHxERR0tSUF5mClwbCQZRUQwFAU4bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQUAVA8IBgcYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
       },
       {
         "name": "ASTRO RIA",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",Ria",
         "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110155?token=GRdRWUpbQV9BUABeVwUDVwBVC1NTAwdUV1tRCgUGAANRDFxZDFUBB1ERFEQQFxAGVQxnD1YVCVACU1UHBU8aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg4FVAUKFBtDCgFBCRpUVltVQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaUlFWVkFJ"
       },
       {
         "name": "ASTRO CITRA",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",Citra",
         "uri": "http://iptv-line.com:7899/htlbdi4E5n/g5HfRs97Y7/110270?token=GRdRWUpbQV9BVVxRUVpSBQMAXFcLBVdXBgdSAAJUCQYABwBeW1EGXVARFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQIAVlNbVFAWTRoSW1pWQwlSUgIAVwADWwUNFBtDCgFBCRpUVlJQVRZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFIAUQ9EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFYFUQlETw=="
       },
       {
@@ -124,12 +128,14 @@
     "samples": [
       {
         "name": "INDOSIAR",
+        "logo_uri": "https://freeview.github.io/logos/indosiar.png",Indosiar",
         "uri": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "RCTI",
+        "logo_uri": "https://freeview.github.io/logos/rcti.png",RCTI",
         "uri": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
