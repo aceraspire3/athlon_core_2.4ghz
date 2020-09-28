@@ -736,6 +736,7 @@
     "samples": [
        {
              "name": "RTM SPORTS",
+             "logo_uri": "https://freeview.github.io/logos/rtmhdsports.png",
    "uri": "https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8"
          },
          {
@@ -782,6 +783,7 @@
          },
          {
              "name": "F1",
+             "logo_uri": "https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",
    "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/18052"
          },
          {
@@ -794,6 +796,7 @@
          },
          {
              "name": "BEIN SPORTS",
+             "logo_uri": "https://s4.postimg.cc/m171drj19/bein-sports-400.png",
    "uri": "http://185.59.222.189:25461/liviu1211/DkpoMEj7/110259?token=GRdRWUpbQV9BBghWAFtUW1EACFcFVQECAQcABQUHWlBVDQwJXQEGBFIRFEQQFxAGVQxnD1YVCVACU1YHCU8aRBFQS2dQV0FfQQIPUVZWW1AWTRoSW1pWQwlSUgIAVg8BUwQPFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
          },
          {
@@ -806,10 +809,12 @@
          },
          {
              "name": "BT SPORTS 1",
+             "logo_uri": "https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",
    "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/40205"
          },
          {
               "name": "BT SPORTS 2",
+              "logo_uri": "https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",
    "uri": "http://iptv-line.com:7899/live/stevencap.turf2/Capsteven/8619.m3u8"
          },
          {         
@@ -820,12 +825,15 @@
       },
       {
               "name": "FOX SPORTS 2",
+              "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
        },
        {
               "name": "FOX SPORTS 3",
+              "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
+              "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
@@ -836,26 +844,32 @@
           },
           {
                 "name": "ASTRO SUPERSPORTS 1",
+                "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
    "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110252?token=GRdRWUpbQV9BBwFUAQYBUQ0CXlIGAQoCBAJUBwdSCANWUAlZDQBWAwYRFEQQFxAGVQxnD1YVCVACU1YHAk8aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg8CVQAKFBtDCgFBCRpXVFBXVRZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFIDUwhEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFADVAFETw=="
           },
           {
                  "name": "ASTRO SUPERSPORTS 2",
+                 "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
    "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110253?token=GRdRWUpbQV9BBV4ABwFXVlIEDQcKVgpXAlUFUFUFW1BbBQ1aCQEBV1IRFEQQFxAGVQxnD1YVCVACU1YHA08aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg8CWgEMFBtDCgFBCRpXVFBbVxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVQxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1EEUQxETw=="
           },
           {
                  "name": "ASTRO SUPERSPORTS 3",
+                 "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
    "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110254"
           },
           {
                   "name": "ASTRO SUPERSPORTS 4",
+                  "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
    "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110255"
          },
          {
              "name": "START SPORTS SELECT 1",
+             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
    "uri": "http://103.194.169.115:25461/hHQcyglr3i/DsIXstfyTnisshared/54242?token=GRdRWUpbQV9BUQwAW1JRVwJUCAJTBQBSV1FSUVVbDwEBDA1bAAZUAwARFEQQFxAGVQxnD1YVCVQHUVAAHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMBVAsIVgUVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
          },
          {
              "name": "STAR SPORTS SELECT 2",
+             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
    "uri": "http://103.194.169.115:25461/liviu1211/DkpoMEj7/54243?token=GRdRWUpbQV9BAV1QWlVRVQUHDQdWVApTUlRRCwUGDAVTBwAOCVFbU1ARFEQQFxAGVQxnD1YVCVQHUVABHEFNQgdHZlFdEVlHUgQPU1ZaUUEYQ0wPX1IRWwJVVAIFVAgCUQAVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
           }
          ] 
