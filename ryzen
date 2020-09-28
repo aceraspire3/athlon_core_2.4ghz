@@ -778,7 +778,7 @@
              "name": "STAR SPORTS SELECT 2",
              "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
    "uri": "http://103.194.169.115:25461/liviu1211/DkpoMEj7/54243?token=GRdRWUpbQV9BAV1QWlVRVQUHDQdWVApTUlRRCwUGDAVTBwAOCVFbU1ARFEQQFxAGVQxnD1YVCVQHUVABHEFNQgdHZlFdEVlHUgQPU1ZaUUEYQ0wPX1IRWwJVVAIFVAgCUQAVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
-         }
+         },
          {
              "name": "BEIN SPORTS",
              "logo_uri": "https://s4.postimg.cc/m171drj19/bein-sports-400.png",
@@ -810,7 +810,6 @@
        },
        {
               "name": "FOX SPORTS 3",
-              "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
               "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd",
         "drm_scheme": "widevine",
