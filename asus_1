@@ -91,7 +91,7 @@
       },
       {
           "name": "ASTRO CERIA",
-        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.ceria,png",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
         "uri": "http://iptvtree.net:8080/F11664/1704fb2b/157481?play_token=x5uwQTLHSh"
       },
       {
@@ -159,7 +159,7 @@
       },
       {
         "name": "MNC ENT",
-        "logo_uri": "https://freeview.github.io/logos/mnc.png",
+        "logo_uri": "https://freeview.github.io/logos/mncent.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
@@ -180,18 +180,21 @@
       },
       {
         "name": "MUSLIM TV",
+        "logo_uri": "https://freeview.github.io/logos/muslimtv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "VISION PRIME",
+        "logo_uri": "https://freeview.github.io/logos/visionprime.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "OK TV",
+        "logo_uri": "https://freeview.github.io/logos/oktv.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_dash_vmx/MNCChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
