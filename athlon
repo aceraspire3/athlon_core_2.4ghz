@@ -870,7 +870,7 @@
     "samples": [
       {
         "name": "HBO ASIA",
-   "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110203"
+   "uri": "http://m3ulink.com:7899/live/ojeanorson1/5IeqcUFF/110203.m3u8"
       },
       {
         "name": "HBOHD",
@@ -878,7 +878,7 @@
       },
       {
         "name": "Star MoviesHD",
-        "uri":"http://103.194.169.115:25461/nCgWO2ROwG/v1px1AJjYR/54182?play_token=bpT58GPtPL&token=GRdRWUpbQV9BCgoCWltVU1cHDQdWBgYEUgIHVwQCCQVRBQBaCVACXQERFEQQFxAGVQxnD1YVCVQHUlwAHEFNQgdHZlFdEVlHUgQBU1tbUkEYQ0wPX1IRWwJWXQoAUwwHUwAVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "uri":"http://iptv-line.com:7899/live/Maite.rabacoa1/m3ZgRTX7/54045.m3u8"
       },
       {
         "name": "Star Select MoviesHD",
