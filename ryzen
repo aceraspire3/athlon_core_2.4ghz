@@ -371,8 +371,12 @@
    "uri": "http://103.194.169.115:25461/jkoaosilva1_mac/w3Wz64sY7d/54233?play_token=4T6HzMndxE&token=GRdRWUpbQV9BAA9UB1JbUQUFXAQKBFYCC1cHAQdbAQYEDA5ZAQRRAVERFEQQFxAGVQxnD1YVCVQHUVcBHEFNQgdHZlFdEVlHUgYMU1dXUUEYQ0wPX1IRWwJWXQUGWwgHUQEVGklaB0dZEQpfVFtbQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFQBVRpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRW1IGVBob"
     },
     {
+        "name": "HBO 2",
+   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/51474"
+    },
+    {
         "name": "HBO 3",
-   "uri": "http://iptv-line.com:7899/live/Pa_pa.n1/YxqY4ZMA/4011.m3u8"
+   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/51473"
     },
     {
         "name": "HBO ZONE (US)",
@@ -412,7 +416,6 @@
      },
      {
         "name": "WB MOVIES",
-        "logo_uri": "https://www.useetv.com/assets/images/channel/logo_warner_small.png",
    "uri": "http://85.203.33.120:25461/ix0CrC6K5S/bSyblbESqM/174333?play_token=urcYoHivP2&token=ShdcBRFREglDU1AEVFcNUgkDD1ReXVZRUlEBB1FTD1FSVlZdUF0GVQBGHxERR0tSUF5mClwbCQZRUQoGBE4bRUJQRjsLXRIJQ1AGA1QDDRUdEU0KVVwRDVdTCQUCVA4GAAAYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
      },
      {
@@ -457,7 +460,7 @@
        }, 
        {
          "name": "STAR MOVIES HD",
-   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/54182?play_token=JqITFIAzw0"
+   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/54045"
        },
        {
        "name": "SONY MOVIES",
