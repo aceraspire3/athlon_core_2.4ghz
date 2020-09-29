@@ -408,7 +408,6 @@
     },
     {
        "name": "tvN MOVIES",
- "logo_uri": "https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png",
    "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110205?play_token=csyghXThpF" 
      },
      {
@@ -482,12 +481,10 @@
         },
         {
              "name": "THRILL",
-             "logo_uri": "https://www.useetv.com/assets/images/channel/logo_thrill_small.png",
    "uri": "http://62.210.127.9:25461/BPsPNZGu30/puESyDEEqC/18549?play_token=Qy2M7zKALX&token=QhVcUhcJRggXVAxTClFRVVAGAlAEVVFQA1FQWVEDUldcBFIAB1JcAFZGGURBEkJRAFtpWgVEXlJdUQFYSkAXElxFa1oAQ14QBlcGVAtTEhhDQl9eBEReUlBdAlZXWltVChsWQw0FRggXVQFWB1cSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAQ1QFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABQAwdVFEs="
         },
         {
               "name": "KIX",
-              "logo_uri": "https://www.useetv.com/assets/images/channel/logo_kix_small.png",
    "uri": "http://62.210.127.217:8080/Ery1FyFC263HBAMV/BNCBfyPujSy6x9pM/28662?play_token=Zn7gkdvBZp&token=QhVcUhcJRggXBgwCBAICUlVVAAtVBFxRBlxWVQNVWlIBDgUGVgQGVlBGGURBEkJRAFtpWgVEXlFdUgNTSkAXElxFa1oAQ14QA1YFVQZTEhhDQl9eBEReUlNUBVhVUFJQDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
         },
         {
@@ -532,7 +529,6 @@
       },
       {
                "name": "CELESTIAL MOVIES",
-               "logo_uri": "https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png",
    "uri": "http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28688?play_token=w3n4WSsFKg&token=QhVcUhcJRggXU1cHV1QEUFdQUgsCUFFSA1ZRA1cBUllcDgcGVARSVwFGGURBEkJRAFtpWgVEXlFdUg1ZSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBXABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
        },
        {
