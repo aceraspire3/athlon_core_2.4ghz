@@ -271,6 +271,16 @@
             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110255"
           },
           {
+             "name": "START SPORTS SELECT 1",
+             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
+   "uri": "http://iptv-line.com:7899/ojeanorson1/5IeqcUFF/54242"
+         },
+         {
+             "name": "STAR SPORTS SELECT 2",
+             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
+   "uri": "http://iptv-line.com:7899/ojeanorson1/5IeqcUFF/54243"
+         },
+         {
         "name": "MNC SPORTS 1",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd",
         "drm_scheme": "widevine",
