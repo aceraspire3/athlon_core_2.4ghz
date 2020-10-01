@@ -84,12 +84,12 @@
       },
       {
           "name": "ASTRO CERIA 1",
-          "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
+          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
         "uri": "http://iptvtree.net:8080/F11664/1704fb2b/157481?play_token=x5uwQTLHSh"
       },
       {
           "name": "ASTRO CERIA 2",
-          "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
+          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
         "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110228?play_token=hOTKI9qzX0"
       },
       {
@@ -169,7 +169,7 @@
       },
       {
         "name": "ASTRO BOO HD 1",
-        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
         "uri": "http://iptvtree.net:8080/F11664/1704fb2b/171958?play_token=3EG34Htbkm"
       },
       {
@@ -179,6 +179,7 @@
       },
       {
         "name": "ASTRO AWANI",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
         "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110206?token=GRdRWUpbQV9BCgpWUAcGAFBWDFIGBQpVUQZQCwMGWgVWB1sIDAtbUgcRFEQQFxAGVQxnD1YVCVACU1YCBk8aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg4EUAQOFBtDCgFBCRpQW1BVQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBU1MBWBpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFVVVYAQ0U="
       }
     ]
