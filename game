@@ -570,19 +570,19 @@
          "samples": [
         {
                "name": "DISNEY CHANNEL",
-        "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110231?play_token=1sB15rDiAx"
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110231"
           },
           {
                "name": "DREAMWORKS",
-        "uri": "http://185.246.210.115:25461/Ro7aV0uWPD/KeBEiJi8Xz/55430?play_token=QNhUT7JnE7&token=GRdRWUpbQV9BUAgDVgYHUQNWDAUBBAtRCwcFAgFSAAcEDQsPCFJQVAURFEQQFxAGVQxnD1YVCVQGV1cCHEFNQgdHZlFdEVlHUgEOVlZBTkFACFUDEA0CVApVUgMEUw4IThdJUV0RWQsWX1RKQQYaF1ETVgdeaFcERQoHVxJZVkQOWRUaVl08AQZeWQgHQVhBBUMURFtEQ0MJDRFeXE8aUwtBS1lNVkFfDUZUCk9BAQxBD0wUSxUJQ346Rh4SBkBFB1tKUVZdQV9BR0tET0ELEGsTXRVGRVYAXgYWEApBCBNOF1RZQWwACg1dXQUXCg0NR0MCRAMVH0NeDApbRAxKbhJcXRoDXRYJD04="
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/55430"
           },
           {
                "name": "CARTOON NETWORK",
-        "uri": "http://iptv-line.com:7899/jdaumeri1/coqqJWISuD/110232?play_token=DqLvLMgsTd"
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110232"
            },
            {
                "name": "NICKELODEON",
-        "uri": "http://185.59.222.189:25461/1vlatche1/wzdhLSWU/110233?play_token=42SHADyES3&token=GRdRWUpbQV9BVQkDUFVWBVdYW15RUQFSUFICV1VRCgJUBFxbCQdTA1QRFEQQFxAGVQxnD1YVCVACU1YBA08aRBFQS2dQV0FfQQIBVlNTU1AWTRoSW1pWQwlSUQsGWw8HVgMAFBtDCgFBCRpUVlpSUxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICUgxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFQNWQFETw=="
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110233"
             },
             {
                "name": "NICK",
@@ -590,19 +590,19 @@
             },
             {
                "name": "NICK JR",
-        "uri": "http://iptv-line.com:7899/cuscun-783874/uVQMkMxKyJ/110234?play_token=EjY6tPZ8MP"
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110234"
            },
            {
                "name": "DISNEY JR",
-        "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110230?play_token=Q2J6JJKe0J"
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110230"
           },
           {
                 "name": "DISNEY XD",
-        "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110229?play_token=lbLjeRdZvZ"
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110229"
            },
            {
                 "name": "BOOMERANG",
-        "uri": "http://185.246.210.115:25461/1vlatche1/wzdhLSWU/55451?play_token=zCW82XeJAo&token=GRdRWUpbQV9BVwpQBVQBWwFYCVMDBlBRClpUVgBSW1NTV1hZCQtaAwERFEQQFxAGVQxnD1YVCVQGV1EDHEFNQgdHZlFdEVlHUgoIVlNSUUEYQ0wPX1IRWwJWXQQIVA4HUAAVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/55451"
            },
            {
                  "name": "ANIMAX",
@@ -614,23 +614,23 @@
              },
              {
                   "name": "TV KIDS",
-        "uri": "http://85.203.33.29:25461/zVOM4eMbCM/yzq9CE4dhM/160631?play_token=PwzVUeZTOu&token=ShdcBRFREglDUwNQWlYBUwJWCAcOXwRWVVVbAwdbDwMAAFEGUwlRBQRGHxERR0tSUF5mClwbCQZQVQ8GBk4bRUJQRjsLXRIJQ1YKC1IDDhUdEU0KVVwRDVdQAAICUwoJAQUYRhJQVBFbRgYAWwcMFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAYGARtPGlpcQggRS0wVWBt9aBcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAGCg4BBxse"
+        "uri": "http://85.203.33.29:25461/ZP2TRfbKjW/t9TY3rkNPR/160631?play_token=17tonlZ2Tg&token=ShdcBRFREglDAVUHVVEBAVJWXwINXwRSVgMIUAEGCgQIUAwBVw8BVQNGHxERR0tSUF5mClwbCQZQVQ8GBk4bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQQCVAkAAAYYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
              },
              {
                   "name": "Starz Family Kids HD",
-        "uri": "http://iptv-line.com:7899/nmCBHl9uzR/HqdpWCmaPq/8540?token=GRdRWUpbQV9BAwwDB1tQV1VQD1ACVgRUUVJVBlZSAQlRDQ8IWFUCUlMRFEQQFxAGVQxnD1YVCVkGV1QeEhZLVBBqUFwbCUFUUgYAUFRQQE8WFVELVxUJUAZaXQsJVwoAUhkbSFBXQV9BCwhWVkFOQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVhAbEQhAE0YIXhZUXU4XW1FNQQIRBhECRFZQVVYWTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaVVNUWlcWHA=="
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/40223"
              },
              {
                    "name": "Universal Kids",
-        "uri": "http://iptv-line.com:7899/nmCBHl9uzR/HqdpWCmaPq/8532?token=GRdRWUpbQV9BUF1RBwZbVwxTWwVXDwACUlsHUwhUXVNRBw0BXAZWB1YRFEQQFxAGVQxnD1YVCVkGUFYeEhZLVBBqUFwbCUFUUgYAUFRQQE8WFVELVxUJUAZaXQsJVwoIVhkbSFBXQV9BAg9XUFJATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAIVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFVU1EDQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFBTVFINQ0U=" 
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110088" 
              },
              {
                    "name": "BabbyTV",
-        "uri": "http://iptv-line.com:7899/mariosnic@gmail.com/Orfeas2011/55447?play_token=3j2ixGwRJ4"
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/67304"
              },
              {
                     "name": "TEEN KIDS",
-        "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110140?play_token=czXibIhqZd"
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110140"
              }
            ]
          }
