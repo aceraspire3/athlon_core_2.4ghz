@@ -84,12 +84,12 @@
       },
       {
           "name": "ASTRO CERIA 1",
-          "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
+          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
         "uri": "http://iptvtree.net:8080/F11664/1704fb2b/157481?play_token=x5uwQTLHSh"
       },
       {
           "name": "ASTRO CERIA 2",
-          "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
+          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
         "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110228?play_token=hOTKI9qzX0"
       },
       {
@@ -370,10 +370,12 @@
     "samples": [
        {
         "name": "HBO ASIA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
    "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110203?play_token=Prmv6MvL2h"
     }, 
     {
         "name": "HBO HD",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
    "uri": "http://103.194.169.115:25461/jkoaosilva1_mac/w3Wz64sY7d/54233?play_token=4T6HzMndxE&token=GRdRWUpbQV9BAA9UB1JbUQUFXAQKBFYCC1cHAQdbAQYEDA5ZAQRRAVERFEQQFxAGVQxnD1YVCVQHUVcBHEFNQgdHZlFdEVlHUgYMU1dXUUEYQ0wPX1IRWwJWXQUGWwgHUQEVGklaB0dZEQpfVFtbQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFQBVRpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRW1IGVBob"
     },
     {
@@ -398,6 +400,7 @@
     },
     {
           "name": "HBO FAMILY (US)",
+          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png",
    "uri": "http://185.93.2.159:25461/hHQcyglr3i/DsIXstfyTnisshared/56219?token=GRdRWUpbQV9BCwhQUAVTUlcDXgUEVAVWUVsABgUGDwZQBV8KDgJWB1URFEQQFxAGVQxnD1YVCVQFUVULHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMAVAEDWwMVGklaB0dZEQlWVVVQQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaV1NWU1cWHA=="
     },
     {
@@ -406,18 +409,22 @@
     },
     {
        "name": "FOX ACTION MOVIES",
+       "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png",
    "uri": "http://link.iptvsubscription.org:7899/eliker661/RPM66K/55454"
     }, 
     {
        "name": "FOX MOVIES",
+       "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png",
    "uri": "http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28676?play_token=99tSHQmz6a&token=QhVcUhcJRggXVlFVUVQHUFUOD1JVA1RXVVABBFBUAwcOAgAGV1JTAVFGGURBEkJRAFtpWgVEXlFdUgJXSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBZDxsWQw0FRggXUQZQAEQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABeBgFDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUwFSCRYc"
     },
     {
        "name": "FOX FAMILY MOVIES",
+       "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png",
    "uri": "http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28678?play_token=dL6k4mXLU9&token=QhVcUhcJRggXAgJRAQQHAlcGVwQAUwVUBFJRVwJUVVABD1ZRUwAAAgJGGURBEkJRAFtpWgVEXlFdUgJZSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBWABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI" 
     },
     {
        "name": "tvN MOVIES",
+       "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",
    "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110205?play_token=csyghXThpF" 
      },
      {
@@ -494,6 +501,7 @@
         },
         {
               "name": "KIX",
+              "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",
    "uri": "http://62.210.127.217:8080/Ery1FyFC263HBAMV/BNCBfyPujSy6x9pM/28662?play_token=Zn7gkdvBZp&token=QhVcUhcJRggXBgwCBAICUlVVAAtVBFxRBlxWVQNVWlIBDgUGVgQGVlBGGURBEkJRAFtpWgVEXlFdUgNTSkAXElxFa1oAQ14QA1YFVQZTEhhDQl9eBEReUlNUBVhVUFJQDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
         },
         {
