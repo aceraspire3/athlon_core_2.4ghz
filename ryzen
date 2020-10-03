@@ -334,6 +334,10 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
+        "name": "Flik",
+        "uri": "http://103.148.77.27:80/EF3UGmupAp/frMW6noMCi/29592?play_token=V6DRTr4wOL&token=QhBYV0dYRg4TDlAGV1IJBFdWBwBfXFZTAVBUAQUFVQRaAgMDUlJRDVMaSBAQEEJXVQhvWgIbCVcAAQkDTRQUEVxAb19QEl4WBgFcAlVGHBBADF1WRAMCUwkFBwBWBFZRFRBAX1ASXhYAAFwEV0YcEFEdRFYUV1IJZlBVRwhVBEADXEVaWBxGW19nAFcOBV5WFl8SA0QVEQxKRBILQ2IMDFxGHBZgVQhRWlcJEi4FXFNNFllSRntbARcWHBMDXxUQWEZVFA4SVQQACkYeQQdfR1oRQkpEAxEoYBYcEwROFQdXQVlZWhJeFkVLRh5BDUNtRgBDRxRcUghcRhILQwZDThtfUU5rUwtaX10HRgoLXkEWXxICRBURCFZaWUUORD4SUFYSDBYDXQEAGhk="
+      },
+      {
         "name": "MUSLIM TV",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
         "drm_scheme": "widevine",
