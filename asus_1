@@ -18,11 +18,6 @@
       },
       {
         "name": "TV3",
-        "uri": "https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHThDYGNwJb3AATeXleQB13Y)/dm/3/x6qp375/d/live-3.m3u8",
-        "referer": "https://www.dailymotion.com"
-      },
-      {
-        "name": "TV3",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
         "drm_scheme": "widevine",
