@@ -575,6 +575,7 @@
           },
           {
                "name": "DREAMWORKS",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",
         "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/55430"
           },
           {
@@ -583,6 +584,7 @@
            },
            {
                "name": "NICKELODEON",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nickelodeon.png",
         "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110233"
             },
             {
