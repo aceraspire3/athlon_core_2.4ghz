@@ -642,42 +642,6 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
-        "name": "STAR CHINESE MOVIES",
-        "uri": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "THRILL",
-        "uri": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "CELESTIAL MOVIES",
-        "uri": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "CELESTIAL CLASSIC MOVIES",
-        "uri": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "ZEE BIOSKOP",
-        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-       },
-       {
-        "name": "STAR CHINESE LEGEND",
-        "uri": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-       },
-       {
         "name": "tvN MOVIES",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd",
@@ -716,6 +680,42 @@
         "name": "FOXLIFE",
         "logo_uri": "https://static.epg.best/in/FOXLife.in.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+       },
+       {
+        "name": "STAR CHINESE MOVIES",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "THRILL",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "CELESTIAL MOVIES",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "CELESTIAL CLASSIC MOVIES",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "ZEE BIOSKOP",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+       },
+       {
+        "name": "STAR CHINESE LEGEND",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        },
