@@ -570,6 +570,7 @@
          "samples": [
         {
                "name": "DISNEY CHANNEL",
+        "logo_uri": "https://static.epg.best/es/DisneyChannel.es.png",
         "uri": "http://iptv-line.com:7899/jdaumeri1/coqqJWISu001/26777?play_token=gmWxtPhLmb"
           },
           {
@@ -586,6 +587,7 @@
             },
             {
                "name": "NICK JR",
+        "logo_uri": "http://static.epg.best/sa/NickJr.sa.png",
         "uri": "http://iptv-line.com:7899/jdaumeri1/coqqJWISu001/46461?play_token=J1kYd35Ywg"
            },
            {
@@ -598,10 +600,12 @@
            },
            {
                 "name": "BOOMERANG",
+        "logo_uri": "https://static.epg.best/br/Boomerang.br.png",
         "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/55451"
            },
            {
                  "name": "ANIMAX",
+        "logo_uri": "https://static.epg.best/kr/Animax.kr.png",
         "uri": "http://iptv-line.com:7899/EjeXr9izER/AX68BjJ6qP/110249?token=GRdRWUpbQV9BVl0CVgEAUQUCXFEFBgMCVQYAAFZXCQBTAAhaXwJVUAERFEQQFxAGVQxnD1YVCVACU1YGCU8aRBFQS2dQV0FfQQIAXlNUW1EWTRoSW1pWQwlSUQsJWgECVg0BFBtDCgFBCRpUU1ZSWxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZDBZYDRREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFFTV1MAQ0U="
             },
             {
