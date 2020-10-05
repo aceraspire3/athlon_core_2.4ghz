@@ -517,6 +517,7 @@
         },
         {
             "name": "ZEE CINEMA HD",
+   "logo_uri": "https://static.epg.best/sa/ZeeCinemaEn.sa.png",
    "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/54228?play_token=Eb7BldPBDX"
         },
         {
@@ -529,6 +530,7 @@
         },
         {
             "name": "&PICS HD",
+   "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
    "uri": "http://103.194.169.115:25461/hHQcyglr3i/DsIXstfyTnisshared/54091?token=GRdRWUpbQV9BBFxXV1JWVFAFAQdWUldWBlUFClVSXAVSVwAJXwECUQcRFEQQFxAGVQxnD1YVCVQHU10DHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMAWwgIVAUVGklaB0dZEQpSUlZTQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaVFdSUVYWHA=="
          },
          {
