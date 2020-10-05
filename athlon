@@ -407,7 +407,7 @@
       },
       {
         "name": "HBO Family",
-        "logo_uri": "https://s26.postimg.cc/ajgw5ibk9/400x400_35fox_family_movies.jpg",
+        "logo_uri": "https://static.epg.best/us/HBOFamily.us.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
@@ -606,6 +606,7 @@
       },
       {
         "name": "Foxlife",
+        "logo_uri": "https://static.epg.best/in/FOXLife.in.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
@@ -618,12 +619,14 @@
       },
       {
         "name": "tvN",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "FX",
+        "logo_uri": "http://static.epg.best/us/FX.us.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
