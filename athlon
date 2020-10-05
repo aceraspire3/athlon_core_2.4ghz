@@ -888,12 +888,10 @@
       },
       {
         "name": "Star MoviesHD",
-        "logo_uri": "https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png",
         "uri":"http://iptv-line.com:7899/live/Maite.rabacoa1/m3ZgRTX7/54045.m3u8"
       },
       {
         "name": "Star Select MoviesHD",
-        "logo_uri": "https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Gold_HD.png"
         "uri":"http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54175?token=GRdRWUpbQV9BVl0CAFVRUVIEAV8DDlFWVQAGVAZaXgdbAA8OXFYGAVMRFEQQFxAGVQxnD1YVCVQHUlMHHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkHUQMVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
       },
       {
@@ -906,7 +904,6 @@
       },
       {
         "name": "Zee CafeHD",
-        "logo_uri": "https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png",
         "uri":"http://iptv-line.com:7899/htlbdi4E5n/g5HfRs97Y7/54048?token=GRdRWUpbQV9BBl5WUFtSWgJYAARXUgFZBgJRBQhbXQZaUFoMCAJbU1oRFEQQFxAGVQxnD1YVCVQHU1AKHEFNQgdHZlFdEVlHUgsIVltVUUEYQ0wPX1IRWwJVVAICVAkFUwcVGklaB0dZEQpVUVZaQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaVFFbUlsWHA=="
       },
       {
@@ -915,7 +912,6 @@
       },
       {
         "name": "And PriveHD",
-        "logo_uri": "https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png",
      "uri": "http://103.194.169.115:25461/htlbdi4E5n/g5HfRs97Y7/54042?play_token=L0YRLI4qIY&token=GRdRWUpbQV9BB1sHWwZaAg1QAQACVAQFVwBUVAVVClBaVwEBD1FVBgcRFEQQFxAGVQxnD1YVCVQHU1AAHEFNQgdHZlFdEVlHUgsIVltVUUEYQ0wPX1IRWwJWXQUDVA4CWwQVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
       },
       {
@@ -945,7 +941,6 @@
       },
       {
         "name": "And PicsHD",
-        "logo_uri": "https://github.com/maddy-mad/TV_Logos/blob/master/India/&Pictures_HD.png",
         "uri": "http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54091?token=GRdRWUpbQV9BVVoCBlIHVlFSDF8DVlUAUVJWVABTDQFVUQ8BWAEAXAcRFEQQFxAGVQxnD1YVCVQHU10DHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkJWwcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
       },
       {
@@ -954,7 +949,6 @@
       },
       {
         "name": "Zee CinemaHD",
-        "logo_uri": "https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cinema_HD.png",
         "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/54228"
       },
       {
@@ -967,7 +961,6 @@
       },
       {
         "name": "COLORS HD",
-        "logo_uri": "https://github.com/maddy-mad/TV_Logos/blob/master/India/Colors.png",
         "uri": "http://iptv-line.com:7899/krelock1_mac/z9JJFc0VnM/54181"
       },
       {
