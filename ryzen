@@ -699,7 +699,7 @@
       },
       {
         "name": "STAR CHINESE LEGEND",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
@@ -725,12 +725,6 @@
       {
         "name": "ZEE BIOSKOP",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-       },
-       {
-        "name": "STAR CHINESE LEGEND",
-        "uri": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        }
