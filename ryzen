@@ -435,7 +435,6 @@
      },
      {
         "name": "WB MOVIES",
-        "logo_uri": ""http://static.epg.best/in/WarnerTV.in.png",
    "uri": "http://85.203.33.120:25461/ix0CrC6K5S/bSyblbESqM/174333?play_token=urcYoHivP2&token=ShdcBRFREglDU1AEVFcNUgkDD1ReXVZRUlEBB1FTD1FSVlZdUF0GVQBGHxERR0tSUF5mClwbCQZRUQoGBE4bRUJQRjsLXRIJQ1AGA1QDDRUdEU0KVVwRDVdTCQUCVA4GAAAYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
      },
      {
@@ -904,12 +903,10 @@
          },
          {
             "name": "SONY TEN 1",
-            "logo_uri": "https://static.epg.best/in/SonyTEN1.in.png",
    "uri": "http://iptv-line.com:7899/live/portersarah19563/ZtLTeZwI/6216.m3u8" 
          },
          {
              "name": "SONY TEN 2",
-             "logo_uri": "https://static.epg.best/in/SonyTEN2.in.png",
    "uri": "http://62.210.82.206:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34491?play_token=ZLhCGLgLaK&token=QhVcUhcJRggXVVZfAQAGVQAEBlFWUVdRUgECV1YGW1AJVVAEAFBdCldGGURBEkJRAFtpWgVEXlBRUAxQSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdA1NTUFVTCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
          }
         ] 
