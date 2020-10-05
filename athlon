@@ -494,6 +494,7 @@
       },
       {
         "name": "tvN Movies",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
