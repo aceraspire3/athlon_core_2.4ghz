@@ -400,17 +400,17 @@
     },
     {
           "name": "HBO SIGNATURE (US)",
-          "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png",
+          "logo_uri": "https://static.epg.best/us/HBOSignature.us.png",
    "uri": "http://185.93.2.159:25461/hHQcyglr3i/DsIXstfyTnisshared/56221?token=GRdRWUpbQV9BUVxVAFJbV1cFAQNTVARVVgYABVNbCgIEU1sJCFdSVVERFEQQFxAGVQxnD1YVCVQFUVYDHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMAVAEFUAIVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
     },
     {
           "name": "HBO FAMILY (US)",
-          "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png",
+          "logo_uri": "https://static.epg.best/us/HBOFamily.us.png",
    "uri": "http://185.93.2.159:25461/hHQcyglr3i/DsIXstfyTnisshared/56219?token=GRdRWUpbQV9BCwhQUAVTUlcDXgUEVAVWUVsABgUGDwZQBV8KDgJWB1URFEQQFxAGVQxnD1YVCVQFUVULHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMAVAEDWwMVGklaB0dZEQlWVVVQQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaV1NWU1cWHA=="
     },
     {
           "name": "RED BY HBO",
-          "logo_uri":"https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png",
+          "logo_uri": "https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png",
    "uri": "https://riyancoday.xyz/get-link.m3u8?shinta=YangJualMandulAminnn&cdy=redFHD"
     },
     {
@@ -431,7 +431,7 @@
     {
        "name": "tvN MOVIES",
        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",
-   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110205?play_token=csyghXThpF" 
+   "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110205" 
      },
      {
         "name": "WB MOVIES",
@@ -447,6 +447,7 @@
      },
      {
          "name": "&PRIVE HD",
+   "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
    "uri": "http://103.194.169.115:25461/hHQcyglr3i/DsIXstfyTnisshared/54101?token=GRdRWUpbQV9BCwgEUFRVUAdTXlUDVVJUAVIBBFRWXAlUAg4ODgoBA1IRFEQQFxAGVQxnD1YVCVQHUlQDHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMAWwgBWgUVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
      },
      {
@@ -873,6 +874,21 @@
    "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110255"
          },
          {
+                  "name": "ESPN",
+   "logo_uri": "https://static.epg.best/us/ESPN.us.png",
+   "uri": "http://185.59.222.189:25461/AQplSlyznW/d6Cv8rwqQj/110065?play_token=1FFBOP1a6N&token=GRdRWUpbQV9BBgFTBwZSUVBZCgcEVQtUUAYFClQHXAEEAl0OAVYABFIRFEQQFxAGVQxnD1YVCVACU1QEBU8aRBFQS2dQV0FfQQIPVVBUWlAWTRoSW1pWQwlSUQsJUw4IUwIKFBtDCgFBCRpVU1paVxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFcNWA1EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1oHVQpETw=="
+         },
+         {
+            "name": "SONY TEN 1",
+   "logo_uri": "https://static.epg.best/in/SonyTEN1.in.png",
+   "uri": "http://iptv-line.com:7899/live/portersarah19563/ZtLTeZwI/6216.m3u8" 
+         },
+         {
+             "name": "SONY TEN 2",
+   "logo_uri": "https://static.epg.best/in/SonyTEN2.in.png",
+   "uri": "http://62.210.82.206:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34491?play_token=ZLhCGLgLaK&token=QhVcUhcJRggXVVZfAQAGVQAEBlFWUVdRUgECV1YGW1AJVVAEAFBdCldGGURBEkJRAFtpWgVEXlBRUAxQSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdA1NTUFVTCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
+         },
+         {
                 "name": "ASTRO ARENA",
    "uri": "http://85.203.33.191:25461/ZP2TRfbKjW/t9TY3rkNPR/174296?play_token=yF0GwpEec1&token=ShdcBRFREglDU1VSUARbVgQCWFFcCVYFUQYKDFYBWFZTVwUABl9VVVBGHxERR0tSUF5mClwbCQZRUQsMAU4bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQQAWwgHCQwYRhJQVBFbRgUEVgIbGxNWQRddS11WCjpdUEELWlUTD1oRDlUcEQ4KbFcHXlhZVREDQQgbHxUPFkkXDQxMXF0ZFgYLTUJSFQERCUACDwABERVBW1ZGWRIXQBcNQHRpExkWARpNVV0SDVxdQAkbQ0IRFUFRSmxFAxZNR1IDVFVDFw5GUhscEQwFS2wBXFdZVFBNCldXQBVcRwgXG0BUX19cQAsQZkBaBUYJEVEDDQATTg=="
          },
@@ -895,21 +911,6 @@
          {
              "name": "FS 2",
    "uri": "http://iptv-line.com:7899/live/Germany/eaPirg0NjC/13.m3u8"
-         },
-         {
-                  "name": "ESPN",
-   "logo_uri": "https://static.epg.best/us/ESPN.us.png",
-   "uri": "http://185.59.222.189:25461/AQplSlyznW/d6Cv8rwqQj/110065?play_token=1FFBOP1a6N&token=GRdRWUpbQV9BBgFTBwZSUVBZCgcEVQtUUAYFClQHXAEEAl0OAVYABFIRFEQQFxAGVQxnD1YVCVACU1QEBU8aRBFQS2dQV0FfQQIPVVBUWlAWTRoSW1pWQwlSUQsJUw4IUwIKFBtDCgFBCRpVU1paVxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFcNWA1EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1oHVQpETw=="
-         },
-         {
-            "name": "SONY TEN 1",
-   "logo_uri": "https://static.epg.best/in/SonyTEN1.in.png",
-   "uri": "http://iptv-line.com:7899/live/portersarah19563/ZtLTeZwI/6216.m3u8" 
-         },
-         {
-             "name": "SONY TEN 2",
-   "logo_uri": "https://static.epg.best/in/SonyTEN2.in.png",
-   "uri": "http://62.210.82.206:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34491?play_token=ZLhCGLgLaK&token=QhVcUhcJRggXVVZfAQAGVQAEBlFWUVdRUgECV1YGW1AJVVAEAFBdCldGGURBEkJRAFtpWgVEXlBRUAxQSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdA1NTUFVTCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
          }
         ] 
        }
