@@ -577,7 +577,6 @@
        },
        {
                "name": "BLACKBERRY",
-   "logo_uri": "https://i.imgur.com/wIAZh19.jpg",
    "uri": "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8"
        }
     ]
@@ -774,7 +773,6 @@
         },
         {
                 "name": "DISCOVERY",
-     "logo_uri": "https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",
      "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110219"
         },
         {
@@ -783,7 +781,6 @@
         },
         {
                 "name": "ANIMAL PLANET",
-     "logo_uri": "https://x1.cdn.broiptv.online/img/animal_planet.png",
      "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110223?play_token=snOHIPCBv5"
         },
         {
