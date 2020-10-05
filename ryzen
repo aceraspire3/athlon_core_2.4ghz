@@ -774,6 +774,7 @@
         },
         {
                 "name": "DISCOVERY",
+     "logo_uri": "https://x1.cdn.broiptv.online/img/discovery.png",
      "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110219"
         },
         {
@@ -782,6 +783,7 @@
         },
         {
                 "name": "ANIMAL PLANET",
+     "logo_uri": "https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",
      "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110223?play_token=snOHIPCBv5"
         },
         {
