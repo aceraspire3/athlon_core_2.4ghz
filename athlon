@@ -640,6 +640,7 @@
       },
       {
         "name": "HITS",
+        "logo_uri": "https://www.hitstv.com/img/hits-movies-logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
@@ -658,6 +659,7 @@
       },
       {
         "name": "SonyOne",
+    "logo_uri": "https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
@@ -789,6 +791,20 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
+        "name": "beIN Sports 1",
+        "logo_uri": "https://static.epg.best/qa/beINSports1.qa.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "beIN Sports 2",
+        "logo_uri": "https://static.epg.best/qa/beINSports2.qa.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
         "name": "MNC Sports1",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd",
         "drm_scheme": "widevine",
@@ -803,20 +819,6 @@
       {
         "name": "Fight Sports",
         "uri": "https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
-        "name": "beIN Sports 1",
-        "logo_uri": "https://static.epg.best/qa/beINSports1.qa.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
-        "name": "beIN Sports 2",
-        "logo_uri": "https://static.epg.best/qa/beINSports2.qa.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       }
@@ -910,14 +912,17 @@
     "samples": [
       {
         "name": "HBO ASIA",
+   "logo_uri": "http://cekker.masuk.web.id/logo/HBO4.png",
    "uri": "http://m3ulink.com:7899/live/ojeanorson1/5IeqcUFF/110203.m3u8"
       },
       {
         "name": "HBOHD",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
         "uri": "http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54233?token=GRdRWUpbQV9BBFpXVlRWVg0DC1MKVFFXUgICVgMHC1MDDQwMWwdaAVoRFEQQFxAGVQxnD1YVCVQHUVcBHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkEUwcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
       },
       {
         "name": "Star MoviesHD",
+        "logo_uri": "https://i.imgur.com/NIfMrhI.png",
         "uri":"http://iptv-line.com:7899/live/Maite.rabacoa1/m3ZgRTX7/54045.m3u8"
       },
       {
@@ -944,15 +949,17 @@
       },
       {
         "name": "And PriveHD",
+     "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
      "uri": "http://103.194.169.115:25461/htlbdi4E5n/g5HfRs97Y7/54042?play_token=L0YRLI4qIY&token=GRdRWUpbQV9BB1sHWwZaAg1QAQACVAQFVwBUVAVVClBaVwEBD1FVBgcRFEQQFxAGVQxnD1YVCVQHU1AAHEFNQgdHZlFdEVlHUgsIVltVUUEYQ0wPX1IRWwJWXQUDVA4CWwQVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
       },
       {
         "name": "Sony PixHD",
+        "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
         "uri": "http://iptv-line.com:7899/2audi4.14/Richtlijn1/54057?token=GRdRWUpbQV9BUg5WAAIEVQ0DCQQKVFAACgZUA1MCCQYBBFtcAFdaVgURFEQQFxAGVQxnD1YVCVQHU1EFHEFNQgdHZlFdEVlHUgoNVVdUVUEYQ0wPX1IRWwJVVAIJUAwCUgwVGklaB0dZEQpfUldVQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBW1cAQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFFaU1INQ0U="
       },
       {
         "name": "Red By HBO",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png",
+        "logo_uri": "https://i.ibb.co/swQNcWz/REDBHBOIDD-S1.png",
         "uri": "https://riyancoday.xyz/get-link.m3u8?shinta=YangJualMandulAminnn&cdy=redFHD"
       },
       {
@@ -961,14 +968,17 @@
       },
       {
         "name": "MNPlusHD",
+        "logo_uri": "https://i.imgur.com/QPcVm2h.png",
         "uri": "http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54104?token=GRdRWUpbQV9BBQtfAFBQB1ZSWQAEBVFRAloHBAJVDwlTAAgPX1cBUVoRFEQQFxAGVQxnD1YVCVQHUlQGHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkGVwQVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
       },
       {
         "name": "MNXHD",
+        "logo_uri": "http://static.epg.best/in/MNX2.in.png",
         "uri": "http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54103?token=GRdRWUpbQV9BVwhTVAIEWgcEXVUCUQpWAlFcB1YBXVIHV10BAAQHA1URFEQQFxAGVQxnD1YVCVQHUlQBHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkJUwcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
       },
       {
         "name": "Now MoviesHD",
+        "logo_uri": "http://static.epg.best/in/MoviesNow.in.png",
         "uri": "http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54102?token=GRdRWUpbQV9BBA4EUQZTWgMADVIBAwQHUFRdA1RSAQgHAAtdCgFUBlIRFEQQFxAGVQxnD1YVCVQHUlQAHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkJVgMVGklaB0dZEQlUVlRVQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFAMURpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFSUFsEUxob"
       },
       {
@@ -978,6 +988,7 @@
       },
       {
         "name": "And XplorHD",
+        "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
         "uri": "http://iptv-line.com:7899/htlbdi4E5n/g5HfRs97Y7/303?token=GRdRWUpbQV9BCwFfBlAAVlBQXlNTBQJXC1FUCwMAWwJTAgFdXANaVwcRFEQQFxAGVQxnD1YVCVIDUEgQRRBdQz1cXRoDEVJdUwMAUFBBTkFACFUDEA0CVwNTVgUCUg8FThdJUV0RWUdQAQpUU0FOQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVhAbEQhAE0YIXhZUXU4XW1FNQQIRBhECRFFbUlEWTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaUFZaUkFJ"
       },
       {
@@ -1004,10 +1015,12 @@
       },
       {
         "name": "AKSION HD",
+        "logo_uri": "http://albepg.com/tvlogi/Film%20Aksion.png",
         "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/3418?play_token=vyiZKSssZT"
       },
       {
         "name": "TV1000",
+        "logo_uri": "https://i.imgur.com/pWnecuO.jpg",
         "uri": "http://iptv-line.com:7899/oVNXVpya8z/SOGbe7AGh6/27094?play_token=DljbInJ3Qp"
       },
       {
