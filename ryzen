@@ -594,7 +594,7 @@
       },
       {
         "name": "HBO",
-        "logo_uri": "https://s11.postimg.cc/ybnoc9ir7/400x400_38hbo_hd.jpg",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
@@ -774,7 +774,7 @@
         },
         {
                 "name": "DISCOVERY",
-     "logo_uri": "https://x1.cdn.broiptv.online/img/discovery.png",
+     "logo_uri": "https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",
      "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110219"
         },
         {
@@ -783,11 +783,12 @@
         },
         {
                 "name": "ANIMAL PLANET",
-     "logo_uri": "https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg",
+     "logo_uri": "https://x1.cdn.broiptv.online/img/animal_planet.png",
      "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110223?play_token=snOHIPCBv5"
         },
         {
                 "name": "SMITHSONIAN CHANNEL",
+     "logo_uri": "https://static.epg.best/gb/SmithsonianChannel.uk.png",
      "uri": "http://iptv-line.com:7899/2audi4.14/Richtlijn1/110150?play_token=5BMIpuxZrM&token=GRdRWUpbQV9BUFpXUFFaAQAEDlQAAQRUAQUAAVNSDgcDVgAIDgNbVVsRFEQQFxAGVQxnD1YVCVACU1UHAE8aRBFQS2dQV0FfQQIBU1BXVVQWTRoSW1pWQwlSUQsJWwABUwcIFBtDCgFBCRpXVVVTURZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFYGUQxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1UCUQ5ETw=="
         },
         {
