@@ -898,14 +898,17 @@
          },
          {
                   "name": "ESPN",
+   "logo_uri": "https://static.epg.best/us/ESPN.us.png",
    "uri": "http://185.59.222.189:25461/AQplSlyznW/d6Cv8rwqQj/110065?play_token=1FFBOP1a6N&token=GRdRWUpbQV9BBgFTBwZSUVBZCgcEVQtUUAYFClQHXAEEAl0OAVYABFIRFEQQFxAGVQxnD1YVCVACU1QEBU8aRBFQS2dQV0FfQQIPVVBUWlAWTRoSW1pWQwlSUQsJUw4IUwIKFBtDCgFBCRpVU1paVxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFcNWA1EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1oHVQpETw=="
          },
          {
             "name": "SONY TEN 1",
+   "logo_uri": "https://static.epg.best/in/SonyTEN1.in.png",
    "uri": "http://iptv-line.com:7899/live/portersarah19563/ZtLTeZwI/6216.m3u8" 
          },
          {
              "name": "SONY TEN 2",
+   "logo_uri": "https://static.epg.best/in/SonyTEN2.in.png",
    "uri": "http://62.210.82.206:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34491?play_token=ZLhCGLgLaK&token=QhVcUhcJRggXVVZfAQAGVQAEBlFWUVdRUgECV1YGW1AJVVAEAFBdCldGGURBEkJRAFtpWgVEXlBRUAxQSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdA1NTUFVTCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
          }
         ] 
