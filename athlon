@@ -539,13 +539,14 @@
       },
       {
         "name": "Disney Junior",
-      "logo_uri": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",
+        "logo_uri": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_dash_vmx/DisneyJunior.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Disney XD",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
@@ -559,12 +560,14 @@
       },
       {
         "name": "Kids TV",
+        "logo_uri": "https://i.imgur.com/UVq6IyP.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Cartoon Network",
+        "logo_uri": "https://i.imgur.com/M9Z5cfD.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
@@ -616,6 +619,7 @@
       },      
       {
         "name": "Animax",
+        "logo_uri": "https://i.imgur.com/Lcj7mWi.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
@@ -712,6 +716,7 @@
       },
       {
         "name": "History",
+        "logo_uri": "https://i.imgur.com/XvlPBV4.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
@@ -743,6 +748,7 @@
       },
       {
         "name": "TLC",
+        "logo_uri": "https://i.imgur.com/iXwGMoe.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
