@@ -384,10 +384,12 @@
     },
     {
         "name": "HBO 2",
+   "logo_uri": "http://i.imgur.com/okiePBA.png",
    "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/51474"
     },
     {
         "name": "HBO 3",
+   "logo_uri": "http://cekker.masuk.web.id/logo/HBO4.png",
    "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/51473"
     },
     {
@@ -489,6 +491,7 @@
        },
        {
        "name": "SONY MOVIES",
+   "logo_uri": "https://i.imgur.com/wl3tjXZ.png",
    "uri": "http://195.181.174.34:25461/atoohonest19611/tGF8jFOR/67431?play_token=blgYGukml1&token=GRdRWUpbQV9BVwxfWlMDVgIHXgVUAQEHBQZSVglVWlIBVFxbWlcFU1YRFEQQFxAGVQxnD1YVCVcEV1cDHEFNQgdHZlFdEVlHUgQOUlVQUUEYQ0wPX1IRWwJWXQoJUQsDUAUVGklaB0dZEQpQUVtWQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUVoCVRpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRVFEAURob"
        },
        {
@@ -531,7 +534,6 @@
         },
         {
             "name": "YUPP",
-   "logo_uri": "https://i.imgur.com/m7dgYjL.jpg",
    "uri": "http://85.203.33.120:25461/ZP2TRfbKjW/t9TY3rkNPR/174343?play_token=O6h33Byckw&token=ShdcBRFREglDAAQKAQcJAFcHXAIJW1ZRX10MVlFbXAUJAVJcU1wEV1RGHxERR0tSUF5mClwbCQZRUQoBBE4bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQUAVA4JAQAYRhJQVBFbRgEHVQUKFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCw8EAhtPGlpcQggRS0wVWBt9aBcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAGCwUGARse"
         },
         {
@@ -549,22 +551,18 @@
       },
       {
               "name": "SONY MAX HD",
-   "logo_uri": "https://i.imgur.com/m7dgYjL.jpg",
    "uri": "http://85.203.33.29:25461/ZP2TRfbKjW/t9TY3rkNPR/153782?play_token=DZF9EhudvK&token=ShdcBRFREglDUQsBAQdaBwICCwYICVcBVwddUVMGDQIJBAMBVA4BBFhGHxERR0tSUF5mClwbCQZTVg4NBU4bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQQHVgEGBgQYRhJQVBFbRgYEUAYAFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAEDBBtPGlpcQggRS0wVWBt9aBcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAEDAYBEUQ="
       },
       {
               "name": "COLORS CINEPLEX HD",
-   "logo_uri": "https://i.imgur.com/m7dgYjL.jpg",
    "uri": "http://103.194.169.115:25461/hHQcyglr3i/DsIXstfyTnisshared/54090?token=GRdRWUpbQV9BBwlRU1JaAlUCClEEBwNYB1MHAwVWXAhaB1gPXFJQXQERFEQQFxAGVQxnD1YVCVQHU10CHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMAWwoGVQYVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
       },
       {
               "name": "STAR CHINA MOVIES",
-   "logo_uri": "https://i.imgur.com/m7dgYjL.jpg",
    "uri": "http://62.210.124.97:8080/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/33249?play_token=SWpF92lrzz&token=QhVcUhcJRggXBg0FBgMCUlgDVQtTBwVUUVMHBwcAW1ILUgNSUgVVBVNGGURBEkJRAFtpWgVEXlBWVgFYSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBVCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
       },
       {
               "name": "STAR CHINA MOVIES LEGEND",
-   "logo_uri": "https://i.imgur.com/m7dgYjL.jpg",
    "uri": "http://62.210.124.97:8080/Ery1FyFC263HBAMV/BNCBfyPujSy6x9pM/33250?play_token=Vf7nptmrXb&token=QhVcUhcJRggXXVMEAF8CBFgBAAoCUgBaXFcHWF9aAwMKUgMCVgQAC1BGGURBEkJRAFtpWgVEXlBWVgBRSkAXElxFa1oAQ14QA1YFVQZTEhhDQl9eBEReUlNUBVhVUFNVCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
       },
       {
@@ -617,6 +615,7 @@
       },
       {
         "name": "HITS MOVIES",
+        "logo_uri": "https://www.hitstv.com/assets/logo-HITSMOVIES.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
@@ -680,12 +679,14 @@
        },
        {
         "name": "tvN MOVIES",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        },
        {
         "name": "WARNER TV",
+        "logo_uri": "http://static.epg.best/fr/WarnerTV.fr.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
@@ -706,7 +707,15 @@
        },
        {
         "name": "FX",
+        "logo_uri": "http://static.epg.best/us/FX.us.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+       },
+       {
+        "name": "FOXLIFE",
+        "logo_uri": "https://static.epg.best/in/FOXLife.in.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        },
@@ -715,14 +724,8 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-       },
-       {
-        "name": "FOXLIFE",
-        "uri": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-        }
-    ]
+       }
+     ]
         },
         {
               "name": "DOKUMENTARI",
