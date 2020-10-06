@@ -424,6 +424,13 @@
          "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
        },
        {
+         "name": "BLUE ANT ENTERTAINMENT HD",
+	 "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png",
+         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+       },
+       {
         "name": "AXN",
         "logo_uri": "https://static.epg.best/kr/AXN.kr.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
