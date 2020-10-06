@@ -919,7 +919,7 @@
       {
         "name": "HBO ASIA",
    "logo_uri": "http://cekker.masuk.web.id/logo/HBO4.png",
-   "uri": "http://m3ulink.com:7899/live/ojeanorson1/5IeqcUFF/110203.m3u8"
+   "uri": "http://iptv-line.com:7899/cmillernyc1/Chrism83/110203"
       },
       {
         "name": "HBOHD",
@@ -1038,8 +1038,8 @@
         "uri": "http://185.59.222.189:25461/krelock1_mac/z9JJFc0VnM/110147?token=GRdRWUpbQV9BAgpfUgIHB1JRAFMBBAQHBVNUAghVCgEGVAFaDABQXQYRFEQQFxAGVQxnD1YVCVACU1UGB08aRBFQS2dQV0FfQQINXlNRV1cWTRoSW1pWQwlSUgIBUwEBWwMMFBtDCgFBCRpUUVpWVhZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFcNWQ1EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFENUghETw=="
       },
       {
-        "name": "PINK PREMIUM",
-        "uri": "http://iptv-line.com:7899/live/stevencap.turf2/Capsteven/3575.m3u8"
+        "name": "X PREMIUM 1",
+        "uri": "http://iptv-line.com:7899/cmillernyc1/Chrism83/3444"
       },
       {
         "name": "X ScyFy HD",
