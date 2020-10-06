@@ -47,7 +47,7 @@
       },
       {
         "name": "ANIPLUS",
-        "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/267_144.png",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/267_144.png",
         "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110266"
       },
       {
@@ -156,7 +156,7 @@
       },
       {
         "name": "CRIME INVESTIGATION",
-         "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png",
+        "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
@@ -184,7 +184,7 @@
       },
       {
         "name": "LOVE NATURE",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/love-nature.png",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/love-nature.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
