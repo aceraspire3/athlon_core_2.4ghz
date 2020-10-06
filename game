@@ -580,6 +580,7 @@
           },
           {
                "name": "CARTOON NETWORK",
+        "logo_uri": "https://i.imgur.com/M9Z5cfD.png",
         "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110232"
            },
            {
@@ -594,6 +595,7 @@
            },
            {
                "name": "DISNEY JR",
+        "logo_uri": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",
         "uri": "http://iptv-line.com:7899/jdaumeri1/coqqJWISu001/26767?play_token=UyM1sPWX8t"
           },
           {
@@ -617,7 +619,13 @@
              },
              {
                   "name": "TV KIDS",
+        "logo_uri": "https://i.imgur.com/UVq6IyP.png",
         "uri": "http://85.203.33.29:25461/ZP2TRfbKjW/t9TY3rkNPR/160631?play_token=17tonlZ2Tg&token=ShdcBRFREglDAVUHVVEBAVJWXwINXwRSVgMIUAEGCgQIUAwBVw8BVQNGHxERR0tSUF5mClwbCQZQVQ8GBk4bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQQCVAkAAAYYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
+             },
+             {
+                   "name": "BabbyTV",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png",
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/67304"
              },
              {
                   "name": "Starz Family Kids HD",
@@ -626,10 +634,6 @@
              {
                    "name": "Universal Kids",
         "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110088" 
-             },
-             {
-                   "name": "BabbyTV",
-        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/67304"
              },
              {
                     "name": "TEEN KIDS",
