@@ -417,12 +417,12 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        },
        {
-        "name": "FOXLIFE",
-        "logo_uri": "https://static.epg.best/in/FOXLife.in.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-        },
+         "name": "FOXLIFE",
+         "logo_uri": "https://static.epg.best/in/FOXLife.in.png",
+         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd", 
+         "drm_scheme": "widevine", 
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+       },
        {
         "name": "AXN",
         "logo_uri": "https://static.epg.best/kr/AXN.kr.png",
