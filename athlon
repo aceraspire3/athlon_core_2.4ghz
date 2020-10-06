@@ -267,12 +267,14 @@
       },
       {
         "name": "Music TV",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/mtv-asia.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Life&Style",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/262_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
@@ -300,30 +302,6 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_dash_vmx/MNCChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
-        "name": "Bioskop Indonesia",
-        "uri": "http://tvku.live:8888/live/eq2an5sme/752537/908.m3u8"
-      },
-      {
-        "name": "Citra Dangdut",
-        "uri": "http://tvku.live:8888/eq2an5sme/752537/2207"
-      },
-      {
-        "name": "Citra Drama",
-        "uri": "http://tvku.live:8888/eq2an5sme/752537/905"
-      },
-      {
-        "name": "IMC",
-        "uri": "http://tvku.live:8888/eq2an5sme/752537/1483"
-      },
-      {
-        "name": "Flik",
-        "uri": "http://tvku.live:8888/live/eq2an5sme/752537/29592.m3u8"
-      },
-      {
-        "name": "Dunia Lain",
-        "uri": "http://tvku.live:8888/live/eq2an5sme/752537/910.m3u8"
       }
     ]
   },
@@ -491,6 +469,7 @@
       },
       {
         "name": "Celestial Classic Movie",
+        "logo_uri": "https://i.imgur.com/X3aDsYK.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
@@ -510,12 +489,6 @@
         "name": "Nick Jr.",
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nick-jr.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
-        "name": "Miao Mi",
-        "uri": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
@@ -579,6 +552,12 @@
         "name": "Nickelodeon",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nickelodeon.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Miao Mi",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       }
@@ -659,7 +638,7 @@
       },
       {
         "name": "SonyOne",
-    "logo_uri": "https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg",
+        "logo_uri": "https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
