@@ -282,12 +282,12 @@
           {
                  "name": "ASTRO SUPERSPORTS 3",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110254"
+            "uri": "http://iptv-line.com:7899/GAzBVuz6hM/hbcJceRwaE/110254?play_token=gT5OaxSCnZ"
           },
           {
                   "name": "ASTRO SUPERSPORTS 4",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110255"
+            "uri": "http://iptv-line.com:7899/GAzBVuz6hM/hbcJceRwaE/110255?play_token=82Pc0magDK"
           },
           {
              "name": "START SPORTS SELECT 1",
@@ -298,8 +298,13 @@
              "name": "STAR SPORTS SELECT 2",
              "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
    "uri": "http://iptv-line.com:7899/ojeanorson1/5IeqcUFF/54243"
-         },
-         {
+        },
+        {
+              "name": "ASTRO ARENA",
+          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
+          "uri": "http://iptvtree.net:8080/13477/38364ab9/157485?play_token=PO764g7No3"
+       }
+       {
         "name": "MNC SPORTS 1",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd",
         "drm_scheme": "widevine",
@@ -310,11 +315,6 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-              "name": "ASTRO ARENA",
-   "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-   "uri": "http://iptvtree.net:8080/13477/38364ab9/157485?play_token=PO764g7No3"
       }
     ]  
   }
