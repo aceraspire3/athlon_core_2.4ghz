@@ -104,7 +104,7 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       }
-    ]  
+   ]  
       },
       {
           "name": "DOKUMENTARI",
@@ -153,28 +153,24 @@
       },
       {
         "name": "CRIME INVESTIGATION",
-        "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },      
       {
         "name": "ASIAN FOOD NETWORK",
-	"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "HGTV",
-        "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "TLC",
-        "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
