@@ -773,14 +773,17 @@
         },
         {
                 "name": "DISCOVERY",
+     "logo_uri": "https://i.imgur.com/ESeGnT2.jpg",
      "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110219"
         },
         {
                 "name": "DISCOVERY ASIA",
+     "logo_uri": "https://i.imgur.com/ESeGnT2.jpg",
      "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110220?play_token=EEdfcBgSvk"
         },
         {
                 "name": "ANIMAL PLANET",
+     "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",
      "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110223?play_token=snOHIPCBv5"
         },
         {
