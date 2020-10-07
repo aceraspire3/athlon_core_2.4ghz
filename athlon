@@ -805,6 +805,7 @@
       },
       {
         "name": "Fight Sports",
+        "logo_uri": "https://pbs.twimg.com/profile_images/689545865699139584/lTtOY34z_400x400.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
