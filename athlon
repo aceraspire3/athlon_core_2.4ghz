@@ -794,12 +794,14 @@
       },
       {
         "name": "MNC Sports1",
+        "logo_uri": "https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059481_logo_mnc%20sport.png:,
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "MNC Sports2",
+        "logo_uri": "https://mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059481_logo_mnc%20sport.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
