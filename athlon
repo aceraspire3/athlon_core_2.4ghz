@@ -476,6 +476,7 @@
       },
       {
         "name": "Zee Bioskop",
+        "logo_uri": "https://i.postimg.cc/V6xWZTgY/zeebioskop.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
