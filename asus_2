@@ -81,14 +81,15 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
-        "name": "Zee Cinema",
+        "name": "ZEE CINEMA",
         "logo_uri": "https://static.epg.best/sa/ZeeCinemaEn.sa.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
-        "name": "Zee TV",
+        "name": "ZEE TV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
