@@ -203,6 +203,7 @@
       },
       {
         "name": "AndTV",
+        "logo_uri": "https://static.epg.best/in/AndTV.in.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
@@ -216,7 +217,7 @@
       },
       {
         "name": "Zee TV",
-        "logo_uri": "https://static.epg.best/in/AndTV.in.png",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
