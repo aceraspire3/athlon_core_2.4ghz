@@ -558,6 +558,7 @@
       },
       {
         "name": "Miao Mi",
+        "logo_uri": "http://miaomi-tv.com/Public/images/miao-mi-logo-color.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
