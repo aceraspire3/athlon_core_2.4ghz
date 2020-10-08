@@ -660,6 +660,7 @@
       },
       {
         "name": "Waku2 Japan",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/330px-WakuWaku_Japan_logo.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
@@ -905,25 +906,21 @@
       {
         "name": "HBO ASIA",
    "logo_uri": "http://cekker.masuk.web.id/logo/HBO4.png",
-   "uri": "http://iptv-line.com:7899/cmillernyc1/Chrism83/110203"
+   "uri": "http://195.154.184.150:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34793?play_token=V1EYkbKDXn&token=QhVcUhcJRggXVwNXAFVUBQJUUgpUVl1bBAcGBFAAAVIJUldSUVRTAwZGGURBEkJRAFtpWgVEXlBRUwxSSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlNYChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
       },
       {
         "name": "HBOHD",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
-        "uri": "http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54233?token=GRdRWUpbQV9BBFpXVlRWVg0DC1MKVFFXUgICVgMHC1MDDQwMWwdaAVoRFEQQFxAGVQxnD1YVCVQHUVcBHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkEUwcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "uri": "http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/17107"
       },
       {
         "name": "Star MoviesHD",
-        "logo_uri": "https://i.imgur.com/NIfMrhI.png",
-        "uri":"http://iptv-line.com:7899/live/Maite.rabacoa1/m3ZgRTX7/54045.m3u8"
+        "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
+        "uri":"http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/5641"
       },
       {
         "name": "Star Select MoviesHD",
-        "uri":"http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54175?token=GRdRWUpbQV9BVl0CAFVRUVIEAV8DDlFWVQAGVAZaXgdbAA8OXFYGAVMRFEQQFxAGVQxnD1YVCVQHUlMHHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkHUQMVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
-      },
-      {
-        "name": "BLACKBERRY",
-        "uri":"http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8"
+        "uri":"http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/54026"
       },
       {
         "name": "EPIX MOVIES",
@@ -937,7 +934,7 @@
       {
         "name": "And FlixHD",
         "logo_uri": "https://static.epg.best/in/AndFlix.in.png",
-        "uri": "http://103.194.169.115:25461/4MmgBcJxXU/wNuRicM35y/54126?play_token=GbJVm11Jyz&token=GRdRWUpbQV9BAVlTBVtQW1UDCVcKDwVTUAEBAwJWXVcEAgleAFVaA1oRFEQQFxAGVQxnD1YVCVQHUlYEHEFNQgdHZlFdEVlHUgYKUFFQUkEYQ0wPX1IRWwJWXQUEVQkEUQEVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "uri": "http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/54066"
       },
       {
         "name": "And PriveHD",
@@ -971,12 +968,12 @@
       {
         "name": "Now MoviesHD",
         "logo_uri": "http://static.epg.best/in/MoviesNow.in.png",
-        "uri": "http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54102?token=GRdRWUpbQV9BBA4EUQZTWgMADVIBAwQHUFRdA1RSAQgHAAtdCgFUBlIRFEQQFxAGVQxnD1YVCVQHUlQAHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkJVgMVGklaB0dZEQlUVlRVQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFAMURpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFSUFsEUxob"
+        "uri": "http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/54065"
       },
       {
         "name": "And PicsHD",
         "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
-        "uri": "http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54091?token=GRdRWUpbQV9BVVoCBlIHVlFSDF8DVlUAUVJWVABTDQFVUQ8BWAEAXAcRFEQQFxAGVQxnD1YVCVQHU10DHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkJWwcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "uri": "http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/17111"
       },
       {
         "name": "And XplorHD",
@@ -986,7 +983,7 @@
       {
         "name": "Zee CinemaHD",
         "logo_uri":"https://static.epg.best/sa/ZeeCinemaEn.sa.png",
-        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/54228"
+        "uri": "http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/54047"
       },
       {
         "name": "Colors CinePlexHD",
@@ -994,12 +991,12 @@
       },
       {
         "name": "BOLLYONE HD",
-        "uri": "http://185.59.222.189:25461/4MmgBcJxXU/wNuRicM35y/110176?play_token=hpZwPaS3Rq&token=GRdRWUpbQV9BA11UB1YHUgEDWVcGVgJQVwVQUAdXWVBRUQ5eWgsHVwcRFEQQFxAGVQxnD1YVCVACU1UFBk8aRBFQS2dQV0FfQQINVFVRUVMWTRoSW1pWQwlSUQsHVw4DUwQJFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
+        "uri": "http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110176"
       },
       {
         "name": "COLORS HD",
         "logo_uri": "https://static.epg.best/in/Colors.in.png",
-        "uri": "http://iptv-line.com:7899/krelock1_mac/z9JJFc0VnM/54181"
+        "uri": "http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/51419"
       },
       {
         "name": "D2H Movies HD",
