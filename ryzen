@@ -577,7 +577,7 @@
       },
       {
         "name": "CINEMAX",
-        "logo_uri": "https://static.epg.best/ph/Cinemax.ph.png",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_dash_vmx/CinemaxHD.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
