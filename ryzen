@@ -675,7 +675,7 @@
        },
        {
         "name": "STAR CHINESE MOVIES",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
@@ -689,13 +689,14 @@
       },
       {
         "name": "CELESTIAL MOVIES",
-        "logo_uri": "https://i.imgur.com/X3aDsYK.jpg",
+        "logo_uri": "https://i.imgur.com/KcCWHbk.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "CELESTIAL CLASSIC MOVIES",
+        "logo_uri": "https://i.imgur.com/KcCWHbk.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
