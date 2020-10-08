@@ -25,7 +25,7 @@
       },
       {
         "name": "NTV7",
-		"logo_uri": "https://www.xtra.com.my/img/logo/ntv7.png",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/ntv7.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
