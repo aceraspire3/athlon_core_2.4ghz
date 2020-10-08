@@ -486,7 +486,7 @@
        }, 
        {
          "name": "STAR MOVIES HD",
-   "logo_uri": "https://i.imgur.com/NIfMrhI.png",
+   "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
    "uri": "http://iptvtree.net:8080/Line1009/c48eb829/11511?play_token=NZ2qb6UHvM"
        },
        {
@@ -525,17 +525,9 @@
    "uri": "http://62.210.127.217:8080/Ery1FyFC263HBAMV/BNCBfyPujSy6x9pM/28662?play_token=Zn7gkdvBZp&token=QhVcUhcJRggXBgwCBAICUlVVAAtVBFxRBlxWVQNVWlIBDgUGVgQGVlBGGURBEkJRAFtpWgVEXlFdUgNTSkAXElxFa1oAQ14QA1YFVQZTEhhDQl9eBEReUlNUBVhVUFJQDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
         },
         {
-              "name": "Galaxy Premium",
-   "uri": "http://103.148.77.27:80/EF3UGmupAp/frMW6noMCi/29603?play_token=h5yHZeyGfs&token=QhBYV0dYRg4TCQUEVAIDBgFXBFBVWwcACgBRUlUDAgYBVlECVwJQVlIaSBAQEEJXVQhvWgIbCVcAAgACTRQUEVxAb19QEl4WBgFcAlVGHBBADF1WRAMCUwkFBwBWAlJaFRBAX1ASXhYAAVMHVkYcEFEdRFYUV1IJZlBVRwhVBEADXEVaWBxGW19nAFcOBV5WFl8SA0QVEQxKRBILQ2IMDFxGHBZgVQhRWlcJEi4FXFNNFllSRntbARcWHBMDXxUQWEZVFA4SXQYHGkgQAAtFXEAXSRFcG348GxgSVBlCBAxKW19YFgpGQEIaSBAKF29AURZEQQNYXgBLFgoTURRNQFRTSGlXXwpaVFsQWwwKQxAORwERShteClddRF4TaRELXRAKFAEDVgATRQ=="
-        },
-        {
             "name": "ZEE CINEMA HD",
    "logo_uri": "https://static.epg.best/sa/ZeeCinemaEn.sa.png",
    "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/54228?play_token=Eb7BldPBDX"
-        },
-        {
-            "name": "YUPP",
-   "uri": "http://85.203.33.120:25461/ZP2TRfbKjW/t9TY3rkNPR/174343?play_token=O6h33Byckw&token=ShdcBRFREglDAAQKAQcJAFcHXAIJW1ZRX10MVlFbXAUJAVJcU1wEV1RGHxERR0tSUF5mClwbCQZRUQoBBE4bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQUAVA4JAQAYRhJQVBFbRgEHVQUKFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCw8EAhtPGlpcQggRS0wVWBt9aBcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAGCwUGARse"
         },
         {
             "name": "D2H MOVIES HD",
@@ -562,7 +554,7 @@
       },
       {
               "name": "STAR CHINA MOVIES",
-   "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
+   "logo_uri": "https://i.imgur.com/KcCWHbk.png",
    "uri": "http://62.210.124.97:8080/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/33249?play_token=SWpF92lrzz&token=QhVcUhcJRggXBg0FBgMCUlgDVQtTBwVUUVMHBwcAW1ILUgNSUgVVBVNGGURBEkJRAFtpWgVEXlBWVgFYSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBVCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
       },
       {
@@ -572,12 +564,8 @@
       },
       {
                "name": "CELESTIAL MOVIES",
-   "logo_uri": "https://i.imgur.com/X3aDsYK.jpg",
+   "logo_uri": "https://i.imgur.com/KcCWHbk.png",
    "uri": "http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28688?play_token=w3n4WSsFKg&token=QhVcUhcJRggXU1cHV1QEUFdQUgsCUFFSA1ZRA1cBUllcDgcGVARSVwFGGURBEkJRAFtpWgVEXlFdUg1ZSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBXABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
-       },
-       {
-               "name": "BLACKBERRY",
-   "uri": "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8"
        }
     ]
        },
