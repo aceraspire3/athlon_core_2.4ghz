@@ -221,14 +221,6 @@
         "uri":"http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/5641"
       },
       {
-        "name": "Star Select MoviesHD",
-        "uri":"http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54175"
-      },
-      {
-        "name": "EPIX MOVIES",
-        "uri":"http://iptv-line.com:7899/zoltanczar1/4JCIm1t7/67337?play_token=TbI9ac9nLQ"
-      },
-      {
         "name": "Zee CafeHD",
         "logo_uri": "https://static.epg.best/in/ZeeCafe.in.png",
         "uri":"http://iptv-line.com:7899/htlbdi4E5n/g5HfRs97Y7/54048?token=GRdRWUpbQV9BBl5WUFtSWgJYAARXUgFZBgJRBQhbXQZaUFoMCAJbU1oRFEQQFxAGVQxnD1YVCVQHU1AKHEFNQgdHZlFdEVlHUgsIVltVUUEYQ0wPX1IRWwJVVAICVAkFUwcVGklaB0dZEQpVUVZaQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaVFFbUlsWHA=="
@@ -285,6 +277,10 @@
       {
         "name": "EPIX MOVIES",
         "uri":"http://iptv-line.com:7899/zoltanczar1/4JCIm1t7/67337?play_token=TbI9ac9nLQ"
+      },
+      {
+        "name": "Star Select MoviesHD",
+        "uri":"http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54175"
       },
       {
         "name": "CinePlex HD",
