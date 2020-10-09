@@ -206,5 +206,122 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       }
     ]
+      }, 
+      {
+    "name": "MOVIES 2",
+    "samples": [
+      {
+        "name": "HBOHD",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
+        "uri": "http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/17107"
+      },
+      {
+        "name": "Star MoviesHD",
+        "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
+        "uri":"http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/5641"
+      },
+      {
+        "name": "Star Select MoviesHD",
+        "uri":"http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54175"
+      },
+      {
+        "name": "EPIX MOVIES",
+        "uri":"http://iptv-line.com:7899/zoltanczar1/4JCIm1t7/67337?play_token=TbI9ac9nLQ"
+      },
+      {
+        "name": "Zee CafeHD",
+        "logo_uri": "https://static.epg.best/in/ZeeCafe.in.png",
+        "uri":"http://iptv-line.com:7899/htlbdi4E5n/g5HfRs97Y7/54048?token=GRdRWUpbQV9BBl5WUFtSWgJYAARXUgFZBgJRBQhbXQZaUFoMCAJbU1oRFEQQFxAGVQxnD1YVCVQHU1AKHEFNQgdHZlFdEVlHUgsIVltVUUEYQ0wPX1IRWwJVVAICVAkFUwcVGklaB0dZEQpVUVZaQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaVFFbUlsWHA=="
+      },
+      {
+        "name": "And FlixHD",
+        "logo_uri": "https://static.epg.best/in/AndFlix.in.png",
+        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54126"
+      },
+      {
+        "name": "And PriveHD",
+     "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
+     "uri": "http://103.194.169.115:25461/htlbdi4E5n/g5HfRs97Y7/54042?play_token=L0YRLI4qIY&token=GRdRWUpbQV9BB1sHWwZaAg1QAQACVAQFVwBUVAVVClBaVwEBD1FVBgcRFEQQFxAGVQxnD1YVCVQHU1AAHEFNQgdHZlFdEVlHUgsIVltVUUEYQ0wPX1IRWwJWXQUDVA4CWwQVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+      },
+      {
+        "name": "Sony PixHD",
+        "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54171"
+      },
+      {
+        "name": "Red By HBO",
+        "logo_uri": "https://i.ibb.co/swQNcWz/REDBHBOIDD-S1.png",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8"
+      },
+      {
+        "name": "MNPlusHD",
+        "logo_uri": "https://i.imgur.com/QPcVm2h.png",
+        "uri": "http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54104?token=GRdRWUpbQV9BBQtfAFBQB1ZSWQAEBVFRAloHBAJVDwlTAAgPX1cBUVoRFEQQFxAGVQxnD1YVCVQHUlQGHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkGVwQVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+      },
+      {
+        "name": "MNXHD",
+        "logo_uri": "http://static.epg.best/in/MNX2.in.png",
+        "uri": "http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54103?token=GRdRWUpbQV9BVwhTVAIEWgcEXVUCUQpWAlFcB1YBXVIHV10BAAQHA1URFEQQFxAGVQxnD1YVCVQHUlQBHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkJUwcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+      },
+      {
+        "name": "Now MoviesHD",
+        "logo_uri": "http://static.epg.best/in/MoviesNow.in.png",
+        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54102"
+      },
+      {
+        "name": "AKSION HD",
+        "logo_uri": "http://albepg.com/tvlogi/Film%20Aksion.png",
+        "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/3418?play_token=vyiZKSssZT"
+      },
+      {
+        "name": "TV1000",
+        "logo_uri": "https://i.imgur.com/pWnecuO.jpg",
+        "uri": "http://iptv-line.com:7899/oVNXVpya8z/SOGbe7AGh6/27094?play_token=DljbInJ3Qp"
+      },
+      {
+        "name": "Star Select MoviesHD",
+        "uri":"http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54175"
+      },
+      {
+        "name": "EPIX MOVIES",
+        "uri":"http://iptv-line.com:7899/zoltanczar1/4JCIm1t7/67337?play_token=TbI9ac9nLQ"
+      },
+      {
+        "name": "CinePlex HD",
+        "uri": "http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110869"
+      },
+      {
+        "name": "ActionMax HD",
+        "uri": "http://185.59.222.189:25461/krelock1_mac/z9JJFc0VnM/110147?token=GRdRWUpbQV9BAgpfUgIHB1JRAFMBBAQHBVNUAghVCgEGVAFaDABQXQYRFEQQFxAGVQxnD1YVCVACU1UGB08aRBFQS2dQV0FfQQINXlNRV1cWTRoSW1pWQwlSUgIBUwEBWwMMFBtDCgFBCRpUUVpWVhZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFcNWQ1EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFENUghETw=="
+      },
+      {
+        "name": "X PREMIUM 1",
+        "uri": "http://iptv-line.com:7899/cmillernyc1/Chrism83/3444"
+      },
+      {
+        "name": "X ScyFy HD",
+        "uri": "http://85.203.33.68:25461/Ux587UglOc/kT2mzeWeCz/62406?play_token=h21NU6dTLc&token=ShdcBRFREglDVAVQVwsLBFULAVMOCgcOUFwJU1ZSXQQEBAZSVAgCUlZGHxERR0tSUF5mClwbCQFUUQkDG0BMQ1RHaw0GGwoRVVIDA1cBGxsTR1AOXRsJBlBVCQIDWg0IAhkWFAtdEgkPEV9fThFcT0VWSw1ZVWxTAxNQVlJAA15EWVhIQFZebAUBXlIMVxsNEwIbTxpQQEdEX1dAWw4VElNcQBYDTVURWwpGXw4fG1ReRlcXSkARDUQoYBcbQFxIRVBaFwtWXhFbRkdAQB8bXkJsSwZLTUFSBwhcRxVYGwATGRYJA0FvUA4KXVYBR1BYX0AbWRoIERtECFZbXhZWQm5FXQBAA15GDQhO"
+      },
+      {
+        "name": "X Thriller HD",
+        "uri": "http://iptv-line.com:7899/krelock1_mac/z9JJFc0VnM/3412"
+      },
+      {
+        "name": "X WESTERN HD",
+        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/3411"
+      },
+      {
+        "name": "X Action HD",
+        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/3443"
+      },
+      {
+        "name": "AKSION HD",
+        "uri": "http://iptv-line.com:7899/live/stevencap.turf2/Capsteven/3435.m3u8"
+      },
+      {
+        "name": "PINK MOVIES",
+        "uri": "http://iptv-line.com:7899/live/gf5178810/lk5962474/3568.m3u8"
+      }
+    ]
   }
 ]
