@@ -323,5 +323,143 @@
         "uri": "http://iptv-line.com:7899/live/gf5178810/lk5962474/3568.m3u8"
       }
     ]
+      }, 
+      {
+    "name": "HINDI/TAMIL",
+    "samples": [
+      {
+        "name": "And PicsHD",
+        "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
+        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54091"
+      },
+      {
+        "name": "And XplorHD",
+        "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
+        "uri": "http://iptv-line.com:7899/htlbdi4E5n/g5HfRs97Y7/303?token=GRdRWUpbQV9BCwFfBlAAVlBQXlNTBQJXC1FUCwMAWwJTAgFdXANaVwcRFEQQFxAGVQxnD1YVCVIDUEgQRRBdQz1cXRoDEVJdUwMAUFBBTkFACFUDEA0CVwNTVgUCUg8FThdJUV0RWUdQAQpUU0FOQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVhAbEQhAE0YIXhZUXU4XW1FNQQIRBhECRFFbUlEWTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaUFZaUkFJ"
+      },
+      {
+        "name": "Zee CinemaHD",
+        "logo_uri":"https://static.epg.best/sa/ZeeCinemaEn.sa.png",
+        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54228"
+      },
+      {
+        "name": "Colors CinePlexHD",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",
+        "uri": "http://103.194.169.115:25461/2audi4.14/Richtlijn1/54037?token=GRdRWUpbQV9BBwtUBVNbAFEDAFUBAlJSVlNcAgECDFcDBgkOXQUABFoRFEQQFxAGVQxnD1YVCVQHU1cFHEFNQgdHZlFdEVlHUgoNVVdUVUEYQ0wPX1IRWwJVVAIJUAwEVgMVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+      },
+      {
+        "name": "AndTV",
+        "logo_uri": "https://static.epg.best/in/AndTV.in.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ZEE CINEMA",
+        "logo_uri":"https://static.epg.best/sa/ZeeCinemaEn.sa.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ZEE TV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ZING",
+        "logo_uri": "https://static.epg.best/in/Zing.in.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "YUPP THIRAI HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj"
+      },
+      {
+        "name": "COLORS TAMIL HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-tamil.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj"
+      },
+      {
+        "name": "POLIMER",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Polimer.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj"
+      },
+      {
+        "name": "JAYA MAX",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/jaya-max.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj"
+      },
+      {
+        "name": "SONY MAX",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Sony-Max.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj"
+      },
+      {
+        "name": "UTV MOVIES HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Utv-Movies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj"
+      },
+      {
+        "name": "COLORS CINEPLEX",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj"
+      },
+      {
+        "name": "COLORS",
+	"logo_uri": "https://static.epg.best/in/Colors.in.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj"
+      },
+      {
+        "name": "SONY SAB",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/sony-sab.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj"
+      },
+      {        
+	"name": "SONY SET",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SONY-SET.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjlkODVkOGYtOTIyMC0zMmIwLWFmNWQtMWY4YjNlNmE5NzRj"
+      },
+      {
+        "name": "ZEE BIOSKOP",
+        "logo_uri": "https://i.postimg.cc/V6xWZTgY/zeebioskop.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "BOLLYONE HD",
+        "uri": "http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110176"
+      },
+      {
+        "name": "D2H Movies HD",
+        "uri": "http://103.194.169.115:25461/Gilbertusevans1/Vut4paSy/54226?play_token=lxrPIC6ZpK&token=GRdRWUpbQV9BVl5QUlRXBgZRW1RRAwEEAlIHBglRWQlQBAsNAVVSA1ARFEQQFxAGVQxnD1YVCVQHUVYEHEFNQgdHZlFdEVlHUgsMVldaVEEYQ0wPX1IRWwJWXQcHUAEEUAAVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+      }
+    ]
   }
 ]
