@@ -338,8 +338,8 @@
     ]
       },
       {
-    "name": "DOKUMENTARI",
-    "samples": [
+          "name": "DOKUMENTARI",
+          "samples": [
       {
         "name": "BBC EARTH HD",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png",
@@ -404,85 +404,85 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-               "name": "HISTORY",
-     "logo_uri": "https://static.epg.best/mx/HistoryChannel.mx.png",
-     "uri": "http://iptv-line.com:7899/y5NsRVdkdm/ne55rrChAg/110222?token=GRdRWUpbQV9BUQBWVVpSUwZVAVYKBAoCCgFVUQdXCwcEUV0IXAIBVQERFEQQFxAGVQxnD1YVCVACU1YAAk8aRBFQS2dQV0FfQQIBV1taVlsWTRoSW1pWQwlSUgIAUQ4EUg0IFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
+              "name": "HISTORY",
+              "logo_uri": "https://static.epg.best/mx/HistoryChannel.mx.png",
+              "uri": "http://iptv-line.com:7899/y5NsRVdkdm/ne55rrChAg/110222?token=GRdRWUpbQV9BUQBWVVpSUwZVAVYKBAoCCgFVUQdXCwcEUV0IXAIBVQERFEQQFxAGVQxnD1YVCVACU1YAAk8aRBFQS2dQV0FfQQIBV1taVlsWTRoSW1pWQwlSUgIAUQ4EUg0IFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
         },
         {
                 "name": "DISCOVERY",
-     "logo_uri": "https://i.imgur.com/ESeGnT2.jpg",
-     "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110219"
+               "logo_uri": "https://i.imgur.com/ESeGnT2.jpg",
+               "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110219"
         },
         {
-                "name": "DISCOVERY ASIA",
-     "logo_uri": "https://i.imgur.com/ESeGnT2.jpg",
-     "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110220?play_token=EEdfcBgSvk"
+               "name": "DISCOVERY ASIA",
+              "logo_uri": "https://i.imgur.com/ESeGnT2.jpg",
+              "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110220?play_token=EEdfcBgSvk"
         },
         {
-                "name": "ANIMAL PLANET",
-     "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",
-     "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110223?play_token=snOHIPCBv5"
+              "name": "ANIMAL PLANET",
+             "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",
+             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110223?play_token=snOHIPCBv5"
         },
         {
-                "name": "SMITHSONIAN CHANNEL",
-     "logo_uri": "https://static.epg.best/gb/SmithsonianChannel.uk.png",
-     "uri": "http://iptv-line.com:7899/2audi4.14/Richtlijn1/110150?play_token=5BMIpuxZrM&token=GRdRWUpbQV9BUFpXUFFaAQAEDlQAAQRUAQUAAVNSDgcDVgAIDgNbVVsRFEQQFxAGVQxnD1YVCVACU1UHAE8aRBFQS2dQV0FfQQIBU1BXVVQWTRoSW1pWQwlSUQsJWwABUwcIFBtDCgFBCRpXVVVTURZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFYGUQxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1UCUQ5ETw=="
+              "name": "SMITHSONIAN CHANNEL",
+             "logo_uri": "https://static.epg.best/gb/SmithsonianChannel.uk.png",
+             "uri": "http://iptv-line.com:7899/2audi4.14/Richtlijn1/110150?play_token=5BMIpuxZrM&token=GRdRWUpbQV9BUFpXUFFaAQAEDlQAAQRUAQUAAVNSDgcDVgAIDgNbVVsRFEQQFxAGVQxnD1YVCVACU1UHAE8aRBFQS2dQV0FfQQIBU1BXVVQWTRoSW1pWQwlSUQsJWwABUwcIFBtDCgFBCRpXVVVTURZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFYGUQxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1UCUQ5ETw=="
         },
         {
-                "name": "DOCUBOX HD",
-     "uri": "http://85.203.33.68:25461/16owLK4LFk/cD92cohMUO/62219?play_token=tx0SDlnaBS&token=ShdcBRFREglDBwsDUAYAAwRWXwEIDFUDAFUNVlYDAAIBAlJdBw8EUQVGHxERR0tSUF5mClwbCQFUVwgMG0BMQ1RHaw0GGwoRVVMCBlIEGxsTR1AOXRsJBlBVCAAFVQgBCBkWFAtdEglDVQAGVwYbGxNWQRddS11WCjpdUEELWlUTD1oRDlUcEQ4KbFcHXlhZVREDQQkbHxUPFkkXDQxMXF0ZFgYLTUJSFQERCUACCwUHERVBW1ZGWRIXQBcNQHRpExkWARpNVV0SDVxdQAkbQ0IRFUFRSmxFAxZNR1IDVFVDFw5GUhscEQwFS2wBXFdZVFBNCldXQBVcRwgXG0BUX19cQAsQZkBaBUYJEVcAAAcFEUQ="
+              "name": "DOCUBOX HD",
+              "uri": "http://85.203.33.68:25461/16owLK4LFk/cD92cohMUO/62219?play_token=tx0SDlnaBS&token=ShdcBRFREglDBwsDUAYAAwRWXwEIDFUDAFUNVlYDAAIBAlJdBw8EUQVGHxERR0tSUF5mClwbCQFUVwgMG0BMQ1RHaw0GGwoRVVMCBlIEGxsTR1AOXRsJBlBVCAAFVQgBCBkWFAtdEglDVQAGVwYbGxNWQRddS11WCjpdUEELWlUTD1oRDlUcEQ4KbFcHXlhZVREDQQkbHxUPFkkXDQxMXF0ZFgYLTUJSFQERCUACCwUHERVBW1ZGWRIXQBcNQHRpExkWARpNVV0SDVxdQAkbQ0IRFUFRSmxFAxZNR1IDVFVDFw5GUhscEQwFS2wBXFdZVFBNCldXQBVcRwgXG0BUX19cQAsQZkBaBUYJEVcAAAcFEUQ="
         },
         {
-                 "name": "OUTDOOR",
-     "logo_uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES",
-     "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/5756?play_token=qt4lFGSTz0"
+              "name": "OUTDOOR",
+              "logo_uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES",
+              "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/5756?play_token=qt4lFGSTz0"
         }
      ]
        },
        {
            "name": "KIDS",
-           "samples": [
+            "samples": [
        {
-        "name": "DREAMWORK HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+             "name": "DREAMWORK HD",
+	     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",
+             "uri": "http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd",
+             "drm_scheme": "widevine",
+             "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "NICK JR.",
+               "name": "NICK JR.",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nick-jr.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+                "uri": "http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd",
+                "drm_scheme": "widevine",
+                "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "CBEEBIES HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cbeebies.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+             "name": "CBEEBIES HD",
+             "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cbeebies.png",
+             "uri": "http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd",
+             "drm_scheme": "widevine",
+             "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {           
-		"name": "NICKELODEON",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nickelodeon.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+	      "name": "NICKELODEON",
+	      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nickelodeon.png",
+              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd",
+              "drm_scheme": "widevine",
+              "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "BOOMERANG HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/boomerang.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+              "name": "BOOMERANG HD",
+	      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/boomerang.png",
+              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd",
+              "drm_scheme": "widevine",
+              "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "BABYTV",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+              "name": "BABYTV",
+	      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png",
+               "uri": "http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd",
+               "drm_scheme": "widevine",
+               "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
         },
         {
               "name": "DISNEY CHANNEL",
@@ -543,18 +543,18 @@
             "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "UNIFI SPORTS2",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+           "name": "UNIFI SPORTS2",
+	   "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png",
+           "uri": "http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd",
+           "drm_scheme": "widevine",
+           "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "UNIFI SPORTS3",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+           "name": "UNIFI SPORTS3",
+	   "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png",
+           "uri": "http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd",
+           "drm_scheme": "widevine",
+           "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
           "name": "UNIFI SPORTS4",
