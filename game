@@ -600,10 +600,10 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       }
     ]
-  },
-  {
-    "name": "SPORTS",
-    "samples": [
+      },
+      {
+          "name": "SPORTS",
+          "samples": [
       {
              "name": "RTM SPORTS",
              "logo_uri": "https://freeview.github.io/logos/rtmhdsports.png",
@@ -664,91 +664,91 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-        }
+        },
         {
-                "name": "ASTRO SUPERSPORTS 1",
-                "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-   "uri": "http://iptv-line.com:7899/live/j4JzgPzv0c/gn0Izr07rO/110252.m3u8"
+               "name": "ASTRO SUPERSPORTS 1",
+               "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
+               "uri": "http://iptv-line.com:7899/live/j4JzgPzv0c/gn0Izr07rO/110252.m3u8"
           },
           {
-                 "name": "ASTRO SUPERSPORTS 2",
-                 "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-   "uri": "http://iptv-line.com:7899/live/j4JzgPzv0c/gn0Izr07rO/110253.m3u8"
+               "name": "ASTRO SUPERSPORTS 2",
+               "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
+               "uri": "http://iptv-line.com:7899/live/j4JzgPzv0c/gn0Izr07rO/110253.m3u8"
           },
           {
-                 "name": "ASTRO SUPERSPORTS 3",
-                 "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-   "uri": "http://iptv-line.com:7899/live/j4JzgPzv0c/gn0Izr07rO/110254.m3u8"
+              "name": "ASTRO SUPERSPORTS 3",
+              "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
+              "uri": "http://iptv-line.com:7899/live/j4JzgPzv0c/gn0Izr07rO/110254.m3u8"
           },
           {
-                  "name": "ASTRO SUPERSPORTS 4",
-                  "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-   "uri": "http://iptv-line.com:7899/live/j4JzgPzv0c/gn0Izr07rO/110255.m3u8"
+              "name": "ASTRO SUPERSPORTS 4",
+              "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
+              "uri": "http://iptv-line.com:7899/live/j4JzgPzv0c/gn0Izr07rO/110255.m3u8"
          },
          {
-                  "name": "ESPN",
-   "logo_uri": "https://static.epg.best/us/ESPN.us.png",
-   "uri": "http://185.59.222.189:25461/AQplSlyznW/d6Cv8rwqQj/110065?play_token=1FFBOP1a6N&token=GRdRWUpbQV9BBgFTBwZSUVBZCgcEVQtUUAYFClQHXAEEAl0OAVYABFIRFEQQFxAGVQxnD1YVCVACU1QEBU8aRBFQS2dQV0FfQQIPVVBUWlAWTRoSW1pWQwlSUQsJUw4IUwIKFBtDCgFBCRpVU1paVxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFcNWA1EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1oHVQpETw=="
+             "name": "ESPN",
+             "logo_uri": "https://static.epg.best/us/ESPN.us.png",
+             "uri": "http://185.59.222.189:25461/AQplSlyznW/d6Cv8rwqQj/110065?play_token=1FFBOP1a6N&token=GRdRWUpbQV9BBgFTBwZSUVBZCgcEVQtUUAYFClQHXAEEAl0OAVYABFIRFEQQFxAGVQxnD1YVCVACU1QEBU8aRBFQS2dQV0FfQQIPVVBUWlAWTRoSW1pWQwlSUQsJUw4IUwIKFBtDCgFBCRpVU1paVxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFcNWA1EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1oHVQpETw=="
          },
          {
             "name": "SONY TEN 1",
-   "logo_uri": "https://static.epg.best/in/SonyTEN1.in.png",
-   "uri": "http://iptv-line.com:7899/live/portersarah19563/ZtLTeZwI/6216.m3u8" 
+            "logo_uri": "https://static.epg.best/in/SonyTEN1.in.png",
+            "uri": "http://iptv-line.com:7899/live/portersarah19563/ZtLTeZwI/6216.m3u8" 
          },
          {
              "name": "SONY TEN 2",
-   "logo_uri": "https://static.epg.best/in/SonyTEN2.in.png",
-   "uri": "http://62.210.82.206:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34491?play_token=ZLhCGLgLaK&token=QhVcUhcJRggXVVZfAQAGVQAEBlFWUVdRUgECV1YGW1AJVVAEAFBdCldGGURBEkJRAFtpWgVEXlBRUAxQSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdA1NTUFVTCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
+             "logo_uri": "https://static.epg.best/in/SonyTEN2.in.png",
+             "uri": "http://62.210.82.206:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34491?play_token=ZLhCGLgLaK&token=QhVcUhcJRggXVVZfAQAGVQAEBlFWUVdRUgECV1YGW1AJVVAEAFBdCldGGURBEkJRAFtpWgVEXlBRUAxQSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdA1NTUFVTCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
          },
          {
-                "name": "ASTRO ARENA",
-   "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-   "uri": "http://iptvtree.net:8080/Line1051/f4fffd47/157485?play_token=YjglUREMOJ"
+              "name": "ASTRO ARENA",
+              "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
+              "uri": "http://iptvtree.net:8080/Line1051/f4fffd47/157485?play_token=YjglUREMOJ"
          },
          {
              "name": "EUROSPORTS",
-   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110261?play_token=Zod0QEbgTj"
+             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110261?play_token=Zod0QEbgTj"
          },
          {
              "name": "FISHING NETWORK",
-   "uri": "http://185.102.218.107:25461/AQplSlyznW/d6Cv8rwqQj/47282?play_token=AIxOYDLmrI&token=GRdRWUpbQV9BAwBfAVVQB1JTXQcLVgEAVlIHVAhTXQlUVw4JWFBQUlQRFEQQFxAGVQxnD1YVCVUEUVwAHEFNQgdHZlFdEVlHUgQLVVRbUUEYQ0wPX1IRWwJWXQsAVQEDUgIVGklaB0dZEQpWV1pUQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUVoDUBpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRUlcDUBob"
+              "uri": "http://185.102.218.107:25461/AQplSlyznW/d6Cv8rwqQj/47282?play_token=AIxOYDLmrI&token=GRdRWUpbQV9BAwBfAVVQB1JTXQcLVgEAVlIHVAhTXQlUVw4JWFBQUlQRFEQQFxAGVQxnD1YVCVUEUVwAHEFNQgdHZlFdEVlHUgQLVVRbUUEYQ0wPX1IRWwJWXQsAVQEDUgIVGklaB0dZEQpWV1pUQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUVoDUBpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRUlcDUBob"
          },
          {
              "name": "EUROSPORTS 1",
-   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/17969"
+             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/17969"
          },
          {
              "name": "EUROSPORTS 2",
-   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/17970"
+              "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/17970"
          },
          {
              "name": "FS 2",
-   "uri": "http://iptv-line.com:7899/live/Germany/eaPirg0NjC/13.m3u8"
+              "uri": "http://iptv-line.com:7899/live/Germany/eaPirg0NjC/13.m3u8"
          },
          {
              "name": "START SPORTS SELECT 1",
              "logo_uri": "https://static.epg.best/in/StarSportsSelect1.in.png",
-   "uri": "http://103.194.169.115:25461/hHQcyglr3i/DsIXstfyTnisshared/54242?token=GRdRWUpbQV9BUQwAW1JRVwJUCAJTBQBSV1FSUVVbDwEBDA1bAAZUAwARFEQQFxAGVQxnD1YVCVQHUVAAHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMBVAsIVgUVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+             "uri": "http://103.194.169.115:25461/hHQcyglr3i/DsIXstfyTnisshared/54242?token=GRdRWUpbQV9BUQwAW1JRVwJUCAJTBQBSV1FSUVVbDwEBDA1bAAZUAwARFEQQFxAGVQxnD1YVCVQHUVAAHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMBVAsIVgUVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
          },
          {
              "name": "STAR SPORTS SELECT 2",
              "logo_uri": "https://static.epg.best/in/StarSportsSelect2.in.png",
-   "uri": "http://103.194.169.115:25461/liviu1211/DkpoMEj7/54243?token=GRdRWUpbQV9BAV1QWlVRVQUHDQdWVApTUlRRCwUGDAVTBwAOCVFbU1ARFEQQFxAGVQxnD1YVCVQHUVABHEFNQgdHZlFdEVlHUgQPU1ZaUUEYQ0wPX1IRWwJVVAIFVAgCUQAVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+              "uri": "http://103.194.169.115:25461/liviu1211/DkpoMEj7/54243?token=GRdRWUpbQV9BAV1QWlVRVQUHDQdWVApTUlRRCwUGDAVTBwAOCVFbU1ARFEQQFxAGVQxnD1YVCVQHUVABHEFNQgdHZlFdEVlHUgQPU1ZaUUEYQ0wPX1IRWwJVVAIFVAgCUQAVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
          },
          {
              "name": "BEIN SPORTS",
              "logo_uri": "https://s4.postimg.cc/m171drj19/bein-sports-400.png",
-   "uri": "http://185.59.222.189:25461/liviu1211/DkpoMEj7/110259?token=GRdRWUpbQV9BBghWAFtUW1EACFcFVQECAQcABQUHWlBVDQwJXQEGBFIRFEQQFxAGVQxnD1YVCVACU1YHCU8aRBFQS2dQV0FfQQIPUVZWW1AWTRoSW1pWQwlSUgIAVg8BUwQPFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
+             "uri": "http://185.59.222.189:25461/liviu1211/DkpoMEj7/110259?token=GRdRWUpbQV9BBghWAFtUW1EACFcFVQECAQcABQUHWlBVDQwJXQEGBFIRFEQQFxAGVQxnD1YVCVACU1YHCU8aRBFQS2dQV0FfQQIPUVZWW1AWTRoSW1pWQwlSUgIAVg8BUwQPFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
          },
          {
              "name": "BT SPORTS 1",
              "logo_uri": "https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",
-   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/40205"
+             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/40205"
          },
          {
               "name": "BT SPORTS 2",
               "logo_uri": "https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",
-   "uri": "http://iptv-line.com:7899/live/stevencap.turf2/Capsteven/8619.m3u8"
+              "uri": "http://iptv-line.com:7899/live/stevencap.turf2/Capsteven/8619.m3u8"
          }
        ]
      }
