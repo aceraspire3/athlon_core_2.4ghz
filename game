@@ -494,26 +494,6 @@
               "uri": "http://iptvtree.net:8080/Line1051/f4fffd47/157485?play_token=YjglUREMOJ"
          },
          {
-             "name": "EUROSPORTS",
-             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110261?play_token=Zod0QEbgTj"
-         },
-         {
-             "name": "FISHING NETWORK",
-              "uri": "http://185.102.218.107:25461/AQplSlyznW/d6Cv8rwqQj/47282?play_token=AIxOYDLmrI&token=GRdRWUpbQV9BAwBfAVVQB1JTXQcLVgEAVlIHVAhTXQlUVw4JWFBQUlQRFEQQFxAGVQxnD1YVCVUEUVwAHEFNQgdHZlFdEVlHUgQLVVRbUUEYQ0wPX1IRWwJWXQsAVQEDUgIVGklaB0dZEQpWV1pUQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUVoDUBpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRUlcDUBob"
-         },
-         {
-             "name": "EUROSPORTS 1",
-             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/17969"
-         },
-         {
-             "name": "EUROSPORTS 2",
-              "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/17970"
-         },
-         {
-             "name": "FS 2",
-              "uri": "http://iptv-line.com:7899/live/Germany/eaPirg0NjC/13.m3u8"
-         },
-         {
              "name": "START SPORTS SELECT 1",
              "logo_uri": "https://static.epg.best/in/StarSportsSelect1.in.png",
              "uri": "http://103.194.169.115:25461/XnxrQZjyMX/OQIEgd1XRP/54242?token=GRdRWUpbQV9BClkCUVEAUg1QC14DBAFVAlYCBVQCCVVVV19eDQcCVFQRFEQQFxAGVQxnD1YVCVQHUVAAHEFNQgdHZlFdEVlHUgMBUldSV0EYQ0wPX1IRWwJVVAADUgEJUwIVGklaB0dZEQ1RVlVATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXA0WDg8YQ1sJR1lHE0pBXhB9OhodQFBBTFxdEAwMXRpcQRcRQRhDURVtRVYSRxEBU10GShNYFwkaFREOBBtsWwkNDQcAQAhXCEEVCUMCQUgQXQxWWBZaS2dJWgdHWRENUVdWQB4="
@@ -537,6 +517,26 @@
               "name": "BT SPORTS 2",
               "logo_uri": "https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",
               "uri": "http://iptv-line.com:7899/live/stevencap.turf2/Capsteven/8619.m3u8"
+         },
+         {
+             "name": "EUROSPORTS",
+             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110261?play_token=Zod0QEbgTj"
+         },
+         {
+             "name": "FISHING NETWORK",
+              "uri": "http://185.102.218.107:25461/AQplSlyznW/d6Cv8rwqQj/47282?play_token=AIxOYDLmrI&token=GRdRWUpbQV9BAwBfAVVQB1JTXQcLVgEAVlIHVAhTXQlUVw4JWFBQUlQRFEQQFxAGVQxnD1YVCVUEUVwAHEFNQgdHZlFdEVlHUgQLVVRbUUEYQ0wPX1IRWwJWXQsAVQEDUgIVGklaB0dZEQpWV1pUQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUVoDUBpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRUlcDUBob"
+         },
+         {
+             "name": "EUROSPORTS 1",
+             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/17969"
+         },
+         {
+             "name": "EUROSPORTS 2",
+              "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/17970"
+         },
+         {
+             "name": "FS 2",
+              "uri": "http://iptv-line.com:7899/live/Germany/eaPirg0NjC/13.m3u8"
             }
           ]
         }
