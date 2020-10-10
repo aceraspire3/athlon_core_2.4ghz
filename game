@@ -436,55 +436,55 @@
               "name": "OUTDOOR",
               "logo_uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES",
               "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/5756?play_token=qt4lFGSTz0"
-        }
-     ]
-       },
-       {
+         }
+      ]
+        },
+        {
            "name": "KIDS",
             "samples": [
-       {
+        {
              "name": "DREAMWORK HD",
 	     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",
              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd",
              "drm_scheme": "widevine",
              "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
+        },
+        {
                "name": "NICK JR.",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nick-jr.png",
                 "uri": "http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd",
                 "drm_scheme": "widevine",
                 "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
+        },
+        {
              "name": "CBEEBIES HD",
              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cbeebies.png",
              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd",
              "drm_scheme": "widevine",
              "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {           
+        },
+        {           
 	      "name": "NICKELODEON",
 	      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nickelodeon.png",
               "uri": "http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd",
               "drm_scheme": "widevine",
               "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
+        },
+        {
               "name": "BOOMERANG HD",
 	      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/boomerang.png",
               "uri": "http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd",
               "drm_scheme": "widevine",
               "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
+        },
+        {
               "name": "BABYTV",
 	      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png",
                "uri": "http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd",
                "drm_scheme": "widevine",
                "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-        },
-        {
+          },
+          {
               "name": "DISNEY CHANNEL",
               "logo_uri": "https://static.epg.best/es/DisneyChannel.es.png",
               "uri": "http://iptv-line.com:7899/jdaumeri1/coqqJWISu001/26777?play_token=gmWxtPhLmb"
@@ -503,8 +503,8 @@
                "name": "DISNEY JR",
                "logo_uri": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",
                "uri": "http://iptv-line.com:7899/jdaumeri1/coqqJWISu001/26767?play_token=UyM1sPWX8t"
-          },
-          {
+           },
+           {
                 "name": "DISNEY XD",
                 "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",
                 "uri": "http://iptv-line.com:7899/jdaumeri1/coqqJWISu001/26781?play_token=W3l8L34qy5"
@@ -523,7 +523,7 @@
                   "name": "TV KIDS",
                   "logo_uri": "https://i.imgur.com/UVq6IyP.png",
                   "uri": "http://85.203.33.29:25461/ZP2TRfbKjW/t9TY3rkNPR/160631?play_token=17tonlZ2Tg&token=ShdcBRFREglDAVUHVVEBAVJWXwINXwRSVgMIUAEGCgQIUAwBVw8BVQNGHxERR0tSUF5mClwbCQZQVQ8GBk4bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQQCVAkAAAYYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
-             },
+             }
           ]
             },
             {
