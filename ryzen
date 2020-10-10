@@ -359,7 +359,7 @@
    ]
       },
       {
-    "name": "MOVIES",
+    "name": "MOVIES 1",
     "samples": [
        {
         "name": "HBO ASIA",
@@ -528,39 +528,11 @@
        {
          "name": "STAR SELECT HD",
    "uri": "http://iptv-line.com:7899/krelock1_mac/z9JJFc0VnM/54175?token=GRdRWUpbQV9BAwFVWloDAg1TAQMGUVFVUVcBBAkGDFABVA0NDgsFU1MRFEQQFxAGVQxnD1YVCVQHUlMHHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAIGWwkEUAcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
-       },
-        {
-            "name": "ZEE CINEMA HD",
-   "logo_uri": "https://static.epg.best/sa/ZeeCinemaEn.sa.png",
-   "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/54228?play_token=Eb7BldPBDX"
-        },
-        {
-            "name": "D2H MOVIES HD",
-   "uri": "http://iptv-line.com:7899/XnxrQZjyMX/OQIEgd1XRP/54226"
-        },
-        {
-            "name": "&PICS HD",
-   "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
-   "uri": "http://m3ulink.com:6969/XnxrQZjyMX/OQIEgd1XRP/54091"
-         },
-         {
-              "name": "&XPLOR HD",
-   "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
-   "uri": "http://iptv-line.com:7899/ni7fmatQ3r/r2j5rbcy4E/303?play_token=nk4PodiC77"
-      },
-      {
-              "name": "SONY MAX HD",
-   "logo_uri": "https://i.imgur.com/YHa03Rq.png",
-   "uri": "http://85.203.33.29:25461/ZP2TRfbKjW/t9TY3rkNPR/153782?play_token=DZF9EhudvK&token=ShdcBRFREglDUQsBAQdaBwICCwYICVcBVwddUVMGDQIJBAMBVA4BBFhGHxERR0tSUF5mClwbCQZTVg4NBU4bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQQHVgEGBgQYRhJQVBFbRgYEUAYAFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAEDBBtPGlpcQggRS0wVWBt9aBcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAEDAYBEUQ="
-      },
-      {
-              "name": "COLORS CINEPLEX HD",
-   "uri": "http://iptv-line.com:7899/XnxrQZjyMX/OQIEgd1XRP/54090"
-      }
-    ]
+       }
+     ]
        },
        {
-    "name": "MOVIES PREMIUM",
+    "name": "MOVIES 2",
     "samples": [
       {
         "name": "HBO SIGNATURE",
@@ -715,217 +687,7 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-       }
-     ]
-        },
-        {
-              "name": "DOKUMENTARI",
-              "samples": [
-        {
-              "name": "NAT GOE WILL",
-              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/natgeo-wild.png",
-     "uri": "http://62.210.127.217:8080/rPb6vJJBsPx3c3Cc/1c3XNBxRQt6Fd8Xk/28657?play_token=7T7k2Dseum&token=QhVcUhcJRggXU1YHU1JWAlFSV1BVUlJbBlVTUQdUWgJdBVdVB1FTAAJGGURBEkJRAFtpWgVEXlFdUgBWSkAXElxFa1oAQ14QA1MBVQpfEhhDQl9eBEReUlNUBVNQVltWDhsWQw0FRggXUwRTBkQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRABVBgBDGhRQDhMKFxcdF1tELztDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XUQNSBxYc"
-        },
-        {
-              "name": "NAT GOE PEOPLE",
-              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nat-geo-people.png",
-     "uri": "http://62.210.127.217:8080/rPb6vJJBsPx3c3Cc/1c3XNBxRQt6Fd8Xk/28658?play_token=ShPWe7s3dC&token=QhVcUhcJRggXUw1eCwcDUlhVAFcFVVAFXFUBVgBbUVRdU1FQXFdTA1NGGURBEkJRAFtpWgVEXlFdUgBZSkAXElxFa1oAQ14QA1MBVQpfEhhDQl9eBEReUlNUBVNQVltVABsWQw0FRggXVQxWBVESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBUAgRVFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABeAAZQFEs="
-        },
-        {
-              "name": "NAT GOE",
-              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/natgeo.png",
-     "uri": "http://iptv-line.com:7899/ni7fmatQ3r/r2j5rbcy4E/55462?play_token=TCDdiynz2P"
-        },
-        {
-               "name": "BBC EARTH",
-               "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png",
-     "uri": "http://iptv-line.com:7899/ni7fmatQ3r/r2j5rbcy4E/55448?play_token=sXciRkY0Pc"
-        },
-        {
-                "name": "LOVE NATURE",
-                "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/love-nature.png",
-     "uri": "http://85.203.33.120:25461/o1BMaKYP4Q/rb3QtypsEb/174374?play_token=nCG248LGHm&token=ShdcBRFREglDVVEKVgcOBwMHD1dZWAVVX1QMDAVUCwJQV1AAUgpRAwJGHxERR0tSUF5mClwbCQZRUQoCA04bRUJQRjsLXRIJQ1AABlQCABUdEU0KVVwRDVdQAA0EVgECCQUYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
-        },
-        {
-               "name": "HISTORY",
-     "logo_uri": "https://static.epg.best/mx/HistoryChannel.mx.png",
-     "uri": "http://iptv-line.com:7899/y5NsRVdkdm/ne55rrChAg/110222?token=GRdRWUpbQV9BUQBWVVpSUwZVAVYKBAoCCgFVUQdXCwcEUV0IXAIBVQERFEQQFxAGVQxnD1YVCVACU1YAAk8aRBFQS2dQV0FfQQIBV1taVlsWTRoSW1pWQwlSUgIAUQ4EUg0IFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
-        },
-        {
-                "name": "DISCOVERY",
-     "logo_uri": "https://i.imgur.com/ESeGnT2.jpg",
-     "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110219"
-        },
-        {
-                "name": "DISCOVERY ASIA",
-     "logo_uri": "https://i.imgur.com/ESeGnT2.jpg",
-     "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110220?play_token=EEdfcBgSvk"
-        },
-        {
-                "name": "ANIMAL PLANET",
-     "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",
-     "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110223?play_token=snOHIPCBv5"
-        },
-        {
-                "name": "SMITHSONIAN CHANNEL",
-     "logo_uri": "https://static.epg.best/gb/SmithsonianChannel.uk.png",
-     "uri": "http://iptv-line.com:7899/2audi4.14/Richtlijn1/110150?play_token=5BMIpuxZrM&token=GRdRWUpbQV9BUFpXUFFaAQAEDlQAAQRUAQUAAVNSDgcDVgAIDgNbVVsRFEQQFxAGVQxnD1YVCVACU1UHAE8aRBFQS2dQV0FfQQIBU1BXVVQWTRoSW1pWQwlSUQsJWwABUwcIFBtDCgFBCRpXVVVTURZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFYGUQxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1UCUQ5ETw=="
-        },
-        {
-                "name": "DOCUBOX HD",
-     "uri": "http://85.203.33.68:25461/16owLK4LFk/cD92cohMUO/62219?play_token=tx0SDlnaBS&token=ShdcBRFREglDBwsDUAYAAwRWXwEIDFUDAFUNVlYDAAIBAlJdBw8EUQVGHxERR0tSUF5mClwbCQFUVwgMG0BMQ1RHaw0GGwoRVVMCBlIEGxsTR1AOXRsJBlBVCAAFVQgBCBkWFAtdEglDVQAGVwYbGxNWQRddS11WCjpdUEELWlUTD1oRDlUcEQ4KbFcHXlhZVREDQQkbHxUPFkkXDQxMXF0ZFgYLTUJSFQERCUACCwUHERVBW1ZGWRIXQBcNQHRpExkWARpNVV0SDVxdQAkbQ0IRFUFRSmxFAxZNR1IDVFVDFw5GUhscEQwFS2wBXFdZVFBNCldXQBVcRwgXG0BUX19cQAsQZkBaBUYJEVcAAAcFEUQ="
-        },
-        {
-                 "name": "OUTDOOR",
-     "logo_uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES",
-     "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/5756?play_token=qt4lFGSTz0"
         }
-     ]
-       },
-       {
-    "name": "SPORTS",
-    "samples": [
-       {
-             "name": "RTM SPORTS",
-             "logo_uri": "https://freeview.github.io/logos/rtmhdsports.png",
-   "uri": "https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8"
-         },
-         {
-             "name": "UNIFI SPORTS 1",
-             "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png",
-   "uri": "http://85.203.33.120:25461/afQzKU1MEj/0Zl8Zhtd5J/174318?play_token=6ivT5n0Vmt&token=ShdcBRFREglDBQECVwcJVVQCXAYKX1dWAlAJUVNbXwIGBgRdWwAIUgJGHxERR0tSUF5mClwbCQZRUQoED04bRUJQRjsLXRIJQ1cDBlAKCBUdEU0KVVwRDVdTCQQHUQgJAgUYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
-         },
-         {
-               "name": "UNIFI SPORTS 2",
-               "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png",
-   "uri": "http://85.203.33.120:25461/afQzKU1MEj/0Zl8Zhtd5J/174319?play_token=Z9SygH3PnX&token=ShdcBRFREglDVwMHBAsOBwEFDFAMW1EFAFcOBgIDCFQJBwxVUFtRVlFGHxERR0tSUF5mClwbCQZRUQoEDk4bRUJQRjsLXRIJQ1cDBlAKCBUdEU0KVVwRDVdTCQQHUQsAAAwYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
-         },
-         {
-               "name": "UNIFI SPORTS 3",
-               "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png",
-   "uri": "http://85.203.33.120:25461/afQzKU1MEj/0Zl8Zhtd5J/174320?play_token=hV2UjwNdrZ&token=ShdcBRFREglDUQIBVwMOBFVWDwILCFdWBwFYDQMDCwVTAgYBUg9TBgVGHxERR0tSUF5mClwbCQZRUQoHB04bRUJQRjsLXRIJQ1cDBlAKCBUdEU0KVVwRDVdTCQQHUQsACAUYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
-         },
-         {
-               "name": "UNIFI SPORTS 4",
-               "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png",
-   "uri": "http://85.203.33.120:25461/afQzKU1MEj/0Zl8Zhtd5J/174321?play_token=ALM0QUIbQa&token=ShdcBRFREglDAQZVAFdcVFJRD1QAAVFUUlYPVwcEXQkIVgAHVQ0ABwBGHxERR0tSUF5mClwbCQZRUQoHBk4bRUJQRjsLXRIJQ1cDBlAKCBUdEU0KVVwRDVdTCQQHUQsBBQQYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
-         },
-         {
-               "name": "UNIFI SPORTS 5",
-               "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png",
-   "uri": "http://195.181.164.44:25461/pfTG8HxEkK/BG8C5fzCQ3/328395?token=ThNfA0NeF14SCloCBlNXBlNbVwVSVAVTAQVaW1AGCglUVwZSUVMAVVERTxZGFkRVAw87XlQXDQZXDQpaBh0RREZURT1ZUhdeEgJRAQFVARJOQBBeXVAVD1QDCVIDCQsEAwUbQEBfUUYKXRZYWU4UVRoWAUVeVFtqAVBPClBUEQtbRFsOHBRaCm9XBllUDFISWEBVFRwXXkYVFwMNRl1fHRdTXhZCV0EBEgkNQVkOGhIBDRFZREdOF18XdDoRHRFUTUVSDENfWgoSCUFARkAaEgsRO0VVRkNHAFRUBkETCRMFExtAXVdNO1NcDVpQAUJZDQwXFQoXBhdJF1QMXVhHXkduRwtUFA8KRV8PSQ=="
-         },
-         {
-             "name": "F1",
-             "logo_uri": "https://i.postimg.cc/g03KvjQt/XqiwbsI5.jpg",
-   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/18052"
-         },
-         {
-             "name": "START SPORTS SELECT 1",
-             "logo_uri": "https://static.epg.best/in/StarSportsSelect1.in.png",
-   "uri": "http://103.194.169.115:25461/hHQcyglr3i/DsIXstfyTnisshared/54242?token=GRdRWUpbQV9BUQwAW1JRVwJUCAJTBQBSV1FSUVVbDwEBDA1bAAZUAwARFEQQFxAGVQxnD1YVCVQHUVAAHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMBVAsIVgUVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
-         },
-         {
-             "name": "STAR SPORTS SELECT 2",
-             "logo_uri": "https://static.epg.best/in/StarSportsSelect2.in.png",
-   "uri": "http://103.194.169.115:25461/liviu1211/DkpoMEj7/54243?token=GRdRWUpbQV9BAV1QWlVRVQUHDQdWVApTUlRRCwUGDAVTBwAOCVFbU1ARFEQQFxAGVQxnD1YVCVQHUVABHEFNQgdHZlFdEVlHUgQPU1ZaUUEYQ0wPX1IRWwJVVAIFVAgCUQAVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
-         },
-         {
-             "name": "BEIN SPORTS",
-             "logo_uri": "https://s4.postimg.cc/m171drj19/bein-sports-400.png",
-   "uri": "http://185.59.222.189:25461/liviu1211/DkpoMEj7/110259?token=GRdRWUpbQV9BBghWAFtUW1EACFcFVQECAQcABQUHWlBVDQwJXQEGBFIRFEQQFxAGVQxnD1YVCVACU1YHCU8aRBFQS2dQV0FfQQIPUVZWW1AWTRoSW1pWQwlSUgIAVg8BUwQPFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
-         },
-         {
-             "name": "BT SPORTS 1",
-             "logo_uri": "https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",
-   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/40205"
-         },
-         {
-              "name": "BT SPORTS 2",
-              "logo_uri": "https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",
-   "uri": "http://iptv-line.com:7899/live/stevencap.turf2/Capsteven/8619.m3u8"
-         },
-         {         
-              "name": "FOX SPORTS 1",
-              "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-      },
-      {
-              "name": "FOX SPORTS 2",
-              "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-       },
-       {
-              "name": "FOX SPORTS 3",
-              "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz"
-         },
-         {
-                "name": "ASTRO SUPERSPORTS 1",
-                "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-   "uri": "http://iptv-line.com:7899/live/j4JzgPzv0c/gn0Izr07rO/110252.m3u8"
-          },
-          {
-                 "name": "ASTRO SUPERSPORTS 2",
-                 "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-   "uri": "http://iptv-line.com:7899/live/j4JzgPzv0c/gn0Izr07rO/110253.m3u8"
-          },
-          {
-                 "name": "ASTRO SUPERSPORTS 3",
-                 "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-   "uri": "http://iptv-line.com:7899/live/j4JzgPzv0c/gn0Izr07rO/110254.m3u8"
-          },
-          {
-                  "name": "ASTRO SUPERSPORTS 4",
-                  "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-   "uri": "http://iptv-line.com:7899/live/j4JzgPzv0c/gn0Izr07rO/110255.m3u8"
-         },
-         {
-                  "name": "ESPN",
-   "logo_uri": "https://static.epg.best/us/ESPN.us.png",
-   "uri": "http://185.59.222.189:25461/AQplSlyznW/d6Cv8rwqQj/110065?play_token=1FFBOP1a6N&token=GRdRWUpbQV9BBgFTBwZSUVBZCgcEVQtUUAYFClQHXAEEAl0OAVYABFIRFEQQFxAGVQxnD1YVCVACU1QEBU8aRBFQS2dQV0FfQQIPVVBUWlAWTRoSW1pWQwlSUQsJUw4IUwIKFBtDCgFBCRpVU1paVxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFcNWA1EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1oHVQpETw=="
-         },
-         {
-            "name": "SONY TEN 1",
-   "logo_uri": "https://static.epg.best/in/SonyTEN1.in.png",
-   "uri": "http://iptv-line.com:7899/live/portersarah19563/ZtLTeZwI/6216.m3u8" 
-         },
-         {
-             "name": "SONY TEN 2",
-   "logo_uri": "https://static.epg.best/in/SonyTEN2.in.png",
-   "uri": "http://62.210.82.206:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34491?play_token=ZLhCGLgLaK&token=QhVcUhcJRggXVVZfAQAGVQAEBlFWUVdRUgECV1YGW1AJVVAEAFBdCldGGURBEkJRAFtpWgVEXlBRUAxQSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdA1NTUFVTCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
-         },
-         {
-                "name": "ASTRO ARENA",
-   "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-   "uri": "http://iptvtree.net:8080/Line1051/f4fffd47/157485?play_token=YjglUREMOJ"
-         },
-         {
-             "name": "EUROSPORTS",
-   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110261?play_token=Zod0QEbgTj"
-         },
-         {
-             "name": "FISHING NETWORK",
-   "uri": "http://185.102.218.107:25461/AQplSlyznW/d6Cv8rwqQj/47282?play_token=AIxOYDLmrI&token=GRdRWUpbQV9BAwBfAVVQB1JTXQcLVgEAVlIHVAhTXQlUVw4JWFBQUlQRFEQQFxAGVQxnD1YVCVUEUVwAHEFNQgdHZlFdEVlHUgQLVVRbUUEYQ0wPX1IRWwJWXQsAVQEDUgIVGklaB0dZEQpWV1pUQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUVoDUBpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRUlcDUBob"
-         },
-         {
-             "name": "EUROSPORTS 1",
-   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/17969"
-         },
-         {
-             "name": "EUROSPORTS 2",
-   "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/17970"
-         },
-         {
-             "name": "FS 2",
-   "uri": "http://iptv-line.com:7899/live/Germany/eaPirg0NjC/13.m3u8"
-         }
-        ] 
-       }
-     ]
+      ] 
+    }
+  ]
