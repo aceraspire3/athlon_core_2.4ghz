@@ -420,16 +420,6 @@
         "name": "FOX FAMILY MOVIES",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/170_144.png",
         "uri": "http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28678?play_token=dL6k4mXLU9&token=QhVcUhcJRggXAgJRAQQHAlcGVwQAUwVUBFJRVwJUVVABD1ZRUwAAAgJGGURBEkJRAFtpWgVEXlFdUgJZSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBWABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI" 
-    },
-    {
-         "name": "tvN MOVIES",
-         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",
-         "uri": "http://iptv-line.com:7899/ni7fmatQ3r/r2j5rbcy4E/55477?play_token=Rdxj9QLyGc" 
-     },
-     {
-          "name": "WB MOVIES",
-          "logo_uri": "http://static.epg.best/fr/WarnerTV.fr.png",
-          "uri": "http://85.203.33.120:25461/ix0CrC6K5S/bSyblbESqM/174333?play_token=urcYoHivP2&token=ShdcBRFREglDU1AEVFcNUgkDD1ReXVZRUlEBB1FTD1FSVlZdUF0GVQBGHxERR0tSUF5mClwbCQZRUQoGBE4bRUJQRjsLXRIJQ1AGA1QDDRUdEU0KVVwRDVdTCQUCVA4GAAAYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
      },
      {
           "name": "&PRIVE HD",
@@ -475,33 +465,9 @@
             "name": "MNPLUS HD",
             "logo_uri": "https://i.imgur.com/QPcVm2h.png",
             "uri": "http://iptv-line.com:7899/XnxrQZjyMX/OQIEgd1XRP/54104"
-        },
-        {
-            "name": "THRILL",
-           "logo_uri": "https://i.imgur.com/cPneq0f.png",
-           "uri": "http://iptv-line.com:7899/ni7fmatQ3r/r2j5rbcy4E/46481?play_token=ht2JJaJvvW"
-        },
-        {
-            "name": "KIX",
-            "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",
-            "uri": "http://62.210.127.217:8080/Ery1FyFC263HBAMV/BNCBfyPujSy6x9pM/28662?play_token=Zn7gkdvBZp&token=QhVcUhcJRggXBgwCBAICUlVVAAtVBFxRBlxWVQNVWlIBDgUGVgQGVlBGGURBEkJRAFtpWgVEXlFdUgNTSkAXElxFa1oAQ14QA1YFVQZTEhhDQl9eBEReUlNUBVhVUFJQDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
-      },
-      {
-           "name": "STAR CHINA MOVIES",
-           "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
-           "uri": "http://62.210.124.97:8080/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/33249?play_token=SWpF92lrzz&token=QhVcUhcJRggXBg0FBgMCUlgDVQtTBwVUUVMHBwcAW1ILUgNSUgVVBVNGGURBEkJRAFtpWgVEXlBWVgFYSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBVCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
-      },
-      {
-           "name": "STAR CHINA MOVIES LEGEND",
-           "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",
-           "uri": "http://62.210.124.97:8080/Ery1FyFC263HBAMV/BNCBfyPujSy6x9pM/33250?play_token=Vf7nptmrXb&token=QhVcUhcJRggXXVMEAF8CBFgBAAoCUgBaXFcHWF9aAwMKUgMCVgQAC1BGGURBEkJRAFtpWgVEXlBWVgBRSkAXElxFa1oAQ14QA1YFVQZTEhhDQl9eBEReUlNUBVhVUFNVCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
-      },
-      {
-         "name": "CELESTIAL MOVIES",
-         "logo_uri": "https://i.imgur.com/KcCWHbk.png",
-         "uri": "http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28688?play_token=w3n4WSsFKg&token=QhVcUhcJRggXU1cHV1QEUFdQUgsCUFFSA1ZRA1cBUllcDgcGVARSVwFGGURBEkJRAFtpWgVEXlFdUg1ZSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBXABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
-      },
-      {
+       },
+       {
+    
          "name": "TRING FANTASY",
          "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/2126?play_token=srMKufBfEM"
      },
@@ -578,24 +544,38 @@
       },
       {
         "name": "FOX MOVIES",
-        "logo_uri": "https://s26.postimg.cc/67sagi4nd/400x400_15fox_movies.jpg",
-        "uri": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Movies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "FOX FAMILY MOVIES",
-        "logo_uri": "https://s26.postimg.cc/ajgw5ibk9/400x400_35fox_family_movies.jpg",
-        "uri": "https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
         "name": "FOX ACTION MOVIES",
-        "logo_uri": "https://s26.postimg.cc/ripukrmrt/400x400_71fox_action_movies.jpg",
-        "uri": "https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Action.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "FOX FAMILY MOVIES",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Family.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "PARAMOUNT CHANNEL HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/paramount-channel.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "CINEMA WORLD HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cinema-world.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
         "name": "tvN MOVIES",
@@ -633,11 +613,11 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        },
        {
-        "name": "FOXLIFE",
-        "logo_uri": "https://static.epg.best/in/FOXLife.in.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd",
+        "name": "FOX LIFE",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Life.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
        },
        {
         "name": "AXN",
@@ -647,6 +627,13 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        },
        {
+        "name": "BLUE ANT ENTERTAINMENT HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
         "name": "STAR CHINESE MOVIES",
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd",
@@ -678,6 +665,13 @@
         "name": "THRILL",
         "logo_uri": "https://i.imgur.com/cPneq0f.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "KIX",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
