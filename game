@@ -527,94 +527,20 @@
           ]
             },
             {
-              "name": "NEWS",
-              "samples": [
-      {
-        "name": "BBC WORLD NEWS HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-world-news.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "ALJAZEERA HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/al-jazeera.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "SKY NEWS",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/skynews.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "CHANNEL NEWS ASIA",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/channel-news-asia.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "EURONEWS",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/euronews.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "BERNAMA",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bernama-news-channel.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "PARLIMEN",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/parlimen-malaysia.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "ABC AUSTRALIA",
-		"logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/400px-ABC_Australia_logo.svg.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "DW",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/DW.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "NHK WORLD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nhk-world-tv.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      }
-    ]
-      },
-      {
-          "name": "SPORTS",
-          "samples": [
-      {
+
+                "name": "SPORTS",
+                "samples": [
+        {
              "name": "RTM SPORTS",
              "logo_uri": "https://freeview.github.io/logos/rtmhdsports.png",
              "uri": "https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8"
-      },
-      {
-        "name": "UNIFI SPORTS1",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+       },
+       {
+            "name": "UNIFI SPORTS1",
+	    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png",
+            "uri": "http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd",
+            "drm_scheme": "widevine",
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
         "name": "UNIFI SPORTS2",
@@ -631,39 +557,39 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "UNIFI SPORTS4",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+          "name": "UNIFI SPORTS4",
+	  "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png",
+          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd",
+          "drm_scheme": "widevine",
+          "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "UNIFI SPORTS5",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+          "name": "UNIFI SPORTS5",
+	  "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png",
+          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd",
+          "drm_scheme": "widevine",
+          "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "FOX SPORTS HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/fox-sports.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+           "name": "FOX SPORTS HD",
+	   "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/fox-sports.png",
+           "uri": "http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd",
+           "drm_scheme": "widevine",
+           "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
       },
       {
-        "name": "FOX SPORTS 2 HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/fox-Sports-2.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
-      },
-      {
-        "name": "FOX SPORTS 3 HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/fox-Sports-3.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+           "name": "FOX SPORTS 2 HD",
+	    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/fox-Sports-2.png",
+            "uri": "http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd",
+            "drm_scheme": "widevine",
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+       },
+       {
+            "name": "FOX SPORTS 3 HD",
+	    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/fox-Sports-3.png",
+            "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
+            "drm_scheme": "widevine",
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
         },
         {
                "name": "ASTRO SUPERSPORTS 1",
