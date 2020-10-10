@@ -171,35 +171,36 @@
       },
       {
             "name": "ZEE CINEMA HD",
-   "logo_uri": "https://static.epg.best/sa/ZeeCinemaEn.sa.png",
-   "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/54228?play_token=Eb7BldPBDX"
-        },
-        {
-            "name": "D2H MOVIES HD",
-   "uri": "http://iptv-line.com:7899/XnxrQZjyMX/OQIEgd1XRP/54226"
+            "logo_uri": "https://static.epg.best/sa/ZeeCinemaEn.sa.png",
+            "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/54228?play_token=Eb7BldPBDX"
         },
         {
             "name": "&PICS HD",
-   "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
-   "uri": "http://m3ulink.com:6969/XnxrQZjyMX/OQIEgd1XRP/54091"
+            "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
+            "uri": "http://m3ulink.com:6969/XnxrQZjyMX/OQIEgd1XRP/54091"
          },
          {
               "name": "&XPLOR HD",
-   "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
-   "uri": "http://iptv-line.com:7899/ni7fmatQ3r/r2j5rbcy4E/303?play_token=nk4PodiC77"
-      },
-      {
+              "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
+             "uri": "http://iptv-line.com:7899/ni7fmatQ3r/r2j5rbcy4E/303?play_token=nk4PodiC77"
+        },
+        {
               "name": "SONY MAX HD",
-   "logo_uri": "https://i.imgur.com/YHa03Rq.png",
-   "uri": "http://85.203.33.29:25461/ZP2TRfbKjW/t9TY3rkNPR/153782?play_token=DZF9EhudvK&token=ShdcBRFREglDUQsBAQdaBwICCwYICVcBVwddUVMGDQIJBAMBVA4BBFhGHxERR0tSUF5mClwbCQZTVg4NBU4bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQQHVgEGBgQYRhJQVBFbRgYEUAYAFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAEDBBtPGlpcQggRS0wVWBt9aBcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAEDAYBEUQ="
-      },
-      {
-              "name": "COLORS CINEPLEX HD",
-   "uri": "http://iptv-line.com:7899/XnxrQZjyMX/OQIEgd1XRP/54090"
-      }
-    ]
-      },
-      {
+             "logo_uri": "https://i.imgur.com/YHa03Rq.png",
+             "uri": "http://85.203.33.29:25461/ZP2TRfbKjW/t9TY3rkNPR/153782?play_token=DZF9EhudvK&token=ShdcBRFREglDUQsBAQdaBwICCwYICVcBVwddUVMGDQIJBAMBVA4BBFhGHxERR0tSUF5mClwbCQZTVg4NBU4bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQQHVgEGBgQYRhJQVBFbRgYEUAYAFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAEDBBtPGlpcQggRS0wVWBt9aBcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAEDAYBEUQ="
+        },
+        {
+            "name": "COLORS CINEPLEX HD",
+            "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",
+            "uri": "http://iptv-line.com:7899/XnxrQZjyMX/OQIEgd1XRP/54090"
+        },
+        {
+            "name": "D2H MOVIES HD",
+            "uri": "http://iptv-line.com:7899/XnxrQZjyMX/OQIEgd1XRP/54226"
+        }
+     ]
+       },
+       {
           "name": "DOKUMENTARI",
           "samples": [
       {
