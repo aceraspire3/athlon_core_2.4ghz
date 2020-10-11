@@ -387,11 +387,6 @@
         "uri": "http://iptv-line.com:7899/pPPxGWBcKr/BxX8zhsD5m/54126?play_token=BJwzEYIjrN"
        },
        {
-        "name": "TV1000",
-         "logo_uri": "http://ott.onlineott.tv/logos/177.png",
-        "uri": "http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8?@amarnettv.live"
-       },
-       {
         "name": "HITS MOVIES",
         "logo_uri": "https://www.hitstv.com/assets/logo-HITSMOVIES.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
