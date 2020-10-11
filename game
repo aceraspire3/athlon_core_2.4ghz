@@ -293,6 +293,7 @@
         },
         {
               "name": "DOCUBOX HD",
+              "logo_uri": "https://i.imgur.com/rnQMXRm.jpg",
               "uri": "http://85.203.33.68:25461/16owLK4LFk/cD92cohMUO/62219?play_token=tx0SDlnaBS&token=ShdcBRFREglDBwsDUAYAAwRWXwEIDFUDAFUNVlYDAAIBAlJdBw8EUQVGHxERR0tSUF5mClwbCQFUVwgMG0BMQ1RHaw0GGwoRVVMCBlIEGxsTR1AOXRsJBlBVCAAFVQgBCBkWFAtdEglDVQAGVwYbGxNWQRddS11WCjpdUEELWlUTD1oRDlUcEQ4KbFcHXlhZVREDQQkbHxUPFkkXDQxMXF0ZFgYLTUJSFQERCUACCwUHERVBW1ZGWRIXQBcNQHRpExkWARpNVV0SDVxdQAkbQ0IRFUFRSmxFAxZNR1IDVFVDFw5GUhscEQwFS2wBXFdZVFBNCldXQBVcRwgXG0BUX19cQAsQZkBaBUYJEVcAAAcFEUQ="
         },
         {
@@ -526,6 +527,7 @@
          },
          {
              "name": "FISHING NETWORK",
+             "logo_uri": "https://i.imgur.com/Dk3oPCs.png",
               "uri": "http://185.102.218.107:25461/AQplSlyznW/d6Cv8rwqQj/47282?play_token=AIxOYDLmrI&token=GRdRWUpbQV9BAwBfAVVQB1JTXQcLVgEAVlIHVAhTXQlUVw4JWFBQUlQRFEQQFxAGVQxnD1YVCVUEUVwAHEFNQgdHZlFdEVlHUgQLVVRbUUEYQ0wPX1IRWwJWXQsAVQEDUgIVGklaB0dZEQpWV1pUQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUVoDUBpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRUlcDUBob"
          },
          {
@@ -540,6 +542,7 @@
          },
          {
              "name": "FS 2",
+             "logo_uri": "http://3.bp.blogspot.com/-6r7Rq6QospY/VmK1wLUzt0I/AAAAAAAABss/kqJ8lM4PU9A/s1600/foxsports2-logo.png",
               "uri": "http://iptv-line.com:7899/live/Germany/eaPirg0NjC/13.m3u8"
             }
           ]
