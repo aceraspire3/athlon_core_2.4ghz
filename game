@@ -521,14 +521,14 @@
               "uri": "http://iptv-line.com:7899/live/stevencap.turf2/Capsteven/8619.m3u8"
          },
          {
-             "name": "EUROSPORTS",
-             "logo_uri": "https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png",
-             "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/110261?play_token=6DBPN9QRrQ"
-         },
-         {
              "name": "FISHING NETWORK",
              "logo_uri": "https://i.imgur.com/Dk3oPCs.png",
               "uri": "http://185.102.218.107:25461/AQplSlyznW/d6Cv8rwqQj/47282?play_token=AIxOYDLmrI&token=GRdRWUpbQV9BAwBfAVVQB1JTXQcLVgEAVlIHVAhTXQlUVw4JWFBQUlQRFEQQFxAGVQxnD1YVCVUEUVwAHEFNQgdHZlFdEVlHUgQLVVRbUUEYQ0wPX1IRWwJWXQsAVQEDUgIVGklaB0dZEQpWV1pUQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUVoDUBpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRUlcDUBob"
+         },
+         {
+             "name": "EUROSPORTS",
+             "logo_uri": "https://i.imgur.com/jPW4CkF.png",
+             "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/110261?play_token=6DBPN9QRrQ"
          },
          {
              "name": "EUROSPORTS 1",
