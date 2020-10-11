@@ -522,7 +522,7 @@
          },
          {
              "name": "EUROSPORTS",
-             "logo_uri": "https://i.imgur.com/jPW4CkF.png",
+             "logo_uri": "https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png",
              "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/110261?play_token=6DBPN9QRrQ"
          },
          {
@@ -539,11 +539,6 @@
              "name": "EUROSPORTS 2",
              "logo_uri": "https://i.imgur.com/syYVNay.png?1",
               "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/17970?play_token=AdMouvkyrU"
-         },
-         {
-             "name": "FS 2",
-             "logo_uri": "http://3.bp.blogspot.com/-6r7Rq6QospY/VmK1wLUzt0I/AAAAAAAABss/kqJ8lM4PU9A/s1600/foxsports2-logo.png",
-              "uri": "http://iptv-line.com:7899/live/Germany/eaPirg0NjC/13.m3u8"
             }
           ]
         }
