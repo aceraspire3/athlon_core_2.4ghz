@@ -273,9 +273,14 @@
         "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/3418?play_token=vyiZKSssZT"
       },
       {
-        "name": "TV1000",
-        "logo_uri": "https://i.imgur.com/pWnecuO.jpg",
+        "name": "TV1000 (1)",
+        "logo_uri": "http://ott.onlineott.tv/logos/174.png",
         "uri": "http://iptv-line.com:7899/oVNXVpya8z/SOGbe7AGh6/27094?play_token=DljbInJ3Qp"
+      },
+      {
+        "name": "TV1000 (2)",
+        "logo_uri": "http://ott.onlineott.tv/logos/177.png",
+        "uri": "http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8?@amarnettv.live"
       },
       {
         "name": "Star Select MoviesHD",
