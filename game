@@ -521,6 +521,7 @@
          },
          {
              "name": "EUROSPORTS",
+             "logo_uri": "https://i.imgur.com/jPW4CkF.png",
              "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/110261?play_token=6DBPN9QRrQ"
          },
          {
@@ -529,10 +530,12 @@
          },
          {
              "name": "EUROSPORTS 1",
+             "logo_uri": "https://i.imgur.com/jPW4CkF.png",
              "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/17969?play_token=fKzIqebYvP"
          },
          {
              "name": "EUROSPORTS 2",
+             "logo_uri": "https://i.imgur.com/syYVNay.png?1",
               "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/17970?play_token=AdMouvkyrU"
          },
          {
