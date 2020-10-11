@@ -469,15 +469,16 @@
        {
     
          "name": "TRING FANTASY",
+         "logo_uri": "http://www.albepg.com/tvlogi/Tring%20Fantasy.png",
          "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/2126?play_token=srMKufBfEM"
-     },
-     {
-         "name": "CINEPLEX HD",
-         "uri": "http://premium-iptv.link:7899/SCqbc2Ccvf/teOAUcoKGx/110869"
      },
      {
           "name": "AKSION HD",
           "uri": "http://iptv-line.com:7899/patelvino1/TzpZGhKttb/3435?play_token=LHt3sHq370"
+     },
+     {
+         "name": "CINEPLEX HD",
+         "uri": "http://premium-iptv.link:7899/SCqbc2Ccvf/teOAUcoKGx/110869"
      },
      {
           "name": "X TRILLER HD",
