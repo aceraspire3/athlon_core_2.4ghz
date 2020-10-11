@@ -274,17 +274,17 @@
         {
                 "name": "DISCOVERY",
                "logo_uri": "https://i.imgur.com/ESeGnT2.jpg",
-               "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110219"
+               "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/110219?play_token=FE8xprvAjX"
         },
         {
                "name": "DISCOVERY ASIA",
               "logo_uri": "https://i.imgur.com/ESeGnT2.jpg",
-              "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110220?play_token=EEdfcBgSvk"
+              "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/110220?play_token=WFPbBPTcxg"
         },
         {
               "name": "ANIMAL PLANET",
              "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",
-             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110223?play_token=snOHIPCBv5"
+             "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/110223?play_token=uA1L9lwOjW"
         },
         {
               "name": "SMITHSONIAN CHANNEL",
@@ -298,7 +298,7 @@
         {
               "name": "OUTDOOR",
               "logo_uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES",
-              "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/5756?play_token=qt4lFGSTz0"
+              "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/5756?play_token=qXaknY7pFV"
          }
       ]
         },
@@ -512,7 +512,7 @@
          {
              "name": "BT SPORTS 1",
              "logo_uri": "https://i.postimg.cc/0QhBxJPr/Fb-Wy2d-Oc-400x400.jpg",
-             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/40205"
+             "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/8?play_token=FUFZbthdqw"
          },
          {
               "name": "BT SPORTS 2",
@@ -521,7 +521,7 @@
          },
          {
              "name": "EUROSPORTS",
-             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110261?play_token=Zod0QEbgTj"
+             "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/110261?play_token=6DBPN9QRrQ"
          },
          {
              "name": "FISHING NETWORK",
@@ -529,11 +529,11 @@
          },
          {
              "name": "EUROSPORTS 1",
-             "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/17969"
+             "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/17969?play_token=fKzIqebYvP"
          },
          {
              "name": "EUROSPORTS 2",
-              "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/17970"
+              "uri": "http://iptv-line.com:7899/RZjMbzqhAH/lfiNWGxtXx/17970?play_token=AdMouvkyrU"
          },
          {
              "name": "FS 2",
