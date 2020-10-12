@@ -371,6 +371,13 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        },
+       { 
+          "name": "PARAMOUNT CHANNEL HD",		
+          "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/paramount-channel.png", 
+          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd", 
+          "drm_scheme": "widevine", 
+          "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4" 
+       },
        {
         "name": "SONY PIX HD",
          "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
