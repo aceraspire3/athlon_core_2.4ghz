@@ -279,15 +279,27 @@
       },
       {
         "name": "Star Select MoviesHD",
-        "uri":"http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54175"
+        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54175"
+      },
+      {
+        "name": "BlackBerry",
+        "uri": "http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8"
+      },
+      {
+        "name": "NewTV(movies)",
+        "uri": "http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8"
+      },
+      {
+        "name": "NewTV(movies)",
+        "uri": "http://112.17.40.140/PLTV/88888888/224/3221226737/index.m3u8"
       },
       {
         "name": "EPIX MOVIES",
-        "uri":"http://iptv-line.com:7899/zoltanczar1/4JCIm1t7/67337?play_token=TbI9ac9nLQ"
+        "uri": "http://iptv-line.com:7899/zoltanczar1/4JCIm1t7/67337?play_token=TbI9ac9nLQ"
       },
       {
         "name": "Star Select MoviesHD",
-        "uri":"http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54175"
+        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54175"
       },
       {
         "name": "CinePlex HD",
