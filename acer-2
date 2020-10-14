@@ -144,10 +144,10 @@
       },
       {
         "name": "FX",
-        "logo_uri": "http://static.epg.best/us/FX.us.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fx.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
       },
       {
         "name": "HITS",
