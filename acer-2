@@ -372,9 +372,11 @@
         "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54228"
       },
       {
-        "name": "Colors CinePlexHD",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",
-        "uri": "http://103.194.169.115:25461/2audi4.14/Richtlijn1/54037?token=GRdRWUpbQV9BBwtUBVNbAFEDAFUBAlJSVlNcAgECDFcDBgkOXQUABFoRFEQQFxAGVQxnD1YVCVQHU1cFHEFNQgdHZlFdEVlHUgoNVVdUVUEYQ0wPX1IRWwJVVAIJUAwEVgMVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "name": "COLORS",
+       	"logo_uri": "https://static.epg.best/in/Colors.in.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
       },
       {
         "name": "COLORS HD",
@@ -424,18 +426,16 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
       },
       {
-        "name": "COLORS",
-       	"logo_uri": "https://static.epg.best/in/Colors.in.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
-      },
-      {
         "name": "COLORS CINEPLEX",
 	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
+      },
+      {
+        "name": "Colors CinePlexHD",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",
+        "uri": "http://103.194.169.115:25461/2audi4.14/Richtlijn1/54037?token=GRdRWUpbQV9BBwtUBVNbAFEDAFUBAlJSVlNcAgECDFcDBgkOXQUABFoRFEQQFxAGVQxnD1YVCVQHU1cFHEFNQgdHZlFdEVlHUgoNVVdUVUEYQ0wPX1IRWwJVVAIJUAwEVgMVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
       },
       {
         "name": "SONY SAB",
