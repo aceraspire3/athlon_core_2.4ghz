@@ -264,6 +264,12 @@
         "uri": "http://iptv-line.com:7899/oVNXVpya8z/SOGbe7AGh6/27094?play_token=DljbInJ3Qp"
       },
       {
+        "name": "Clubbing TV",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ClubbingTV/sa_dash_vmx/ClubbingTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
         "name": "Action MaxHD",
       "uri":"http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110147"
       },
