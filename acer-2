@@ -473,48 +473,56 @@
            "samples": [
      {
         "name": "UNIFI SPORTS 1",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
       },
       {
         "name": "UNIFI SPORTS 2",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
       },
       {
         "name": "UNIFI SPORTS 3",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
       },
       {
         "name": "UNIFI SPORTS 4",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
       },
       {
         "name": "UNIFI SPORTS 5",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
       },
       {
         "name": "FOX SPORTS HD",
+        "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
       },
       {
         "name": "FOX SPORTS 2 HD",
+        "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
       },
       {
         "name": "FOX SPORTS 3 HD",
+        "logo_uri": "https://s21.postimg.cc/ddkoi2tuv/fox_sportstv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
