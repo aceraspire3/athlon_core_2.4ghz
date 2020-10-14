@@ -247,10 +247,6 @@
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8"
       },
       {
-        "name": "Action MaxHD",
-      "uri":"http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110147"
-      },
-      {
         "name": "MNPlusHD",
         "logo_uri": "https://i.imgur.com/QPcVm2h.png",
         "uri": "http://103.194.169.115:25461/krelock1_mac/z9JJFc0VnM/54104?token=GRdRWUpbQV9BBQtfAFBQB1ZSWQAEBVFRAloHBAJVDwlTAAgPX1cBUVoRFEQQFxAGVQxnD1YVCVQHUlQGHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAMAWgkGVwQVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
@@ -266,35 +262,6 @@
         "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54102"
       },
       {
-        "name": "And PicsHD",
-        "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
-        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54091"
-      },
-      {
-        "name": "And XplorHD",
-        "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
-        "uri": "http://iptv-line.com:7899/htlbdi4E5n/g5HfRs97Y7/303?token=GRdRWUpbQV9BCwFfBlAAVlBQXlNTBQJXC1FUCwMAWwJTAgFdXANaVwcRFEQQFxAGVQxnD1YVCVIDUEgQRRBdQz1cXRoDEVJdUwMAUFBBTkFACFUDEA0CVwNTVgUCUg8FThdJUV0RWUdQAQpUU0FOQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVhAbEQhAE0YIXhZUXU4XW1FNQQIRBhECRFFbUlEWTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaUFZaUkFJ"
-      },
-      {
-        "name": "Zee CinemaHD",
-        "logo_uri":"https://static.epg.best/sa/ZeeCinemaEn.sa.png",
-        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54228"
-      },
-      {
-        "name": "Colors CinePlexHD",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",
-        "uri": "http://103.194.169.115:25461/2audi4.14/Richtlijn1/54037?token=GRdRWUpbQV9BBwtUBVNbAFEDAFUBAlJSVlNcAgECDFcDBgkOXQUABFoRFEQQFxAGVQxnD1YVCVQHU1cFHEFNQgdHZlFdEVlHUgoNVVdUVUEYQ0wPX1IRWwJVVAIJUAwEVgMVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
-      },
-      {
-        "name": "BOLLYONE HD",
-        "uri": "http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/110176"
-      },
-      {
-        "name": "COLORS HD",
-        "logo_uri": "https://static.epg.best/in/Colors.in.png",
-        "uri": "http://iptv-line.com:7899/TnitqpYZy4/STUTp2ZG4b/51419"
-      },
-      {
         "name": "AKSION HD",
         "logo_uri": "http://albepg.com/tvlogi/Film%20Aksion.png",
         "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/3418?play_token=vyiZKSssZT"
@@ -303,6 +270,10 @@
         "name": "TV1000",
         "logo_uri": "https://i.imgur.com/pWnecuO.jpg",
         "uri": "http://iptv-line.com:7899/oVNXVpya8z/SOGbe7AGh6/27094?play_token=DljbInJ3Qp"
+      },
+      {
+        "name": "Action MaxHD",
+      "uri":"http://iptv-line.com:7899/onNp5Tvl93/InG18Qk86v/110147"
       },
       {
         "name": "CinePlex HD",
