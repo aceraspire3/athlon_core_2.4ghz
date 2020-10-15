@@ -145,9 +145,9 @@
       {
         "name": "FX",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fx.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzBmYzdkMTYtZmQ5My0zMjYwLTgxMTctOGEwZmVmNTY1ZTQy"
       },
       {
         "name": "HITS",
