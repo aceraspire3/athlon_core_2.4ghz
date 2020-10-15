@@ -369,7 +369,7 @@
     {
         "name": "HBO HD",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
-         "uri": "http://103.194.169.115:25461/XnxrQZjyMX/OQIEgd1XRP/54233?token=GRdRWUpbQV9BBgBUBltTAgEADlAEVFIFUVZSAQdUWQYHAQEOWgEBVVcRFEQQFxAGVQxnD1YVCVQHUVcBHEFNQgdHZlFdEVlHUgMBUldSV0EYQ0wPX1IRWwJVVAAGVgEHUQYVGklaB0dZEQleVlJbQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBU1oEVxpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFSWlcMUxob"
+         "uri": "http://iptvtree.net:8080/Line1051/f4fffd47/157518?play_token=6W8TwYJatj"
     },
     {
         "name": "HBO 2",
@@ -424,7 +424,7 @@
      {
           "name": "&PRIVE HD",
           "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
-          "uri": "http://103.194.169.115:25461/hHQcyglr3i/DsIXstfyTnisshared/54101?token=GRdRWUpbQV9BCwgEUFRVUAdTXlUDVVJUAVIBBFRWXAlUAg4ODgoBA1IRFEQQFxAGVQxnD1YVCVQHUlQDHEFNQgdHZlFdEVlHUgQMVVJTU0EYQ0wPX1IRWwJVVAMAWwgBWgUVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+          "uri": "http://iptvtree.net:8080/Line1051/f4fffd47/49557?play_token=A86QjOimTH"
      },
      {
            "name": "&FLIX HD",
@@ -439,7 +439,7 @@
      {
            "name": "STAR MOVIES HD",
            "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-           "uri": "http://iptvtree.net:8080/Line1009/c48eb829/11511?play_token=NZ2qb6UHvM"
+           "uri": "http://iptvtree.net:8080/Line1051/f4fffd47/11511?play_token=su0NSW2VEv"
        },
        {
             "name": "SONY MOVIES",
@@ -472,18 +472,6 @@
          "logo_uri": "http://www.albepg.com/tvlogi/Tring%20Fantasy.png",
          "uri": "http://iptv-line.com:7899/Luansenay2/Sadri1/2126?play_token=srMKufBfEM"
      },
-     {
-        "name": "BlackBerry",
-        "uri": "http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8"
-      },
-      {
-        "name": "NewTV(movies)",
-        "uri": "http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8"
-      },
-      {
-        "name": "NewTV(movies)",
-        "uri": "http://112.17.40.140/PLTV/88888888/224/3221226737/index.m3u8"
-      },
       {
           "name": "AKSION HD",
           "uri": "http://iptv-line.com:7899/patelvino1/TzpZGhKttb/3435?play_token=LHt3sHq370"
