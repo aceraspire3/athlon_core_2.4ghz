@@ -427,11 +427,11 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
        },
        {
-        "name": "FX",
-        "logo_uri": "http://static.epg.best/us/FX.us.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+         "name": "FX",
+         "logo_uri": "http://static.epg.best/us/FX.us.png",
+         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
        },
        {
          "name": "FOXLIFE",
