@@ -356,13 +356,6 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
       },
       {
-        "name": "STAR CHINESE CHANNEL HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/STAR-Chinese-Channel.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
-      },
-      {
         "name": "COMEDY CENTRAL HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/comedy-central.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd",
