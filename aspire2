@@ -94,64 +94,10 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
       }
     ]
-  },
-  {
-    "name": "UNITV RUBY",
-    "samples": [
-     {
-        "name": "TVN MOVIES HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvN-Movies.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
-     },
-     {
-        "name": "SETI",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/seti.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
-      },
-	  {
-        "name": "TVN HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvn.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
       },
       {
-        "name": "STAR CHINESE MOVIES HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
-      },
-      {
-        "name": "STAR CHINESE LEGEND HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
-      },
-      {
-        "name": "STAR CHINESE CHANNEL HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/STAR-Chinese-Channel.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
-      },
-      {
-        "name": "NOW JELLI HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/now-jelli.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
-      }
-    ]
-  },
-  {
-    "name": "UNITV HINDI/TAMIL",
-    "samples": [
+         "name": "UNITV HINDI/TAMIL",
+         "samples": [
       {
         "name": "YUPP THIRAI HD",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png",
@@ -251,10 +197,10 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
       }
     ]
-  },
-  {
-    "name": "UNITV ENTERTAINMENT",
-    "samples": [
+      },
+      {
+         "name": "MOVIES",
+         "samples": [
       {
         "name": "FOX MOVIES",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Movies.png",
@@ -333,6 +279,20 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
       },
       {
+        "name": "TVN MOVIES HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvN-Movies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
+      },
+      {
+        "name": "TVN HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvn.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
+      },
+      {
         "name": "WARNER TV HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/warner-tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd",
@@ -382,6 +342,27 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
       },
       {
+        "name": "STAR CHINESE MOVIES HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
+      },
+      {
+        "name": "STAR CHINESE LEGEND HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
+      },
+      {
+        "name": "STAR CHINESE CHANNEL HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/STAR-Chinese-Channel.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
+      },
+      {
         "name": "COMEDY CENTRAL HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/comedy-central.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd",
@@ -426,7 +407,7 @@
     ]
   },
   {
-    "name": "UNITV KNOWLEDGE",
+    "name": " DOKUMENTARI",
     "samples": [
       {
         "name": "BBC EARTH HD",
@@ -508,7 +489,7 @@
 	]
   },
   {
-    "name": "UNITV KIDS",
+    "name": "KIDS",
     "samples": [
       {
         "name": "DREAMWORK HD",
@@ -561,7 +542,7 @@
     ]
   },
   {
-    "name": "UNITV NEWS",
+    "name": "NEWS",
     "samples": [
      {
         "name": "BBC WORLD NEWS HD",
@@ -636,7 +617,7 @@
     ]
   },
   {
-    "name": "UNITV SPORTS",
+    "name": "SPORTS",
     "samples": [
      {
         "name": "UNIFI SPORTS1",
