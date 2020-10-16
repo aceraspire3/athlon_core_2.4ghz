@@ -4,7 +4,7 @@
     "samples": [
       {
         "name": "TV1",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
@@ -43,6 +43,16 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YTcxMDhjNzItYjQ5OC0zNTNmLThjMmItMDBhZGE0NjEyNWYx"
+      },
+      {
+        "name": "TV OKEY",
+      "logo_uri": "https://freeview.github.io/logos/okey.png",
+      "uri":"https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
+      },
+      {
+        "name": "DRAMA SANGAT",
+        "logo_uri": "https://freeview.github.io/logos/dramasangat.png",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
       },
       {
         "name": "SALAM HD",
