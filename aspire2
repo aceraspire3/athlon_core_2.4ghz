@@ -109,6 +109,11 @@
          "name": "ASTRO",
          "samples": [
       {
+        "name": "NAURA",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
+        "uri": "http://iptvtree.net:8080/AaKNfqjf4Q/DFZsKGsWpJ/157490?play_token=BMKZm9vj0Z"
+      },
+      {
           "name": "ASTRO CERIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
         "uri": "http://lb-1.sp3ed.club:8080/VvzhKxrxot/kcN4vwYseX/15928?play_token=9wtIa2Bn6y&token=TRJbBRZbF15GBwFRCwRUVgUEA1IPBgNRBFEAW1xWB1YCB1YGUQZTAlNETxVKFUUDBV86WlxAD1NTWApaFEBCEFNCbA0BEQ9GVVZSDglDG0QQWwhWGlgEVFZTAFMAVgVTGhJDDQERDwoRCg8bGwRPEgFAC1JUPVEHEAhbBxpYWRZaXB9GCl1qAAELAlldQw1EVRBJEVERRUBcD00OVE4VAV9EQQURVhdeChMPWxVDVAkRXBFBQUAPQCs4Gk4aB08XU15ADQpdF15GEhAVFUNeFTtAAEBMEFADCwRKQAJAB0EaEl4FHWxWCwoIBlRNCFgIFxBfEQlAGUALDlYLTA1FPEZZV0ZfXUAICBs="
@@ -117,11 +122,6 @@
         "name": "ASTRO OASIS",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
         "uri": "http://lb-1.sp3ed.club:8080/VvzhKxrxot/kcN4vwYseX/15903?play_token=yVvgTAW14M&token=TRJbBRZbF15GAwEADVVRVlUEVgAOVgFVBFkOUgBSVgZXVgFcXAQAAQZETxVKFUUDBV86WlxAD1NTWAhRFEBCEFNCbA0BEQ9GVVZSDglDG0QQWwhWGlgEVFZTAFMAVwZVGhJDDQERDwoRCg8bGwRPEgFAC1JUPVEHEAhbBxpYWRZaXB9GCl1qAAELAlldQw1EVRBJEVERRUBcD00OVE4VAV9EQQURVhdeChMPWxVDVAkRXBFBQUAPQCs4Gk4aB08XU15ADQpdF15GEhAVFUNeFTtAAEBMEFADCwRKQAJAB0EaEl4FHWxWCwoIBlRNCFgIFxBfEQlAGUALDlYLTA1FPEZZV0ZfXUAICBs="
-      },
-      {
-        "name": "NAURA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
-        "uri": "http://iptvtree.net:8080/AaKNfqjf4Q/DFZsKGsWpJ/157490?play_token=BMKZm9vj0Z"
       },
       {
         "name": "ASTRO WARNA",
