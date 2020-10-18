@@ -355,12 +355,7 @@
       },
       {
         "name": "MOVIES 1",
-        "samples": [
-     {
-        "name": "HBO ASIA",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
-         "uri": "http://185.59.222.189:25461/XnxrQZjyMX/OQIEgd1XRP/110203?token=GRdRWUpbQV9BBFsFUgUGUVAECwdTBQNVVwAACwNbAQRaBgsLDwFbUFsRFEQQFxAGVQxnD1YVCVACU1YCA08aRBFQS2dQV0FfQQIIX1dXU1YWTRoSW1pWQwlSUgICVQ0IVQcJFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
-    }, 
+        "samples": [ 
     {
         "name": "HBO HD",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
@@ -489,7 +484,7 @@
        },
        {
          "name": "STAR SELECT HD",
-         "uri": "http://iptv-line.com:7899/krelock1_mac/z9JJFc0VnM/54175?token=GRdRWUpbQV9BAwFVWloDAg1TAQMGUVFVUVcBBAkGDFABVA0NDgsFU1MRFEQQFxAGVQxnD1YVCVQHUlMHHEFNQgdHZlFdEVlHUgYAVlFWVkEYQ0wPX1IRWwJVVAIGWwkEUAcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+         "uri": "http://iptv-line.com:7899/blqfOOashL/qv41XdVN6B/54175"
        }
      ]
        },
