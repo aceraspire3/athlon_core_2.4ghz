@@ -1,239 +1,353 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX Family Movies" tvg-logo="" group-title="Malaysia",MY: FOX Family Movies
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110273.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX HD" tvg-logo="" group-title="Malaysia",MY: FOX HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110272.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX Action Movies" tvg-logo="" group-title="Malaysia",MY: FOX Action Movies
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110271.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Astro Citra HD" tvg-logo="" group-title="Malaysia",MY: Astro Citra HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110270.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FRANCE24 HD" tvg-logo="" group-title="Malaysia",MY: FRANCE24 HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110269.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DW HD" tvg-logo="" group-title="Malaysia",MY: DW HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110268.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: KPLUS HD" tvg-logo="" group-title="Malaysia",MY: KPLUS HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110267.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ANIPLUS HD" tvg-logo="" group-title="Malaysia",MY: ANIPLUS HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110266.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO CRICKET" tvg-logo="" group-title="Malaysia",MY: ASTRO CRICKET
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110265.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO RUGBY PASS TV" tvg-logo="" group-title="Malaysia",MY: ASTRO RUGBY PASS TV
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110264.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: GOLF CHANNEL HD" tvg-logo="" group-title="Malaysia",MY: GOLF CHANNEL HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110263.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: WWE NETWORK" tvg-logo="" group-title="Malaysia",MY: WWE NETWORK
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110262.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: EUROSPORT HD" tvg-logo="" group-title="Malaysia",MY: EUROSPORT HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110261.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: bEIN MAX" tvg-logo="" group-title="Malaysia",MY: bEIN MAX
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110260.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: beIN SPORTS" tvg-logo="" group-title="Malaysia",MY: beIN SPORTS
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110259.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 3 HD" tvg-logo="" group-title="Malaysia",MY: FOX SPORTS 3 HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110258.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS 2 HD" tvg-logo="" group-title="Malaysia",MY: FOX SPORTS 2 HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110257.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOX SPORTS HD" tvg-logo="" group-title="Malaysia",MY: FOX SPORTS HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110256.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO ASSP4 HD" tvg-logo="" group-title="Malaysia",MY: ASTRO ASSP4 HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110255.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO ASSP3 HD" tvg-logo="" group-title="Malaysia",MY: ASTRO ASSP3 HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110254.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO ASSP2 HD" tvg-logo="" group-title="Malaysia",MY: ASTRO ASSP2 HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110253.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO ASSP HD" tvg-logo="" group-title="Malaysia",MY: ASTRO ASSP HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110252.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO ARENA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO ARENA HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110251.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: eGG Network" tvg-logo="" group-title="Malaysia",MY: eGG Network
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110250.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ANIMAX" tvg-logo="" group-title="Malaysia",MY: ANIMAX
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110249.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: MTV" tvg-logo="" group-title="Malaysia",MY: MTV
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110248.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: COMEDY CENTRAL" tvg-logo="" group-title="Malaysia",MY: COMEDY CENTRAL
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110247.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DMAX HD" tvg-logo="" group-title="Malaysia",MY: DMAX HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110246.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: HGTV HD" tvg-logo="" group-title="Malaysia",MY: HGTV HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110245.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: C&I HD" tvg-logo="" group-title="Malaysia",MY: C&I HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110244.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: WARNER TV" tvg-logo="" group-title="Malaysia",MY: WARNER TV
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110243.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: NATGEO PEOPLE" tvg-logo="" group-title="Malaysia",MY: NATGEO PEOPLE
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110242.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: AFN HD" tvg-logo="" group-title="Malaysia",MY: AFN HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110241.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: FOOD NTWK HD" tvg-logo="" group-title="Malaysia",MY: FOOD NTWK HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110240.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TLC HD" tvg-logo="" group-title="Malaysia",MY: TLC HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110239.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: HITS HD" tvg-logo="" group-title="Malaysia",MY: HITS HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110238.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: KIX HD" tvg-logo="" group-title="Malaysia",MY: KIX HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110237.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO HELLO" tvg-logo="" group-title="Malaysia",MY: ASTRO HELLO
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110236.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: AXN HD" tvg-logo="" group-title="Malaysia",MY: AXN HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110235.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: NICK JR" tvg-logo="" group-title="Malaysia",MY: NICK JR
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110234.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: NICKELODEON HD" tvg-logo="" group-title="Malaysia",MY: NICKELODEON HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110233.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: CARTOON NTWK HD" tvg-logo="" group-title="Malaysia",MY: CARTOON NTWK HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110232.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DISNEY CHANNEL HD" tvg-logo="" group-title="Malaysia",MY: DISNEY CHANNEL HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110231.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DISNEY JUNIOR" tvg-logo="" group-title="Malaysia",MY: DISNEY JUNIOR
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110230.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DISNEY XD HD" tvg-logo="" group-title="Malaysia",MY: DISNEY XD HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110229.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO CERIA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO CERIA HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110228.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TVIQ" tvg-logo="" group-title="Malaysia",MY: TVIQ
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110227.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TUTOR TV SPM" tvg-logo="" group-title="Malaysia",MY: TUTOR TV SPM
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110226.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TUTOR TV PT3" tvg-logo="" group-title="Malaysia",MY: TUTOR TV PT3
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110225.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TUTOR TV UPSR" tvg-logo="" group-title="Malaysia",MY: TUTOR TV UPSR
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110224.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ANIMAL PLANET HD" tvg-logo="" group-title="Malaysia",MY: ANIMAL PLANET HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110223.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: HISTORY HD" tvg-logo="" group-title="Malaysia",MY: HISTORY HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110222.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DISC SCI HD" tvg-logo="" group-title="Malaysia",MY: DISC SCI HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110221.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DISCOVERY ASIA" tvg-logo="" group-title="Malaysia",MY: DISCOVERY ASIA
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110220.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: DISCOVERY HD" tvg-logo="" group-title="Malaysia",MY: DISCOVERY HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110219.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: NAT GEO HD" tvg-logo="" group-title="Malaysia",MY: NAT GEO HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110218.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: NGW HD" tvg-logo="" group-title="Malaysia",MY: NGW HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110217.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ABC AUSTRALIA" tvg-logo="" group-title="Malaysia",MY: ABC AUSTRALIA
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110216.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: BLOOMBERG TV" tvg-logo="" group-title="Malaysia",MY: BLOOMBERG TV
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110215.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: CNBC" tvg-logo="" group-title="Malaysia",MY: CNBC
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110214.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: CNA HD" tvg-logo="" group-title="Malaysia",MY: CNA HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110213.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: SKY NEWS HD" tvg-logo="" group-title="Malaysia",MY: SKY NEWS HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110212.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: AL JAZEERA HD" tvg-logo="" group-title="Malaysia",MY: AL JAZEERA HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110211.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: BBC News HD" tvg-logo="" group-title="Malaysia",MY: BBC News HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110210.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: CNN HD" tvg-logo="" group-title="Malaysia",MY: CNN HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110209.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: CGTN" tvg-logo="" group-title="Malaysia",MY: CGTN
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110208.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: BNC" tvg-logo="" group-title="Malaysia",MY: BNC
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110207.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO AWANI" tvg-logo="" group-title="Malaysia",MY: ASTRO AWANI
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110206.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: tvN Movies" tvg-logo="" group-title="Malaysia",MY: tvN Movies
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110205.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: CINEMAX HD" tvg-logo="" group-title="Malaysia",MY: CINEMAX HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110204.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: HBO HD" tvg-logo="" group-title="Malaysia",MY: HBO HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110203.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: HITS MOVIES HD" tvg-logo="" group-title="Malaysia",MY: HITS MOVIES HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110202.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: tvN HD" tvg-logo="" group-title="Malaysia",MY: tvN HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110201.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: Oh!K HD" tvg-logo="" group-title="Malaysia",MY: Oh!K HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110200.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ONE HD" tvg-logo="" group-title="Malaysia",MY: ONE HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110199.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: KBS World HD" tvg-logo="" group-title="Malaysia",MY: KBS World HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110198.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: AOD 355 HD" tvg-logo="" group-title="Malaysia",MY: AOD 355 HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110197.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: AOD 354 HD" tvg-logo="" group-title="Malaysia",MY: AOD 354 HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110196.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: AOD 353 HD" tvg-logo="" group-title="Malaysia",MY: AOD 353 HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110195.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: AOD 352 HD" tvg-logo="" group-title="Malaysia",MY: AOD 352 HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110194.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: CCTV4 HD" tvg-logo="" group-title="Malaysia",MY: CCTV4 HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110193.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: HUA HEE DAI HD" tvg-logo="" group-title="Malaysia",MY: HUA HEE DAI HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110192.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: CCM" tvg-logo="" group-title="Malaysia",MY: CCM
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110191.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TVBS ASIA HD" tvg-logo="" group-title="Malaysia",MY: TVBS ASIA HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110190.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TVB XING HE HD" tvg-logo="" group-title="Malaysia",MY: TVB XING HE HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110189.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TVB E-NEWS" tvg-logo="" group-title="Malaysia",MY: TVB E-NEWS
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110188.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: CTI ASIA" tvg-logo="" group-title="Malaysia",MY: CTI ASIA
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110187.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: AOD 351 HD" tvg-logo="" group-title="Malaysia",MY: AOD 351 HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110186.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: WLT | JADE" tvg-logo="" group-title="Malaysia",MY: WLT | JADE
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110185.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: CELESTIAL HD" tvg-logo="" group-title="Malaysia",MY: CELESTIAL HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110184.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: QUAN JIA HD" tvg-logo="" group-title="Malaysia",MY: QUAN JIA HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110183.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: SHUANG XING HD" tvg-logo="" group-title="Malaysia",MY: SHUANG XING HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110182.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: AEC HD" tvg-logo="" group-title="Malaysia",MY: AEC HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110181.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TVB CLASSIC" tvg-logo="" group-title="Malaysia",MY: TVB CLASSIC
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110180.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: XIAO TAI YANG HD" tvg-logo="" group-title="Malaysia",MY: XIAO TAI YANG HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110179.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: GO SHOP 2" tvg-logo="" group-title="Malaysia",MY: GO SHOP 2
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110178.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: iQIYI HD" tvg-logo="" group-title="Malaysia",MY: iQIYI HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110177.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: BOLLYONE HD" tvg-logo="" group-title="Malaysia",MY: BOLLYONE HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110176.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: SUN TV HD" tvg-logo="" group-title="Malaysia",MY: SUN TV HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110175.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: COLORS TAMIL" tvg-logo="" group-title="Malaysia",MY: COLORS TAMIL
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110174.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: STAR VIJAY HD" tvg-logo="" group-title="Malaysia",MY: STAR VIJAY HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110173.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: VINMEEN HD" tvg-logo="" group-title="Malaysia",MY: VINMEEN HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110172.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: KALAIGNAR" tvg-logo="" group-title="Malaysia",MY: KALAIGNAR
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110171.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: RAJ TV" tvg-logo="" group-title="Malaysia",MY: RAJ TV
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110170.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: JAYA TV" tvg-logo="" group-title="Malaysia",MY: JAYA TV
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110169.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ADITHYA" tvg-logo="" group-title="Malaysia",MY: ADITHYA
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110168.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: CHUTTI TV" tvg-logo="" group-title="Malaysia",MY: CHUTTI TV
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110167.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: SUN MUSIC" tvg-logo="" group-title="Malaysia",MY: SUN MUSIC
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110166.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: MAKKAL TV" tvg-logo="" group-title="Malaysia",MY: MAKKAL TV
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110165.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: VAANAVIL" tvg-logo="" group-title="Malaysia",MY: VAANAVIL
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110164.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: GO SHOP GAAYA" tvg-logo="" group-title="Malaysia",MY: GO SHOP GAAYA
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110163.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: GO SHOP RUUMA" tvg-logo="" group-title="Malaysia",MY: GO SHOP RUUMA
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110162.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: COLORS HD" tvg-logo="" group-title="Malaysia",MY: COLORS HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110161.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: TV ALHIJRAH" tvg-logo="" group-title="Malaysia",MY: TV ALHIJRAH
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110160.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO NAURA" tvg-logo="" group-title="Malaysia",MY: ASTRO NAURA
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110159.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO WARNA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO WARNA HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110158.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO OASIS HD" tvg-logo="" group-title="Malaysia",MY: ASTRO OASIS HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110157.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO PRIMA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO PRIMA HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110156.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MY: ASTRO RIA HD" tvg-logo="" group-title="Malaysia",MY: ASTRO RIA HD
-http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110155.m3u8
+#EXTINF:-1,MY001:TV 1
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1734
+#EXTINF:-1,MY002:TV 2
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1733
+#EXTINF:-1,MY003:TV 3
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1732
+#EXTINF:-1,MY004:NTV 7
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1731
+#EXTINF:-1,MY005:TV 8
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1730
+#EXTINF:-1,MY006:TV 9
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1729
+#EXTINF:-1,MY007:QUAN JIA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1728
+#EXTINF:-1,MY008:SHUANG XING
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1727
+#EXTINF:-1,MY009:Wah Lai Toi
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1726
+#EXTINF:-1,MY010:HUA HEE DAI
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1725
+#EXTINF:-1,MY011:AOD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1724
+#EXTINF:-1,MY012:AEC
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1723
+#EXTINF:-1,MY013:Super Sport 1
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1722
+#EXTINF:-1,MY014:Super Sport 2
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1721
+#EXTINF:-1,MY015:Super Sport 3
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1720
+#EXTINF:-1,MY016:Super Sport 4
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1719
+#EXTINF:-1,MY017:CELESTIAL
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1718
+#EXTINF:-1,MY018:BERNAMA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1717
+#EXTINF:-1,MY019:Kix HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1716
+#EXTINF:-1,MY020:Star Chinese Channel
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1715
+#EXTINF:-1,MY021:XIAO TAI YANG
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1714
+#EXTINF:-1,MY022:SCM Legend
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1713
+#EXTINF:-1,MY023:TVB CLASSIC
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1712
+#EXTINF:-1,MY024:HBO
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1711
+#EXTINF:-1,MY025:foxsports
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1710
+#EXTINF:-1,MY026:foxsports2
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1709
+#EXTINF:-1,MY027:maya
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1708
+#EXTINF:-1,MY028:Sony One
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1707
+#EXTINF:-1,MY029:WARNA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1706
+#EXTINF:-1,MY030:RIA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1705
+#EXTINF:-1,MY031:AWANI
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1704
+#EXTINF:-1,MY032:ARENA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1703
+#EXTINF:-1,MY033:PRIMA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1702
+#EXTINF:-1,MY034:OASIS
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1701
+#EXTINF:-1,MY035:Suria
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1700
+#EXTINF:-1,MY036:OKTO
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1699
+#EXTINF:-1,MY037:WWE
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1698
+#EXTINF:-1,MY038:BOO
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1697
+#EXTINF:-1,MY039:喜悦
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1696
+#EXTINF:-1,SG002:Channel 8
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1694
+#EXTINF:-1,SG003:Channel U
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/1693
+#EXTINF:-1,MY040:ASTRO ASSP4 HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/59217
+#EXTINF:-1,MY039:ASTRO ASSP3 HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/59218
+#EXTINF:-1,MY037:ASTRO ASSP HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/59220
+#EXTINF:-1,MY038:ASTRO ASSP2 HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/59219
+#EXTINF:-1,MY041:ASTRO RIA+C19+C1:C264
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71019
+#EXTINF:-1,MY042:ASTRO PRIMA HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71020
+#EXTINF:-1,MY043:ASTRO OASIS HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71021
+#EXTINF:-1,MY044:ASTRO WARNA HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71022
+#EXTINF:-1,MY045:ASTRO NAURA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71023
+#EXTINF:-1,MY046:TV ALHIJRAH
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71024
+#EXTINF:-1,MY047:GO SHOP RUUMA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71025
+#EXTINF:-1,MY048:GO SHOP GAAYA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71026
+#EXTINF:-1,MY049:VAANAVIL
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71027
+#EXTINF:-1,MY050:MAKKAL TV
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71028
+#EXTINF:-1,MY051:SUN MUSIC
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71029
+#EXTINF:-1,MY052:CHUTTI TV
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71030
+#EXTINF:-1,MY053:ADITHYA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71031
+#EXTINF:-1,MY054:ZEE Tamil HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71032
+#EXTINF:-1,MY055:VINMEEN HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71033
+#EXTINF:-1,MY056:STAR VIJAY HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71034
+#EXTINF:-1,MY057:COLORS TAMIL
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71035
+#EXTINF:-1,MY058:SUN TV HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71036
+#EXTINF:-1,MY059:BOLLYONE HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71037
+#EXTINF:-1,MY060:iQIYI HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71038
+#EXTINF:-1,MY061:GO SHOP 2
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71039
+#EXTINF:-1,MY067:WLT | JADE
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71040
+#EXTINF:-1,MY068:AOD 351 HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71041
+#EXTINF:-1,MY069:CTI ASIA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71042
+#EXTINF:-1,MY070:TVB E-NEWS
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71043
+#EXTINF:-1,MY071:TVB XING HE HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71044
+#EXTINF:-1,MY072:TVBS ASIA HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71045
+#EXTINF:-1,MY073:CCM
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71046
+#EXTINF:-1,MY075:CCTV4 HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71047
+#EXTINF:-1,MY076:AOD 352 HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71048
+#EXTINF:-1,MY077:AOD 353 HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71049
+#EXTINF:-1,MY078:AOD 354 HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71050
+#EXTINF:-1,MY079:AOD 355 HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71051
+#EXTINF:-1,MY080:KBS World HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71052
+#EXTINF:-1,MY081:ONE HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71053
+#EXTINF:-1,MY082:Oh!K HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71054
+#EXTINF:-1,MY083:tvN HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71055
+#EXTINF:-1,MY084:HITS MOVIES HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71056
+#EXTINF:-1,MY085:HBO HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71057
+#EXTINF:-1,MY086:CINEMAX HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71058
+#EXTINF:-1,MY087:tvN Movies
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71059
+#EXTINF:-1,MY088:ASTRO AWANI
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71060
+#EXTINF:-1,MY089:BNC
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71061
+#EXTINF:-1,MY090:BBC News HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71062
+#EXTINF:-1,MY091:AL JAZEERA HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71063
+#EXTINF:-1,MY092:SKY NEWS HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71064
+#EXTINF:-1,MY093:CNA HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71065
+#EXTINF:-1,MY094:CNBC
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71066
+#EXTINF:-1,MY095:BLOOMBERG TV
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71067
+#EXTINF:-1,MY096:ABC AUSTRALIA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71068
+#EXTINF:-1,MY097:NGW HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71069
+#EXTINF:-1,MY098:NAT GEO HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71070
+#EXTINF:-1,MY099:DISCOVERY HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71071
+#EXTINF:-1,MY100:DISCOVERY ASIA
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71072
+#EXTINF:-1,MY101:DISC SCI HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71073
+#EXTINF:-1,MY102:HISTORY HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71074
+#EXTINF:-1,MY103:ANIMAL PLANET HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71075
+#EXTINF:-1,MY104:TUTOR TV UPSR
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71076
+#EXTINF:-1,MY105:TUTOR TV PT3
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71077
+#EXTINF:-1,MY106:TUTOR TV SPM
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71078
+#EXTINF:-1,MY107:TVIQ
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71079
+#EXTINF:-1,MY108:ASTRO CERIA HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71080
+#EXTINF:-1,MY109:DISNEY XD HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71081
+#EXTINF:-1,MY110:DISNEY JUNIOR
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71082
+#EXTINF:-1,MY111:DISNEY CHANNEL HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71083
+#EXTINF:-1,MY112:CARTOON NTWK HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71084
+#EXTINF:-1,MY113:NICKELODEON HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71085
+#EXTINF:-1,MY114:NICK JR
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71086
+#EXTINF:-1,MY115:AXN HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71087
+#EXTINF:-1,MY116:ASTRO HELLO
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71088
+#EXTINF:-1,MY117:HITS HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71089
+#EXTINF:-1,MY118:TLC HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71090
+#EXTINF:-1,MY119:FOOD NTWK HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71091
+#EXTINF:-1,MY120:AFN HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71092
+#EXTINF:-1,MY121:NATGEO PEOPLE
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71093
+#EXTINF:-1,MY122:WARNER TV
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71094
+#EXTINF:-1,MY123:C&I HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71095
+#EXTINF:-1,MY124:HGTV HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71096
+#EXTINF:-1,MY125:DMAX HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71097
+#EXTINF:-1,MY126:COMEDY CENTRAL
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71098
+#EXTINF:-1,MY127:MTV
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71099
+#EXTINF:-1,MY128:ANIMAX
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71100
+#EXTINF:-1,MY129:eGG Network
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71101
+#EXTINF:-1,MY130:ASTRO ARENA HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71102
+#EXTINF:-1,MY131:FOX SPORTS 3 HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71103
+#EXTINF:-1,MY132:beIN SPORTS
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71104
+#EXTINF:-1,MY133:bEIN MAX
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71105
+#EXTINF:-1,MY134:EUROSPORT HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71106
+#EXTINF:-1,MY135:GOLF CHANNEL HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71107
+#EXTINF:-1,MY136:ASTRO RUGBY PASS TV
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71108
+#EXTINF:-1,MY137:ASTRO CRICKET
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71109
+#EXTINF:-1,MY138:ANIPLUS HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71110
+#EXTINF:-1,MY139:KPLUS HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71111
+#EXTINF:-1,MY140:DW HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71112
+#EXTINF:-1,MY141:FRANCE24 HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71113
+#EXTINF:-1,MY142:FOX Action Movies
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71114
+#EXTINF:-1,MY143:FOX HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71115
+#EXTINF:-1,MY144:FOX Family Movies
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71116
+#EXTINF:-1,MY145:Drama Sangat
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71117
+#EXTINF:-1,MY146:Baby TV
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71118
+#EXTINF:-1,MY147:BBC Earth HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71119
+#EXTINF:-1,MY148:BBC Lifestyle
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71120
+#EXTINF:-1,MY149:Blue Ant Entertainment
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71121
+#EXTINF:-1,MY150:Blue Ant Extreme
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71122
+#EXTINF:-1,MY151:Boomerang HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71123
+#EXTINF:-1,MY152:Cinema World HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71124
+#EXTINF:-1,MY153:Colors Cineplex
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71125
+#EXTINF:-1,MY154:Dreamworks HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71126
+#EXTINF:-1,MY155:Dunia Sinema
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71127
+#EXTINF:-1,MY156:FOX Life HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71128
+#EXTINF:-1,MY157:FOX Movies HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71129
+#EXTINF:-1,MY158:FX Cinema HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71130
+#EXTINF:-1,MY159:Jaya Max
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71131
+#EXTINF:-1,MY161:NatGeo Asia HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71132
+#EXTINF:-1,MY162:RTM Sports
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71133
+#EXTINF:-1,MY163:Now Jelli
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71134
+#EXTINF:-1,MY164:Paramount Channel
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71135
+#EXTINF:-1,MY165:Pesona HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71136
+#EXTINF:-1,MY166:Salaam HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71137
+#EXTINF:-1,MY168:SCM
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71138
+#EXTINF:-1,MY169:SETi Chinese
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71139
+#EXTINF:-1,MY170:Sony SAB
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71140
+#EXTINF:-1,MY171:Sony SetMAX
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71141
+#EXTINF:-1,MY172:Sony TV
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71142
+#EXTINF:-1,MY174:Travel Channel HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71143
+#EXTINF:-1,MY175:Astro Rania HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71144
+#EXTINF:-1,MY176:Astro Aura HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71145
+#EXTINF:-1,MY177:ABO Movie Thangathirai
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71146
+#EXTINF:-1,MY178:ABO Tayangan Hebat
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71147
+#EXTINF:-1,MY179:TVS
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71148
+#EXTINF:-1,MY180:ASTRO ASSP Plus HD
+http://e8.oknirvana.club:8880/14m82590/ZHcv35YhNb/71149
