@@ -1,1 +1,43 @@
-deviceId=TDk4Y2VkNTQtM2RkYi0zMmZkLThlNDEtMTgxOThkN2MwYmUI
+{
+        "name": "TV1",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv1.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "TV2",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv2.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227815/3221227815.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+      {
+        "name": "TV3",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv3.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YzI1MmE2Y2UtZmRlMS0zZWJkLWFmMTgtZDhmYTY0ZjkwYTU3"
+      },
+
+{
+        "name": "HGTV",
+        "logo_uri": "https://static.mncnow.id/images/channel/7a19b3d5/55d5_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "NatGeo People",
+        "logo_uri": "https://static.mncnow.id/images/channel/45ca14a3/dd4f_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
+      {
+        "name": "TLC",
+        "logo_uri": "https://static.mncnow.id/images/channel/5ce26cd9/ab8c_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YTQwYmI0YzItZTczZC0zNjYzLTg1MDYtZGQ5MzQ1YjRiODI4"
+      },
