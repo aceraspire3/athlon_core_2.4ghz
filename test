@@ -1,13 +1,69 @@
 [
-   {
-     "channel": [
-   {         
-    "name": "BOO",          
-    "logo_uri": "http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-    "uri": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813"
-     }
-    ]
-   }
-  ]
+     {
+         "name": "ANEKA TV",
+         "users": [
+     {
+          "name": "TV1",
+          "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",
+          "uri": "https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest_b4064000.mpd"
+      },
+      {
+        "name": "TV2",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
+        "uri": "https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/manifest_b1064000.mpd"
+      },
+      {
+        "name": "TV3",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
+        "uri": "https://raw.githubusercontent.com/raizoml123/workers/main/3.m3u8"
+      },
+      {
+        "name": "TV6",
+        "logo_uri": "https://stvron.com/canale/512/6tv.png",
+        "uri": "https://rtm7hdmobile.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest_b2164000.mpd"
+      },
+      {
+        "name": "TV DIDIK",
+        "logo_uri": "https://didik.tv/images/logotv2.png",
+        "uri": "https://raw.githubusercontent.com/raizoml123/workers/main/7.m3u8"
+      },
+      {
+        "name": "8TV",
+        "logo_uri": "https://seeklogo.com/images/1/8TV-logo-90A8C38436-seeklogo.com.png",
+        "uri": "https://raw.githubusercontent.com/raizoml123/workers/main/8.m3u8"
+      },
+      {
+        "name": "TV9",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png",
+        "uri": "https://raw.githubusercontent.com/raizoml123/workers/main/9.m3u8"
+      },
+      {
+        "name": "TV OKEY",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",
+        "uri": "https://rtm2hdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest_b4064000.mpd"
+      },
+      {
+        "name": "DRAMA SANGAT",
+        "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/c/ce/Jap.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8?PlayTV"
+      },
+      {
+        "name": "TVS",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TVS_%28Fernsehsender%29_Logo.svg/820px-TVS_%28Fernsehsender%29_Logo.svg.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8?PlayTV"
+      },
+      {
+        "name": "IKIM",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Radio_IKIM.png/240px-Radio_IKIM.png",
+        "uri": "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8?PlayTV"
+        },
+        {         
+          "name": "BOO",          
+          "logo_uri": "http://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
+          "uri": "http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd",
+          "drm_scheme": "clearkey",
+          "drm_license_url": "a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813"
+         }
+        ]
+       }
+      ]
