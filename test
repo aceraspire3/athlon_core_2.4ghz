@@ -1,7 +1,7 @@
 [
      {
          "name": "ANEKA TV",
-         "users": [
+         "samples": [
      {
           "name": "TV1",
           "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",
