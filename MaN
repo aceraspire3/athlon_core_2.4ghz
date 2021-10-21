@@ -1,0 +1,699 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="101" tvg-name=" [MY] TV1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png" group-title="[VIP] MALAYSIA", [MY] TV1
+https://ktiptv.co:443/2229/2229/25808
+#EXTINF:-1 tvg-id="102" tvg-name="[MY] TV2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv2.png" group-title="[VIP] MALAYSIA",[MY] TV2
+https://ktiptv.co:443/2229/2229/25809
+#EXTINF:-1 tvg-id="103" tvg-name="[MY] TV3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="[VIP] MALAYSIA",[MY] TV3
+https://ktiptv.co:443/2229/2229/25810
+#EXTINF:-1 tvg-id="147" tvg-name="[MY] NTV7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png" group-title="[VIP] MALAYSIA",[MY] NTV7
+https://ktiptv.co:443/2229/2229/25811
+#EXTINF:-1 tvg-id="148" tvg-name="[MY] 8TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png" group-title="[VIP] MALAYSIA",[MY] 8TV
+https://ktiptv.co:443/2229/2229/25812
+#EXTINF:-1 tvg-id="149" tvg-name="[MY] TV9" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" group-title="[VIP] MALAYSIA",[MY] TV9
+https://ktiptv.co:443/2229/2229/25813
+#EXTINF:-1 tvg-id="drama.my" tvg-name="[MY] Drama Sangat" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/drama-sangat-my.png" group-title="[VIP] MALAYSIA",[MY] Drama Sangat
+https://ktiptv.co:443/2229/2229/25825
+#EXTINF:-1 tvg-id="123" tvg-name="[MY] Awesome tv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png" group-title="[VIP] MALAYSIA",[MY] Awesome tv
+https://ktiptv.co:443/2229/2229/25828
+#EXTINF:-1 tvg-id="122" tvg-name="[MY] TVS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvs-my.png" group-title="[VIP] MALAYSIA",[MY] TVS
+https://ktiptv.co:443/2229/2229/25831
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[SG] Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Mediacorp_Channel_5_2015.png" group-title="[VIP] MALAYSIA",[SG] Channel 5
+https://ktiptv.co:443/2229/2229/25833
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[SG] Channel 8" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Channel8_2012_logo.png" group-title="[VIP] MALAYSIA",[SG] Channel 8
+https://ktiptv.co:443/2229/2229/25834
+#EXTINF:-1 tvg-id="ch.u.my" tvg-name="[SG] Channel U" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Channel_u_singapore.png" group-title="[VIP] MALAYSIA",[SG] Channel U
+https://ktiptv.co:443/2229/2229/25835
+#EXTINF:-1 tvg-id="515" tvg-name="[SG] CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="[VIP] MALAYSIA",[SG] CNA
+https://ktiptv.co:443/2229/2229/25837
+#EXTINF:-1 tvg-id="suria.my" tvg-name="[SG] Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Mediacorp_Suria_logo.jpg" group-title="[VIP] MALAYSIA",[SG] Suria
+https://ktiptv.co:443/2229/2229/25844
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[SG] Vasantham" tvg-logo="https://artefakts.sg/wp/wp-content/uploads/2018/03/Vasantham-logo.png" group-title="[VIP] MALAYSIA",[SG] Vasantham
+https://ktiptv.co:443/2229/2229/25848
+#EXTINF:-1 tvg-id="108" tvg-name=" [MY] ASTRO Citra HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" group-title="[VIP] MALAYSIA", [MY] ASTRO Citra HD
+https://ktiptv.co:443/2229/2229/25852
+#EXTINF:-1 tvg-id="104" tvg-name="[MY] ASTRO RIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="[VIP] MALAYSIA",[MY] ASTRO RIA HD
+https://ktiptv.co:443/2229/2229/25855
+#EXTINF:-1 tvg-id="105" tvg-name="[MY] ASTRO PRIMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-prima-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO PRIMA HD
+https://ktiptv.co:443/2229/2229/25862
+#EXTINF:-1 tvg-id="106" tvg-name="[MY] ASTRO OASIS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO OASIS HD
+https://ktiptv.co:443/2229/2229/25864
+#EXTINF:-1 tvg-id="107" tvg-name="[MY] ASTRO WARNA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO WARNA HD
+https://ktiptv.co:443/2229/2229/25867
+#EXTINF:-1 tvg-id="109" tvg-name="[MY] ASTRO Naura HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/naura-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO Naura HD
+https://ktiptv.co:443/2229/2229/25870
+#EXTINF:-1 tvg-id="118" tvg-name="[MY] GO SHOP 118" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go_shop_my.png" group-title="[VIP] MALAYSIA",[MY] GO SHOP 118
+https://ktiptv.co:443/2229/2229/25875
+#EXTINF:-1 tvg-id="120" tvg-name="[MY] GO SHOP 120" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go_shop_my.png" group-title="[VIP] MALAYSIA",[MY] GO SHOP 120
+https://ktiptv.co:443/2229/2229/25878
+#EXTINF:-1 tvg-id="112" tvg-name=" [MY] Astro Rania HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-rania-my.png" group-title="[VIP] MALAYSIA", [MY] Astro Rania HD
+https://ktiptv.co:443/2229/2229/25881
+#EXTINF:-1 tvg-id="113" tvg-name="[MY] Astro Aura HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aura-my.png" group-title="[VIP] MALAYSIA",[MY] Astro Aura HD
+https://ktiptv.co:443/2229/2229/25887
+#EXTINF:-1 tvg-id="pesona.my" tvg-name=" [MY] Pesona HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-pesona-indonesia-png-5.png" group-title="[VIP] MALAYSIA", [MY] Pesona HD
+https://ktiptv.co:443/2229/2229/25903
+#EXTINF:-1 tvg-id="113" tvg-name="[MY] Salaam HD" tvg-logo="https://www.unifi-tm.com.my/wp-content/uploads/2018/04/salam.png" group-title="[VIP] MALAYSIA",[MY] Salaam HD
+https://ktiptv.co:443/2229/2229/25904
+#EXTINF:-1 tvg-id="114" tvg-name="[MY] TV ALHIJRAH" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png" group-title="[VIP] MALAYSIA",[MY] TV ALHIJRAH
+https://ktiptv.co:443/2229/2229/25906
+#EXTINF:-1 tvg-id="204" tvg-name="[MY] MAKKAL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/makkal_tv.png" group-title="[VIP] MALAYSIA",[MY] MAKKAL TV
+https://ktiptv.co:443/2229/2229/25908
+#EXTINF:-1 tvg-id="312" tvg-name="[MY] Polimer" tvg-logo="https://www.pay2easy.com/uploads/9423-polimer_in_news.png" group-title="[VIP] MALAYSIA",[MY] Polimer
+https://ktiptv.co:443/2229/2229/25914
+#EXTINF:-1 tvg-id="201" tvg-name="[MY] ASTRO Vaanavil HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-vaanavil-my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO Vaanavil HD
+https://ktiptv.co:443/2229/2229/25927
+#EXTINF:-1 tvg-id="116" tvg-name=" [MY] COLORS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-in.png" group-title="[VIP] MALAYSIA", [MY] COLORS HD
+https://ktiptv.co:443/2229/2229/25928
+#EXTINF:-1 tvg-id="212" tvg-name="[MY] SUN MUSIC" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music-HD-white.png" group-title="[VIP] MALAYSIA",[MY] SUN MUSIC
+https://ktiptv.co:443/2229/2229/25933
+#EXTINF:-1 tvg-id="213" tvg-name="[MY] CHUTTI TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_chutti_tv_in.png" group-title="[VIP] MALAYSIA",[MY] CHUTTI TV
+https://ktiptv.co:443/2229/2229/25934
+#EXTINF:-1 tvg-id="214" tvg-name="[MY] ADITHYA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_adithya.png" group-title="[VIP] MALAYSIA",[MY] ADITHYA
+https://ktiptv.co:443/2229/2229/25937
+#EXTINF:-1 tvg-id="202" tvg-name="[MY] ASTRO Vinmeen HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_vinmeen_hd_my.png" group-title="[VIP] MALAYSIA",[MY] ASTRO Vinmeen HD
+https://ktiptv.co:443/2229/2229/25943
+#EXTINF:-1 tvg-id="221" tvg-name="[MY] ASTRO Star Vijay HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-vijay-international-hk.png" group-title="[VIP] MALAYSIA",[MY] ASTRO Star Vijay HD
+https://ktiptv.co:443/2229/2229/25944
+#EXTINF:-1 tvg-id="222" tvg-name="[MY] COLORS TAMIL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-tamil-in-uk.png" group-title="[VIP] MALAYSIA",[MY] COLORS TAMIL
+https://ktiptv.co:443/2229/2229/25945
+#EXTINF:-1 tvg-id="211" tvg-name="[MY] SUN TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sun_tv_my.png" group-title="[VIP] MALAYSIA",[MY] SUN TV HD
+https://ktiptv.co:443/2229/2229/25947
+#EXTINF:-1 tvg-id="223" tvg-name="[MY] ZEE Tamil HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-tamizh-in.png" group-title="[VIP] MALAYSIA",[MY] ZEE Tamil HD
+https://ktiptv.co:443/2229/2229/25949
+#EXTINF:-1 tvg-id="251" tvg-name="[MY] BOLLYONE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_box_office_bollyone_hd.png" group-title="[VIP] MALAYSIA",[MY] BOLLYONE HD
+https://ktiptv.co:443/2229/2229/25950
+#EXTINF:-1 tvg-id="241" tvg-name="[MY] Astro Box Office Movies Thangathirai" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_bom_thangathirai.png" group-title="[VIP] MALAYSIA",[MY] Astro Box Office Movies Thangathirai
+https://ktiptv.co:443/2229/2229/25951
+#EXTINF:-1 tvg-id="313" tvg-name="[MY] Jaya Max" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jaya_in_max.png" group-title="[VIP] MALAYSIA",[MY] Jaya Max
+https://ktiptv.co:443/2229/2229/25952
+#EXTINF:-1 tvg-id="342" tvg-name="[MY] Sony SAB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-sab-tv-in.png" group-title="[VIP] MALAYSIA",[MY] Sony SAB
+https://ktiptv.co:443/2229/2229/25955
+#EXTINF:-1 tvg-id="331" tvg-name="[MY] Sony SetMAX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sony_max_in.png" group-title="[VIP] MALAYSIA",[MY] Sony SetMAX
+https://ktiptv.co:443/2229/2229/25957
+#EXTINF:-1 tvg-id="343" tvg-name="[MY] Sony TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/set_in.png" group-title="[VIP] MALAYSIA",[MY] Sony TV
+https://ktiptv.co:443/2229/2229/25959
+#EXTINF:-1 tvg-id="303" tvg-name="[MY] GO SHOP 303华语" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/go_shop_my_chinese.png" group-title="[VIP] MALAYSIA",[MY] GO SHOP 303华语
+https://ktiptv.co:443/2229/2229/25961
+#EXTINF:-1 tvg-id="300" tvg-name=" [MY] ASTRO iQIYI HD" tvg-logo="https://android-artworks.25pp.com/fs08/2020/03/07/1/110_41bcda53cc706c6f1436b4b7f7bac58e_con.png" group-title="[VIP] MALAYSIA", [MY] ASTRO iQIYI HD
+https://ktiptv.co:443/2229/2229/25963
+#EXTINF:-1 tvg-id="304" tvg-name="[MY] 小太阳 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_xiao_tai_yang.png" group-title="[VIP] MALAYSIA",[MY] 小太阳 HD
+https://ktiptv.co:443/2229/2229/25964
+#EXTINF:-1 tvg-id="306" tvg-name="[MY] AEC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_aec.png" group-title="[VIP] MALAYSIA",[MY] AEC HD
+https://ktiptv.co:443/2229/2229/25968
+#EXTINF:-1 tvg-id="307" tvg-name="[MY] 双星 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_shuang_xing.png" group-title="[VIP] MALAYSIA",[MY] 双星 HD
+https://ktiptv.co:443/2229/2229/25970
+#EXTINF:-1 tvg-id="308" tvg-name="[MY] 全佳 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_quan_jia_hd_my.png" group-title="[VIP] MALAYSIA",[MY] 全佳 HD
+https://ktiptv.co:443/2229/2229/25971
+#EXTINF:-1 tvg-id="310" tvg-name="[MY] 翡翠华丽台" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_jade_my.png" group-title="[VIP] MALAYSIA",[MY] 翡翠华丽台
+https://ktiptv.co:443/2229/2229/25972
+#EXTINF:-1 tvg-id="333" tvg-name=" [MY] 欢喜台 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-hua-hee-dai-my.png" group-title="[VIP] MALAYSIA", [MY] 欢喜台 HD
+https://ktiptv.co:443/2229/2229/25973
+#EXTINF:-1 tvg-id="319" tvg-name="[MY] TVB 星河 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb-xing-he-hk.png" group-title="[VIP] MALAYSIA",[MY] TVB 星河 HD
+https://ktiptv.co:443/2229/2229/25977
+#EXTINF:-1 tvg-id="317" tvg-name="[MY] TVB 娱乐新闻台" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_entertainment_news.png" group-title="[VIP] MALAYSIA",[MY] TVB 娱乐新闻台
+https://ktiptv.co:443/2229/2229/25978
+#EXTINF:-1 tvg-id="305" tvg-name="[MY] TVB 经典台" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb_hk_classic.png" group-title="[VIP] MALAYSIA",[MY] TVB 经典台
+https://ktiptv.co:443/2229/2229/25979
+#EXTINF:-1 tvg-id="309" tvg-name="[MY] 天映频道 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="[VIP] MALAYSIA",[MY] 天映频道 HD
+https://ktiptv.co:443/2229/2229/25981
+#EXTINF:-1 tvg-id="321" tvg-name="[MY] 天映经典" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="[VIP] MALAYSIA",[MY] 天映经典
+https://ktiptv.co:443/2229/2229/25982
+#EXTINF:-1 tvg-id="315" tvg-name="[MY] 卫视中文台 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star-chinese-channel-hk.png" group-title="[VIP] MALAYSIA",[MY] 卫视中文台 HD
+https://ktiptv.co:443/2229/2229/25983
+#EXTINF:-1 tvg-id="325" tvg-name="[MY] Phoenix Chinese Channel HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/phoenix_cn.png" group-title="[VIP] MALAYSIA",[MY] Phoenix Chinese Channel HD
+https://ktiptv.co:443/2229/2229/25984
+#EXTINF:-1 tvg-id="326" tvg-name="[MY] Phoenix Info News HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/phoenix_cne.png" group-title="[VIP] MALAYSIA",[MY] Phoenix Info News HD
+https://ktiptv.co:443/2229/2229/25985
+#EXTINF:-1 tvg-id="320" tvg-name="[MY] TVBS ASIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvbs-asia-tw.png" group-title="[VIP] MALAYSIA",[MY] TVBS ASIA HD
+https://ktiptv.co:443/2229/2229/25986
+#EXTINF:-1 tvg-id="316" tvg-name="[MY] 中天亚洲" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cti_tv_asia.png" group-title="[VIP] MALAYSIA",[MY] 中天亚洲
+https://ktiptv.co:443/2229/2229/25987
+#EXTINF:-1 tvg-id="209" tvg-name="[MY] 三立国际台" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/set_tv_international.png" group-title="[VIP] MALAYSIA",[MY] 三立国际台
+https://ktiptv.co:443/2229/2229/25988
+#EXTINF:-1 tvg-id="233" tvg-name="[MY] Now Jelli紫金国际台" tvg-logo="https://www.nowtv.now.com/media/logo/108-wbg-c.png" group-title="[VIP] MALAYSIA",[MY] Now Jelli紫金国际台
+https://ktiptv.co:443/2229/2229/25989
+#EXTINF:-1 tvg-id="311" tvg-name="[MY] AOD 311 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="[VIP] MALAYSIA",[MY] AOD 311 HD
+https://ktiptv.co:443/2229/2229/25990
+#EXTINF:-1 tvg-id="352" tvg-name="[MY] AOD 352 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="[VIP] MALAYSIA",[MY] AOD 352 HD
+https://ktiptv.co:443/2229/2229/25991
+#EXTINF:-1 tvg-id="353" tvg-name="[MY] AOD 353 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="[VIP] MALAYSIA",[MY] AOD 353 HD
+https://ktiptv.co:443/2229/2229/25992
+#EXTINF:-1 tvg-id="354" tvg-name="[MY] AOD 354 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="[VIP] MALAYSIA",[MY] AOD 354 HD
+https://ktiptv.co:443/2229/2229/25993
+#EXTINF:-1 tvg-id="355" tvg-name="[MY] AOD 355 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="[VIP] MALAYSIA",[MY] AOD 355 HD
+https://ktiptv.co:443/2229/2229/25994
+#EXTINF:-1 tvg-id="395" tvg-name="[MY] tvN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" group-title="[VIP] MALAYSIA",[MY] tvN HD
+https://ktiptv.co:443/2229/2229/26001
+#EXTINF:-1 tvg-id="416" tvg-name="[MY] tvN Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvnmovies.png" group-title="[VIP] MALAYSIA",[MY] tvN Movies
+https://ktiptv.co:443/2229/2229/26003
+#EXTINF:-1 tvg-id="396" tvg-name="[MY] KPLUS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/k_plus_kr.png" group-title="[VIP] MALAYSIA",[MY] KPLUS HD
+https://ktiptv.co:443/2229/2229/26004
+#EXTINF:-1 tvg-id="705" tvg-name="[MY] KIX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kix-hk.png" group-title="[VIP] MALAYSIA",[MY] KIX HD
+https://ktiptv.co:443/2229/2229/26005
+#EXTINF:-1 tvg-id="392" tvg-name="[MY] KBS World HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kbs_world.png" group-title="[VIP] MALAYSIA",[MY] KBS World HD
+https://ktiptv.co:443/2229/2229/26006
+#EXTINF:-1 tvg-id="394" tvg-name="[MY] ASTRO Oh!K HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oh-k-us-sg.png" group-title="[VIP] MALAYSIA",[MY] ASTRO Oh!K HD
+https://ktiptv.co:443/2229/2229/26007
+#EXTINF:-1 tvg-id="393" tvg-name="[MY] One HD" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="[VIP] MALAYSIA",[MY] One HD
+https://ktiptv.co:443/2229/2229/26009
+#EXTINF:-1 tvg-id="404" tvg-name="[MY] BOO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boo_my.png" group-title="[VIP] MALAYSIA",[MY] BOO
+https://ktiptv.co:443/2229/2229/26011
+#EXTINF:-1 tvg-id="400" tvg-name="[MY] FAM MOVIE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fam-movies-my.png" group-title="[VIP] MALAYSIA",[MY] FAM MOVIE
+https://ktiptv.co:443/2229/2229/26027
+#EXTINF:-1 tvg-id="301" tvg-name="[MY] Yupp Thirai HD" tvg-logo="http://www.ndtvlanka.live/wp-content/uploads/2021/06/yupp-thirai.png" group-title="[VIP] MALAYSIA",[MY] Yupp Thirai HD
+https://ktiptv.co:443/2229/2229/26029
+#EXTINF:-1 tvg-id="411" tvg-name="[MY] HBO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="[VIP] MALAYSIA",[MY] HBO HD
+https://ktiptv.co:443/2229/2229/26076
+#EXTINF:-1 tvg-id="415" tvg-name="[MY] HBO Hits" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="[VIP] MALAYSIA",[MY] HBO Hits
+https://ktiptv.co:443/2229/2229/26077
+#EXTINF:-1 tvg-id="hbo.signature.id" tvg-name="[MY] HBO Signature" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_asia.png" group-title="[VIP] MALAYSIA",[MY] HBO Signature
+https://ktiptv.co:443/2229/2229/26080
+#EXTINF:-1 tvg-id="414" tvg-name="[MY] HBO Family" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_asia.png" group-title="[VIP] MALAYSIA",[MY] HBO Family
+https://ktiptv.co:443/2229/2229/26082
+#EXTINF:-1 tvg-id="413" tvg-name="[MY] Showcase Movies" tvg-logo="https://ewsat.com/img/MNET_MOVIES_SHOWCASE.png" group-title="[VIP] MALAYSIA",[MY] Showcase Movies
+https://ktiptv.co:443/2229/2229/26084
+#EXTINF:-1 tvg-id="703" tvg-name="[MY] Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="[VIP] MALAYSIA",[MY] Lifetime
+https://ktiptv.co:443/2229/2229/26086
+#EXTINF:-1 tvg-id="412" tvg-name=" [MY] Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="[VIP] MALAYSIA", [MY] Cinemax HD
+https://ktiptv.co:443/2229/2229/26088
+#EXTINF:-1 tvg-id="411" tvg-name="[MY] Cinema World HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinema_world_asia.png" group-title="[VIP] MALAYSIA",[MY] Cinema World HD
+https://ktiptv.co:443/2229/2229/26089
+#EXTINF:-1 tvg-id="704" tvg-name="[MY] PrimeTime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png" group-title="[VIP] MALAYSIA",[MY] PrimeTime
+https://ktiptv.co:443/2229/2229/26091
+#EXTINF:-1 tvg-id="128" tvg-name="[MY] Dunia Sinema" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png" group-title="[VIP] MALAYSIA",[MY] Dunia Sinema
+https://ktiptv.co:443/2229/2229/26094
+#EXTINF:-1 tvg-id="712" tvg-name="[MY] WARNER TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="[VIP] MALAYSIA",[MY] WARNER TV
+https://ktiptv.co:443/2229/2229/26097
+#EXTINF:-1 tvg-id="713" tvg-name="[MY] Paramount Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title="[VIP] MALAYSIA",[MY] Paramount Channel
+https://ktiptv.co:443/2229/2229/26100
+#EXTINF:-1 tvg-id="401" tvg-name="[MY] Hits Movies HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits-movies-sg.png" group-title="[VIP] MALAYSIA",[MY] Hits Movies HD
+https://ktiptv.co:443/2229/2229/26102
+#EXTINF:-1 tvg-id="514" tvg-name="[MY] SKY NEWS HD" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-news-hd-vector-logo.png" group-title="[VIP] MALAYSIA",[MY] SKY NEWS HD
+https://ktiptv.co:443/2229/2229/26156
+#EXTINF:-1 tvg-id="612" tvg-name="[MY] Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="[VIP] MALAYSIA",[MY] Euronews
+https://ktiptv.co:443/2229/2229/26158
+#EXTINF:-1 tvg-id="518" tvg-name="[MY] ABC AUSTRALIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/521_300.png" group-title="[VIP] MALAYSIA",[MY] ABC AUSTRALIA
+https://ktiptv.co:443/2229/2229/26160
+#EXTINF:-1 tvg-id="521" tvg-name="[MY] DW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="[VIP] MALAYSIA",[MY] DW HD
+https://ktiptv.co:443/2229/2229/26162
+#EXTINF:-1 tvg-id="522" tvg-name="[MY] FRANCE24 HD" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="[VIP] MALAYSIA",[MY] FRANCE24 HD
+https://ktiptv.co:443/2229/2229/26165
+#EXTINF:-1 tvg-id="501" tvg-name="[MY] ASTRO Awani HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_awani.png" group-title="[VIP] MALAYSIA",[MY] ASTRO Awani HD
+https://ktiptv.co:443/2229/2229/26167
+#EXTINF:-1 tvg-id="502" tvg-name="[MY] Bernama News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bernama-my.png" group-title="[VIP] MALAYSIA",[MY] Bernama News
+https://ktiptv.co:443/2229/2229/26169
+#EXTINF:-1 tvg-id="511" tvg-name="[MY] CNN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-international-us.png" group-title="[VIP] MALAYSIA",[MY] CNN HD
+https://ktiptv.co:443/2229/2229/26171
+#EXTINF:-1 tvg-id="512" tvg-name="[MY] BBC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/795px-BBC_News_HD_Logo.svg.png" group-title="[VIP] MALAYSIA",[MY] BBC News HD
+https://ktiptv.co:443/2229/2229/26174
+#EXTINF:-1 tvg-id="513" tvg-name="[MY] Al-Jazzera HD" tvg-logo="https://ewsat.com/img/AL_JAZEERA_ENGLISH.png" group-title="[VIP] MALAYSIA",[MY] Al-Jazzera HD
+https://ktiptv.co:443/2229/2229/26177
+#EXTINF:-1 tvg-id="517" tvg-name="[MY] Bloomberg TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blommberg-tv-us.png" group-title="[VIP] MALAYSIA",[MY] Bloomberg TV
+https://ktiptv.co:443/2229/2229/26179
+#EXTINF:-1 tvg-id="335" tvg-name="[MY] CCTV4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/1200px-CCTV-4_Logo.svg.png" group-title="[VIP] MALAYSIA",[MY] CCTV4 HD
+https://ktiptv.co:443/2229/2229/26181
+#EXTINF:-1 tvg-id="503" tvg-name="[MY] CGTN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="[VIP] MALAYSIA",[MY] CGTN
+https://ktiptv.co:443/2229/2229/26192
+#EXTINF:-1 tvg-id="516" tvg-name="[MY] CNBC Asia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" group-title="[VIP] MALAYSIA",[MY] CNBC Asia HD
+https://ktiptv.co:443/2229/2229/26195
+#EXTINF:-1 tvg-id="551" tvg-name="[MY] NatGeo HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="[VIP] MALAYSIA",[MY] NatGeo HD
+https://ktiptv.co:443/2229/2229/26197
+#EXTINF:-1 tvg-id="national.geographic.my" tvg-name="[MY] NatGeo Asia HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="[VIP] MALAYSIA",[MY] NatGeo Asia HD
+https://ktiptv.co:443/2229/2229/26200
+#EXTINF:-1 tvg-id="550" tvg-name="[MY] NatGeo Wild HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png" group-title="[VIP] MALAYSIA",[MY] NatGeo Wild HD
+https://ktiptv.co:443/2229/2229/26205
+#EXTINF:-1 tvg-id="618" tvg-name="[MY] Discovery HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="[VIP] MALAYSIA",[MY] Discovery HD
+https://ktiptv.co:443/2229/2229/26207
+#EXTINF:-1 tvg-id="553" tvg-name="[MY] Discovery Asia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png" group-title="[VIP] MALAYSIA",[MY] Discovery Asia
+https://ktiptv.co:443/2229/2229/26209
+#EXTINF:-1 tvg-id="556" tvg-name="[MY] Animal Planet HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="[VIP] MALAYSIA",[MY] Animal Planet HD
+https://ktiptv.co:443/2229/2229/26211
+#EXTINF:-1 tvg-id="555" tvg-name="[MY] History HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="[VIP] MALAYSIA",[MY] History HD
+https://ktiptv.co:443/2229/2229/26213
+#EXTINF:-1 tvg-id="612" tvg-name="[MY] TA-DAA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/ta-daa-my.png" group-title="[VIP] MALAYSIA",[MY] TA-DAA
+https://ktiptv.co:443/2229/2229/26216
+#EXTINF:-1 tvg-id="601" tvg-name="[MY] TUTOR TV SK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-tutor-tv-sk-my.png" group-title="[VIP] MALAYSIA",[MY] TUTOR TV SK
+https://ktiptv.co:443/2229/2229/26228
+#EXTINF:-1 tvg-id="602" tvg-name="[MY] TUTOR TV PT3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_tutor_tv_pt3.png" group-title="[VIP] MALAYSIA",[MY] TUTOR TV PT3
+https://ktiptv.co:443/2229/2229/26231
+#EXTINF:-1 tvg-id="603" tvg-name="[MY] TUTOR TV SPM" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_tutor_tv_spm.png" group-title="[VIP] MALAYSIA",[MY] TUTOR TV SPM
+https://ktiptv.co:443/2229/2229/26233
+#EXTINF:-1 tvg-id="610" tvg-name="[MY] TVIQ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_tviq.png" group-title="[VIP] MALAYSIA",[MY] TVIQ
+https://ktiptv.co:443/2229/2229/26236
+#EXTINF:-1 tvg-id="611" tvg-name="[MY] ASTRO CERIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ceria.png" group-title="[VIP] MALAYSIA",[MY] ASTRO CERIA HD
+https://ktiptv.co:443/2229/2229/26238
+#EXTINF:-1 tvg-id="719" tvg-name="[MY] ANIMAX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" group-title="[VIP] MALAYSIA",[MY] ANIMAX
+https://ktiptv.co:443/2229/2229/26240
+#EXTINF:-1 tvg-id="aniplus.my" tvg-name="[MY] ANIPLUS HD" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="[VIP] MALAYSIA",[MY] ANIPLUS HD
+https://ktiptv.co:443/2229/2229/26242
+#EXTINF:-1 tvg-id="619" tvg-name="[MY] Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" group-title="[VIP] MALAYSIA",[MY] Boomerang HD
+https://ktiptv.co:443/2229/2229/26245
+#EXTINF:-1 tvg-id="550" tvg-name="[MY] Dreamworks HD" tvg-logo="https://p.kindpng.com/picc/s/704-7046788_dreamworks-logo-hd-png-download.png" group-title="[VIP] MALAYSIA",[MY] Dreamworks HD
+https://ktiptv.co:443/2229/2229/26247
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[MY] DISNEY XD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title="[VIP] MALAYSIA",[MY] DISNEY XD HD
+https://ktiptv.co:443/2229/2229/26249
+#EXTINF:-1 tvg-id="disney.junior.id" tvg-name="[MY] DISNEY JUNIOR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="[VIP] MALAYSIA",[MY] DISNEY JUNIOR
+https://ktiptv.co:443/2229/2229/26251
+#EXTINF:-1 tvg-id="disney.id" tvg-name="[MY] DISNEY CHANNEL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png" group-title="[VIP] MALAYSIA",[MY] DISNEY CHANNEL HD
+https://ktiptv.co:443/2229/2229/26253
+#EXTINF:-1 tvg-id="615" tvg-name="[MY] CARTOON NTWK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="[VIP] MALAYSIA",[MY] CARTOON NTWK HD
+https://ktiptv.co:443/2229/2229/26273
+#EXTINF:-1 tvg-id="616" tvg-name="[MY] NICKELODEON HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="[VIP] MALAYSIA",[MY] NICKELODEON HD
+https://ktiptv.co:443/2229/2229/26275
+#EXTINF:-1 tvg-id="617" tvg-name="[MY] NICK JR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title="[VIP] MALAYSIA",[MY] NICK JR
+https://ktiptv.co:443/2229/2229/26276
+#EXTINF:-1 tvg-id="618" tvg-name="[MY] Baby TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/baby_tv_eu.png" group-title="[VIP] MALAYSIA",[MY] Baby TV
+https://ktiptv.co:443/2229/2229/26277
+#EXTINF:-1 tvg-id="701" tvg-name="[MY] AXN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png" group-title="[VIP] MALAYSIA",[MY] AXN HD
+https://ktiptv.co:443/2229/2229/26282
+#EXTINF:-1 tvg-id="706" tvg-name="[MY] HITS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits_tv_sg.png" group-title="[VIP] MALAYSIA",[MY] HITS HD
+https://ktiptv.co:443/2229/2229/26284
+#EXTINF:-1 tvg-id="707" tvg-name="[MY] TLC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" group-title="[VIP] MALAYSIA",[MY] TLC HD
+https://ktiptv.co:443/2229/2229/26285
+#EXTINF:-1 tvg-id="708" tvg-name="[MY] FOOD NTWK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/food-network-uk.png" group-title="[VIP] MALAYSIA",[MY] FOOD NTWK HD
+https://ktiptv.co:443/2229/2229/26286
+#EXTINF:-1 tvg-id="709" tvg-name="[MY] AFN HD" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1578301677_logo-asian-food-network-lg.png" group-title="[VIP] MALAYSIA",[MY] AFN HD
+https://ktiptv.co:443/2229/2229/26287
+#EXTINF:-1 tvg-id="714" tvg-name="[MY] C&I HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png" group-title="[VIP] MALAYSIA",[MY] C&I HD
+https://ktiptv.co:443/2229/2229/26288
+#EXTINF:-1 tvg-id="521" tvg-name=" [MY] Travel Channel HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/travel_channel_us.png" group-title="[VIP] MALAYSIA", [MY] Travel Channel HD
+https://ktiptv.co:443/2229/2229/26289
+#EXTINF:-1 tvg-id="554" tvg-name="[MY] BBC Earth HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_earth_uk.png" group-title="[VIP] MALAYSIA",[MY] BBC Earth HD
+https://ktiptv.co:443/2229/2229/26290
+#EXTINF:-1 tvg-id="717" tvg-name="[MY] BBC Lifestyle" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_lifestyle_uk.png" group-title="[VIP] MALAYSIA",[MY] BBC Lifestyle
+https://ktiptv.co:443/2229/2229/26291
+#EXTINF:-1 tvg-id="473" tvg-name="[MY] Blue Ant Entertainment" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blue-ant-entertainment-ca.png" group-title="[VIP] MALAYSIA",[MY] Blue Ant Entertainment
+https://ktiptv.co:443/2229/2229/26292
+#EXTINF:-1 tvg-id="474" tvg-name="[MY] Blue Ant Extreme" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blue-ant-extreme-ca.png" group-title="[VIP] MALAYSIA",[MY] Blue Ant Extreme
+https://ktiptv.co:443/2229/2229/26293
+#EXTINF:-1 tvg-id="715" tvg-name="[MY] HGTV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hgtv_us.png" group-title="[VIP] MALAYSIA",[MY] HGTV HD
+https://ktiptv.co:443/2229/2229/26294
+#EXTINF:-1 tvg-id="716" tvg-name="[MY] DMAX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dmax-us.png" group-title="[VIP] MALAYSIA",[MY] DMAX HD
+https://ktiptv.co:443/2229/2229/26296
+#EXTINF:-1 tvg-id="324.comedy.central.爆笑台.hk" tvg-name="[MY] COMEDY CENTRAL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="[VIP] MALAYSIA",[MY] COMEDY CENTRAL
+https://ktiptv.co:443/2229/2229/26297
+#EXTINF:-1 tvg-id="531" tvg-name="[MY] MTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="[VIP] MALAYSIA",[MY] MTV
+https://ktiptv.co:443/2229/2229/26298
+#EXTINF:-1 tvg-id="718" tvg-name="[MY] MTV Asia" tvg-logo="https://mtvasia-com.mtvnimages.com/mtvasia-news/2017/siterevamp/SISTERSCHANNEL_BANNER_ASIA.png" group-title="[VIP] MALAYSIA",[MY] MTV Asia
+https://ktiptv.co:443/2229/2229/26299
+#EXTINF:-1 tvg-id="502" tvg-name="[MY] Love Nature HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/love_nature_ca.png" group-title="[VIP] MALAYSIA",[MY] Love Nature HD
+https://ktiptv.co:443/2229/2229/28117
+#EXTINF:-1 tvg-id="529" tvg-name="[MY] Luxe TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luxe-TV-Logo.svg/1280px-Luxe-TV-Logo.svg.png" group-title="[VIP] MALAYSIA",[MY] Luxe TV HD
+https://ktiptv.co:443/2229/2229/28118
+#EXTINF:-1 tvg-id="633" tvg-name="[MY] Parlimen Malaysia" tvg-logo="https://www.clipartmax.com/png/middle/447-4479928_parlimen-malaysia-coat-of-arms-of-malaysia.png" group-title="[VIP] MALAYSIA",[MY] Parlimen Malaysia
+https://ktiptv.co:443/2229/2229/28119
+#EXTINF:-1 tvg-id="151" tvg-name="[MY] LAKU Mall" tvg-logo="https://i0.wp.com/lakumall.com/wp-content/uploads/2018/05/LOGO-BARU-LAKUMALL-BIG.png" group-title="[VIP] MALAYSIA",[MY] LAKU Mall
+https://ktiptv.co:443/2229/2229/28121
+#EXTINF:-1 tvg-id="118" tvg-name="[MY] Hypp Inspirasi HD" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/hypp-inspirasi.png" group-title="[VIP] MALAYSIA",[MY] Hypp Inspirasi HD
+https://ktiptv.co:443/2229/2229/28122
+#EXTINF:-1 tvg-id="116" tvg-name="[MY] Hypp Sensasi HD" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/hypp-sensasi.png" group-title="[VIP] MALAYSIA",[MY] Hypp Sensasi HD
+https://ktiptv.co:443/2229/2229/28123
+#EXTINF:-1 tvg-id="101" tvg-name="[B] Tv1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png" group-title="[BACKUP] Malaysia",[B] Tv1
+https://ktiptv.co:443/2229/2229/375313
+#EXTINF:-1 tvg-id="101" tvg-name="[B] Tv1(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv1.png" group-title="[BACKUP] Malaysia",[B] Tv1(b)
+https://ktiptv.co:443/2229/2229/375314
+#EXTINF:-1 tvg-id="102" tvg-name="[B] Tv2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv2.png" group-title="[BACKUP] Malaysia",[B] Tv2
+https://ktiptv.co:443/2229/2229/375316
+#EXTINF:-1 tvg-id="102" tvg-name="[B] Tv2(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtm_my_tv2.png" group-title="[BACKUP] Malaysia",[B] Tv2(b)
+https://ktiptv.co:443/2229/2229/375317
+#EXTINF:-1 tvg-id="103" tvg-name="[B] Tv3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="[BACKUP] Malaysia",[B] Tv3
+https://ktiptv.co:443/2229/2229/375319
+#EXTINF:-1 tvg-id="103" tvg-name="[B] Tv3(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv3_my.png" group-title="[BACKUP] Malaysia",[B] Tv3(b)
+https://ktiptv.co:443/2229/2229/375320
+#EXTINF:-1 tvg-id="147" tvg-name="[B] NTV7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png" group-title="[BACKUP] Malaysia",[B] NTV7
+https://ktiptv.co:443/2229/2229/375322
+#EXTINF:-1 tvg-id="147" tvg-name="[B] NTV7(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-7-my.png" group-title="[BACKUP] Malaysia",[B] NTV7(b)
+https://ktiptv.co:443/2229/2229/375323
+#EXTINF:-1 tvg-id="148" tvg-name="[B] 8TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png" group-title="[BACKUP] Malaysia",[B] 8TV
+https://ktiptv.co:443/2229/2229/375325
+#EXTINF:-1 tvg-id="148" tvg-name="[B] 8TV(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/8-tv-my.png" group-title="[BACKUP] Malaysia",[B] 8TV(b)
+https://ktiptv.co:443/2229/2229/375326
+#EXTINF:-1 tvg-id="149" tvg-name="[B] TV9" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" group-title="[BACKUP] Malaysia",[B] TV9
+https://ktiptv.co:443/2229/2229/375328
+#EXTINF:-1 tvg-id="149" tvg-name="[B] TV9(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_my.png" group-title="[BACKUP] Malaysia",[B] TV9(b)
+https://ktiptv.co:443/2229/2229/375329
+#EXTINF:-1 tvg-id="" tvg-name="[B] Drama sangat" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/drama-sangat-my.png" group-title="[BACKUP] Malaysia",[B] Drama sangat
+https://ktiptv.co:443/2229/2229/375331
+#EXTINF:-1 tvg-id="" tvg-name="[B] Drama sangat(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/drama-sangat-my.png" group-title="[BACKUP] Malaysia",[B] Drama sangat(b)
+https://ktiptv.co:443/2229/2229/375332
+#EXTINF:-1 tvg-id="114" tvg-name="[B] Al-hijah" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png" group-title="[BACKUP] Malaysia",[B] Al-hijah
+https://ktiptv.co:443/2229/2229/375333
+#EXTINF:-1 tvg-id="114" tvg-name="[B] Al-hijah(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_alhijrah.png" group-title="[BACKUP] Malaysia",[B] Al-hijah(b)
+https://ktiptv.co:443/2229/2229/375334
+#EXTINF:-1 tvg-id="502" tvg-name="[B] Bernama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bernama-my.png" group-title="[BACKUP] Malaysia",[B] Bernama
+https://ktiptv.co:443/2229/2229/375335
+#EXTINF:-1 tvg-id="502" tvg-name="[B] Bernama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bernama-my.png" group-title="[BACKUP] Malaysia",[B] Bernama
+https://ktiptv.co:443/2229/2229/375336
+#EXTINF:-1 tvg-id="107" tvg-name="[B]  Astro Warna" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-warna-my.png" group-title="[BACKUP] Malaysia",[B]  Astro Warna
+https://ktiptv.co:443/2229/2229/375341
+#EXTINF:-1 tvg-id="501" tvg-name="[B] Awani" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_awani.png" group-title="[BACKUP] Malaysia",[B] Awani
+https://ktiptv.co:443/2229/2229/375342
+#EXTINF:-1 tvg-id="501" tvg-name="[B] Awani(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_awani.png" group-title="[BACKUP] Malaysia",[B] Awani(b)
+https://ktiptv.co:443/2229/2229/375343
+#EXTINF:-1 tvg-id="108" tvg-name="[B] Citra" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-citra-my.png" group-title="[BACKUP] Malaysia",[B] Citra
+https://ktiptv.co:443/2229/2229/375346
+#EXTINF:-1 tvg-id="104" tvg-name="[B] RIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="[BACKUP] Malaysia",[B] RIA HD
+https://ktiptv.co:443/2229/2229/375347
+#EXTINF:-1 tvg-id="106" tvg-name="[B] Oasis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-oasis-my.png" group-title="[BACKUP] Malaysia",[B] Oasis
+https://ktiptv.co:443/2229/2229/375348
+#EXTINF:-1 tvg-id="105" tvg-name="[B] Prima" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-prima-my.png" group-title="[BACKUP] Malaysia",[B] Prima
+https://ktiptv.co:443/2229/2229/375349
+#EXTINF:-1 tvg-id="109" tvg-name="[B] ASTRO NAURA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/naura-my.png" group-title="[BACKUP] Malaysia",[B] ASTRO NAURA
+https://ktiptv.co:443/2229/2229/375352
+#EXTINF:-1 tvg-id="515" tvg-name="[B] CNA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cna-sg.png" group-title="[BACKUP] Malaysia",[B] CNA
+https://ktiptv.co:443/2229/2229/375355
+#EXTINF:-1 tvg-id="304" tvg-name="[B] 小太阳" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_xiao_tai_yang.png" group-title="[BACKUP] Malaysia",[B] 小太阳
+https://ktiptv.co:443/2229/2229/375363
+#EXTINF:-1 tvg-id="310" tvg-name="[B] Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Mediacorp_Channel_5_2015.png" group-title="[BACKUP] Malaysia",[B] Channel 5
+https://ktiptv.co:443/2229/2229/375364
+#EXTINF:-1 tvg-id="307" tvg-name="[B] 双星" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_shuang_xing.png" group-title="[BACKUP] Malaysia",[B] 双星
+https://ktiptv.co:443/2229/2229/375368
+#EXTINF:-1 tvg-id="333" tvg-name="[B] 欢喜台" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-hua-hee-dai-my.png" group-title="[BACKUP] Malaysia",[B] 欢喜台
+https://ktiptv.co:443/2229/2229/375369
+#EXTINF:-1 tvg-id="308" tvg-name="[B] 全佳" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_quan_jia_hd_my.png" group-title="[BACKUP] Malaysia",[B] 全佳
+https://ktiptv.co:443/2229/2229/375370
+#EXTINF:-1 tvg-id="306" tvg-name="[B] AEC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_aec.png" group-title="[BACKUP] Malaysia",[B] AEC
+https://ktiptv.co:443/2229/2229/375371
+#EXTINF:-1 tvg-id="300" tvg-name="[B] 爱奇异" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="[BACKUP] Malaysia",[B] 爱奇异
+https://ktiptv.co:443/2229/2229/375372
+#EXTINF:-1 tvg-id="309" tvg-name="[B] 天映频道(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="[BACKUP] Malaysia",[B] 天映频道(b)
+https://ktiptv.co:443/2229/2229/375373
+#EXTINF:-1 tvg-id="319" tvg-name="[B] Tvb星河频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvb-xing-he-hk.png" group-title="[BACKUP] Malaysia",[B] Tvb星河频道
+https://ktiptv.co:443/2229/2229/375375
+#EXTINF:-1 tvg-id="311" tvg-name="[B] AOD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="[BACKUP] Malaysia",[B] AOD HD
+https://ktiptv.co:443/2229/2229/375376
+#EXTINF:-1 tvg-id="393" tvg-name="[B] One HD" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="[BACKUP] Malaysia",[B] One HD
+https://ktiptv.co:443/2229/2229/375377
+#EXTINF:-1 tvg-id="393" tvg-name="[B] One HD(b)" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="[BACKUP] Malaysia",[B] One HD(b)
+https://ktiptv.co:443/2229/2229/375378
+#EXTINF:-1 tvg-id="394" tvg-name="[B] Oh!k" tvg-logo="https://www.ohk-tv.com/img/logo.png" group-title="[BACKUP] Malaysia",[B] Oh!k
+https://ktiptv.co:443/2229/2229/375379
+#EXTINF:-1 tvg-id="411" tvg-name="[B] HBO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="[BACKUP] Malaysia",[B] HBO
+https://ktiptv.co:443/2229/2229/375383
+#EXTINF:-1 tvg-id="411" tvg-name="[B] HBO(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="[BACKUP] Malaysia",[B] HBO(b)
+https://ktiptv.co:443/2229/2229/375384
+#EXTINF:-1 tvg-id="411" tvg-name="[B] HBO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="[BACKUP] Malaysia",[B] HBO HD
+https://ktiptv.co:443/2229/2229/375386
+#EXTINF:-1 tvg-id="404" tvg-name="[B] BOO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boo_my.png" group-title="[BACKUP] Malaysia",[B] BOO
+https://ktiptv.co:443/2229/2229/375396
+#EXTINF:-1 tvg-id="thrill.id" tvg-name="[B] Thrill" tvg-logo="https://img2.pngio.com/thrill-tv-channel-logopedia-fandom-thrill-png-340_191.png" group-title="[BACKUP] Malaysia",[B] Thrill
+https://ktiptv.co:443/2229/2229/375397
+#EXTINF:-1 tvg-id="611" tvg-name="[B] astro ceria" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro_ceria.png" group-title="[BACKUP] Malaysia",[B] astro ceria
+https://ktiptv.co:443/2229/2229/375398
+#EXTINF:-1 tvg-id="553" tvg-name="[B] CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CBeebies.png" group-title="[BACKUP] Malaysia",[B] CBeebies
+https://ktiptv.co:443/2229/2229/375402
+#EXTINF:-1 tvg-id="arirang.id" tvg-name="[B] Arirang" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arirang_kr.png" group-title="[BACKUP] Malaysia",[B] Arirang
+https://ktiptv.co:443/2229/2229/375405
+#EXTINF:-1 tvg-id="517" tvg-name="[B] Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Bloomberg_TY_Malaysia_Logo_%28Black%29.png" group-title="[BACKUP] Malaysia",[B] Bloomberg
+https://ktiptv.co:443/2229/2229/375406
+#EXTINF:-1 tvg-id="503" tvg-name="[B] CGTN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png" group-title="[BACKUP] Malaysia",[B] CGTN
+https://ktiptv.co:443/2229/2229/375407
+#EXTINF:-1 tvg-id="cgtn.documentary.id" tvg-name="[B] CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="[BACKUP] Malaysia",[B] CGTN Documentary
+https://ktiptv.co:443/2229/2229/375408
+#EXTINF:-1 tvg-id="515" tvg-name="[B] CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="[BACKUP] Malaysia",[B] CNA
+https://ktiptv.co:443/2229/2229/375410
+#EXTINF:-1 tvg-id="AGEC3" tvg-name="[B] FRANCE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="[BACKUP] Malaysia",[B] FRANCE 24
+https://ktiptv.co:443/2229/2229/375412
+#EXTINF:-1 tvg-id="392" tvg-name="[B] KBS WORLD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/kbs_world.png" group-title="[BACKUP] Malaysia",[B] KBS WORLD
+https://ktiptv.co:443/2229/2229/375413
+#EXTINF:-1 tvg-id="512" tvg-name="[B] BBC World News" tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png" group-title="[BACKUP] Malaysia",[B] BBC World News
+https://ktiptv.co:443/2229/2229/375414
+#EXTINF:-1 tvg-id="nhk.world.my" tvg-name="[B] NHK WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="[BACKUP] Malaysia",[B] NHK WORLD
+https://ktiptv.co:443/2229/2229/375415
+#EXTINF:-1 tvg-id="123.fox.news.hk" tvg-name="[B] Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Fox_News_Channel_logo.png/1200px-Fox_News_Channel_logo.png" group-title="[BACKUP] Malaysia",[B] Fox News
+https://ktiptv.co:443/2229/2229/375416
+#EXTINF:-1 tvg-id="" tvg-name="[B] FOX Business" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fbn2019.png" group-title="[BACKUP] Malaysia",[B] FOX Business
+https://ktiptv.co:443/2229/2229/375417
+#EXTINF:-1 tvg-id="715" tvg-name="[B] HGTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hgtv_us.png" group-title="[BACKUP] Malaysia",[B] HGTV
+https://ktiptv.co:443/2229/2229/375420
+#EXTINF:-1 tvg-id="net.id" tvg-name="[ID] Net. TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title=" [VIP] Indonesia",[ID] Net. TV
+https://ktiptv.co:443/2229/2229/73605
+#EXTINF:-1 tvg-id="rcti.id" tvg-name="[ID] RCTI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title=" [VIP] Indonesia",[ID] RCTI
+https://ktiptv.co:443/2229/2229/73606
+#EXTINF:-1 tvg-id="sctv.id" tvg-name="[ID] SCTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title=" [VIP] Indonesia",[ID] SCTV
+https://ktiptv.co:443/2229/2229/73607
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] Trans TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title=" [VIP] Indonesia",[ID] Trans TV
+https://ktiptv.co:443/2229/2229/73608
+#EXTINF:-1 tvg-id="trans.7.id" tvg-name="[ID] Trans 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title=" [VIP] Indonesia",[ID] Trans 7
+https://ktiptv.co:443/2229/2229/73609
+#EXTINF:-1 tvg-id="tv.one.id" tvg-name="[ID] TV One" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title=" [VIP] Indonesia",[ID] TV One
+https://ktiptv.co:443/2229/2229/73610
+#EXTINF:-1 tvg-id="metro.id" tvg-name="[ID] Metro TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title=" [VIP] Indonesia",[ID] Metro TV
+https://ktiptv.co:443/2229/2229/73611
+#EXTINF:-1 tvg-id="kompas.id" tvg-name="[ID] Kompas TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title=" [VIP] Indonesia",[ID] Kompas TV
+https://ktiptv.co:443/2229/2229/73612
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] CNN Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_id.png" group-title=" [VIP] Indonesia",[ID] CNN Indonesia
+https://ktiptv.co:443/2229/2229/73613
+#EXTINF:-1 tvg-id="berita.satu.id" tvg-name="[ID] Berita Satu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title=" [VIP] Indonesia",[ID] Berita Satu
+https://ktiptv.co:443/2229/2229/73614
+#EXTINF:-1 tvg-id="inews.id" tvg-name="[ID] iNews" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/inews-id.png" group-title=" [VIP] Indonesia",[ID] iNews
+https://ktiptv.co:443/2229/2229/73615
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] MNC TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title=" [VIP] Indonesia",[ID] MNC TV
+https://ktiptv.co:443/2229/2229/73616
+#EXTINF:-1 tvg-id="indosiar.id" tvg-name="[ID] Indosiar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title=" [VIP] Indonesia",[ID] Indosiar
+https://ktiptv.co:443/2229/2229/73617
+#EXTINF:-1 tvg-id="antv.id" tvg-name="[ID] ANTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" group-title=" [VIP] Indonesia",[ID] ANTV
+https://ktiptv.co:443/2229/2229/73618
+#EXTINF:-1 tvg-id="gtv.id" tvg-name="[ID] GTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-id.png" group-title=" [VIP] Indonesia",[ID] GTV
+https://ktiptv.co:443/2229/2229/73619
+#EXTINF:-1 tvg-id="tvri.id" tvg-name="[ID] TVRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" [VIP] Indonesia",[ID] TVRI
+https://ktiptv.co:443/2229/2229/73620
+#EXTINF:-1 tvg-id="idx.id" tvg-name="[ID] IDX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title=" [VIP] Indonesia",[ID] IDX
+https://ktiptv.co:443/2229/2229/73621
+#EXTINF:-1 tvg-id="daai.id" tvg-name="[ID] Daai TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title=" [VIP] Indonesia",[ID] Daai TV
+https://ktiptv.co:443/2229/2229/73622
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Bali TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bali_tv_id.png" group-title=" [VIP] Indonesia",[ID] Bali TV
+https://ktiptv.co:443/2229/2229/73623
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Rajawali TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rajawali_tv_id.png" group-title=" [VIP] Indonesia",[ID] Rajawali TV
+https://ktiptv.co:443/2229/2229/73624
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] Citra Drama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-drama-id.png" group-title=" [VIP] Indonesia",[ID] Citra Drama
+https://ktiptv.co:443/2229/2229/73625
+#EXTINF:-1 tvg-id="jak.id" tvg-name="[ID] JakTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title=" [VIP] Indonesia",[ID] JakTV
+https://ktiptv.co:443/2229/2229/73626
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] JTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv_id.png" group-title=" [VIP] Indonesia",[ID] JTV
+https://ktiptv.co:443/2229/2229/73627
+#EXTINF:-1 tvg-id="indo.dangdut.indonesia.id" tvg-name="[ID] Citra Dangdut" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-dangdut-id.png" group-title=" [VIP] Indonesia",[ID] Citra Dangdut
+https://ktiptv.co:443/2229/2229/73628
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TV9 NU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_surabaya_id.png" group-title=" [VIP] Indonesia",[ID] TV9 NU
+https://ktiptv.co:443/2229/2229/73629
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Dunia Anak" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dunia_anak_id.png" group-title=" [VIP] Indonesia",[ID] Dunia Anak
+https://ktiptv.co:443/2229/2229/73630
+#EXTINF:-1 tvg-id="" tvg-name="[ID] RTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/riau-tv-id.png" group-title=" [VIP] Indonesia",[ID] RTV
+https://ktiptv.co:443/2229/2229/73631
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Ruang Terampil" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" group-title=" [VIP] Indonesia",[ID] Ruang Terampil
+https://ktiptv.co:443/2229/2229/73632
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Insert" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/insert_id.png" group-title=" [VIP] Indonesia",[ID] Insert
+https://ktiptv.co:443/2229/2229/73633
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Jakarta Globe" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jakarta_globe_news_channel_id.png" group-title=" [VIP] Indonesia",[ID] Jakarta Globe
+https://ktiptv.co:443/2229/2229/73634
+#EXTINF:-1 tvg-id="entertainment.id" tvg-name="[ID] Entertainment" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ent-id.png" group-title=" [VIP] Indonesia",[ID] Entertainment
+https://ktiptv.co:443/2229/2229/73636
+#EXTINF:-1 tvg-id="infotaiment.id" tvg-name="[ID] Infotainment" tvg-logo="https://www.infotelevisi.com/asset/images/tv/MNC_infotaiment.jpg" group-title=" [VIP] Indonesia",[ID] Infotainment
+https://ktiptv.co:443/2229/2229/73637
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TV Edukasi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_edukasi_id.png" group-title=" [VIP] Indonesia",[ID] TV Edukasi
+https://ktiptv.co:443/2229/2229/73638
+#EXTINF:-1 tvg-id="" tvg-name="[ID] ATV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/atv-id.png" group-title=" [VIP] Indonesia",[ID] ATV
+https://ktiptv.co:443/2229/2229/73639
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] MNC Shop Trendy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc-shop-id.png" group-title=" [VIP] Indonesia",[ID] MNC Shop Trendy
+https://ktiptv.co:443/2229/2229/73640
+#EXTINF:-1 tvg-id="mnc.shop.smart.id" tvg-name="[ID] MNC Shop Smart" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc-shop-id.png" group-title=" [VIP] Indonesia",[ID] MNC Shop Smart
+https://ktiptv.co:443/2229/2229/73641
+#EXTINF:-1 tvg-id="al.jazeera.english.id" tvg-name="[ID] Aljazeera" tvg-logo="https://i.dlpng.com/static/png/428593_preview.png" group-title=" [VIP] Indonesia",[ID] Aljazeera
+https://ktiptv.co:443/2229/2229/73642
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title=" [VIP] Indonesia",[ID] CNN International
+https://ktiptv.co:443/2229/2229/73643
+#EXTINF:-1 tvg-id="dw.english.id" tvg-name="[ID] DW (English)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title=" [VIP] Indonesia",[ID] DW (English)
+https://ktiptv.co:443/2229/2229/73644
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title=" [VIP] Indonesia",[ID] France 24
+https://ktiptv.co:443/2229/2229/73645
+#EXTINF:-1 tvg-id="cna.my" tvg-name="[ID] News Asia" tvg-logo="https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png" group-title=" [VIP] Indonesia",[ID] News Asia
+https://ktiptv.co:443/2229/2229/73646
+#EXTINF:-1 tvg-id="kbs.world.my" tvg-name="[ID] KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" group-title=" [VIP] Indonesia",[ID] KBS World
+https://ktiptv.co:443/2229/2229/73647
+#EXTINF:-1 tvg-id="abc.australia.id" tvg-name="[ID] ABC Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" group-title=" [VIP] Indonesia",[ID] ABC Australia
+https://ktiptv.co:443/2229/2229/73648
+#EXTINF:-1 tvg-id="nhk.world.premium.id" tvg-name="[ID] NHK World Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_NHK_World_Premium.jpg" group-title=" [VIP] Indonesia",[ID] NHK World Premium
+https://ktiptv.co:443/2229/2229/73649
+#EXTINF:-1 tvg-id="euronews.my" tvg-name="[ID] Euronews" tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/Euronews2016-200-SQR.png" group-title=" [VIP] Indonesia",[ID] Euronews
+https://ktiptv.co:443/2229/2229/73650
+#EXTINF:-1 tvg-id="bbc.world.news.id" tvg-name="[ID] BBC World News" tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/16B26/production/_96566929_bbc_wn_rgb.png" group-title=" [VIP] Indonesia",[ID] BBC World News
+https://ktiptv.co:443/2229/2229/73651
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] RT English" tvg-logo="https://www.rt.com/static/img/og-logo-rt.png" group-title=" [VIP] Indonesia",[ID] RT English
+https://ktiptv.co:443/2229/2229/73652
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TRT World" tvg-logo="http://www.trtworld.com/images/share-1000x500.png" group-title=" [VIP] Indonesia",[ID] TRT World
+https://ktiptv.co:443/2229/2229/73653
+#EXTINF:-1 tvg-id="mnc.news.id" tvg-name="[ID] MNC News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc-news-id.png" group-title=" [VIP] Indonesia",[ID] MNC News
+https://ktiptv.co:443/2229/2229/73654
+#EXTINF:-1 tvg-id="celestial.movies.id" tvg-name="[ID] Celestial Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title=" [VIP] Indonesia",[ID] Celestial Movies
+https://ktiptv.co:443/2229/2229/73655
+#EXTINF:-1 tvg-id="ccm.id" tvg-name="[ID] Celestial Classic Movie" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title=" [VIP] Indonesia",[ID] Celestial Classic Movie
+https://ktiptv.co:443/2229/2229/73656
+#EXTINF:-1 tvg-id="scm.id" tvg-name="[ID] Star Chinese Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_chinese_movies_se_asia.png" group-title=" [VIP] Indonesia",[ID] Star Chinese Movies
+https://ktiptv.co:443/2229/2229/73658
+#EXTINF:-1 tvg-id="scm.legend.id" tvg-name="[ID] MCA " tvg-logo="https://2.bp.blogspot.com/-P95DfEhU8hQ/Xg2yxxf61LI/AAAAAAAApIA/4-FZeL8yA5YIe5EDO19mePYnoCuAmg9mwCLcBGAsYHQ/s1600/my-cinema-asia-channel-tv-logo.png" group-title=" [VIP] Indonesia",[ID] MCA 
+https://ktiptv.co:443/2229/2229/73659
+#EXTINF:-1 tvg-id="thrill.id" tvg-name="[ID] Thrill" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/thrill_hk.png" group-title=" [VIP] Indonesia",[ID] Thrill
+https://ktiptv.co:443/2229/2229/73660
+#EXTINF:-1 tvg-id="axn.id" tvg-name="[ID] AXN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png" group-title=" [VIP] Indonesia",[ID] AXN
+https://ktiptv.co:443/2229/2229/73661
+#EXTINF:-1 tvg-id="hits.id" tvg-name="[ID] Hits" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits_tv_sg.png" group-title=" [VIP] Indonesia",[ID] Hits
+https://ktiptv.co:443/2229/2229/73662
+#EXTINF:-1 tvg-id="kix.id" tvg-name=" [ID] KiX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kix-hk.png" group-title=" [VIP] Indonesia", [ID] KiX
+https://ktiptv.co:443/2229/2229/73851
+#EXTINF:-1 tvg-id="cinemaworld.my" tvg-name="[ID] Cinema World" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinema_world_asia.png" group-title=" [VIP] Indonesia",[ID] Cinema World
+https://ktiptv.co:443/2229/2229/73852
+#EXTINF:-1 tvg-id="fox.movies.premium.id" tvg-name="[ID] Paramount channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" group-title=" [VIP] Indonesia",[ID] Paramount channel
+https://ktiptv.co:443/2229/2229/73854
+#EXTINF:-1 tvg-id="hits.movies.id" tvg-name="[ID] Hits Movies" tvg-logo="" group-title=" [VIP] Indonesia",[ID] Hits Movies
+https://ktiptv.co:443/2229/2229/73855
+#EXTINF:-1 tvg-id="hbo.id" tvg-name="[ID] HBO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title=" [VIP] Indonesia",[ID] HBO
+https://ktiptv.co:443/2229/2229/73858
+#EXTINF:-1 tvg-id="hbo.family.id" tvg-name="[ID] HBO Family" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_asia.png" group-title=" [VIP] Indonesia",[ID] HBO Family
+https://ktiptv.co:443/2229/2229/73859
+#EXTINF:-1 tvg-id="hbo.hits.id" tvg-name="[ID] HBO Hits" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title=" [VIP] Indonesia",[ID] HBO Hits
+https://ktiptv.co:443/2229/2229/73860
+#EXTINF:-1 tvg-id="hbo.signature.id" tvg-name="[ID] HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title=" [VIP] Indonesia",[ID] HBO Signature
+https://ktiptv.co:443/2229/2229/73861
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Galaxy Premium" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" group-title=" [VIP] Indonesia",[ID] Galaxy Premium
+https://ktiptv.co:443/2229/2229/73863
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Galaxy" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png" group-title=" [VIP] Indonesia",[ID] Galaxy
+https://ktiptv.co:443/2229/2229/73864
+#EXTINF:-1 tvg-id="warner.id" tvg-name="[ID] Warner TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title=" [VIP] Indonesia",[ID] Warner TV
+https://ktiptv.co:443/2229/2229/73866
+#EXTINF:-1 tvg-id="cinemax.id" tvg-name="[ID] Cinemax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.png" group-title=" [VIP] Indonesia",[ID] Cinemax
+https://ktiptv.co:443/2229/2229/73867
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Star World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/STAR_World.svg/1200px-STAR_World.svg.png" group-title=" [VIP] Indonesia",[ID] Star World
+https://ktiptv.co:443/2229/2229/73868
+#EXTINF:-1 tvg-id="" tvg-name="[ID] IMC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imc-id.png" group-title=" [VIP] Indonesia",[ID] IMC
+https://ktiptv.co:443/2229/2229/73869
+#EXTINF:-1 tvg-id="crime.investigation.id" tvg-name="[ID] Crime & Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title=" [VIP] Indonesia",[ID] Crime & Investigation
+https://ktiptv.co:443/2229/2229/73870
+#EXTINF:-1 tvg-id="lifetime.id" tvg-name="[ID] Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title=" [VIP] Indonesia",[ID] Lifetime
+https://ktiptv.co:443/2229/2229/73871
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Flik" tvg-logo="https://www.useetv.com/pimages/tvposter/flik.png" group-title=" [VIP] Indonesia",[ID] Flik
+https://ktiptv.co:443/2229/2229/73872
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Bioskop Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bioskop_id.png" group-title=" [VIP] Indonesia",[ID] Bioskop Indonesia
+https://ktiptv.co:443/2229/2229/73873
+#EXTINF:-1 tvg-id="zee.bioskop.id" tvg-name="[ID] ZBioskop" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-bioskop-in.png" group-title=" [VIP] Indonesia",[ID] ZBioskop
+https://ktiptv.co:443/2229/2229/73874
+#EXTINF:-1 tvg-id="vision.prime.id" tvg-name="[ID] Vision Prime" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vision-prime-id.png" group-title=" [VIP] Indonesia",[ID] Vision Prime
+https://ktiptv.co:443/2229/2229/73875
+#EXTINF:-1 tvg-id="fmn.id" tvg-name="[ID] FMN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fmn_id.png" group-title=" [VIP] Indonesia",[ID] FMN
+https://ktiptv.co:443/2229/2229/73877
+#EXTINF:-1 tvg-id="jiangsu.cn" tvg-name="[ID] Jiangsu TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangsu_tv.png" group-title=" [VIP] Indonesia",[ID] Jiangsu TV
+https://ktiptv.co:443/2229/2229/73878
+#EXTINF:-1 tvg-id="hunan.cn" tvg-name="[ID] Hunan TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hunan_cn_tv.png" group-title=" [VIP] Indonesia",[ID] Hunan TV
+https://ktiptv.co:443/2229/2229/73879
+#EXTINF:-1 tvg-id="dongfang.cn" tvg-name="[ID] Shanghai Dragon TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dragon-tv-cn.png" group-title=" [VIP] Indonesia",[ID] Shanghai Dragon TV
+https://ktiptv.co:443/2229/2229/73880
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] Xing Kong TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_xing_kong_hk.png" group-title=" [VIP] Indonesia",[ID] Xing Kong TV
+https://ktiptv.co:443/2229/2229/73881
+#EXTINF:-1 tvg-id="anhui.cn" tvg-name="[ID] Anhui TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/anhui-satellite-tv-cn.png" group-title=" [VIP] Indonesia",[ID] Anhui TV
+https://ktiptv.co:443/2229/2229/73882
+#EXTINF:-1 tvg-id="animax.id" tvg-name="[ID] Animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" group-title=" [VIP] Indonesia",[ID] Animax
+https://ktiptv.co:443/2229/2229/73883
+#EXTINF:-1 tvg-id="aniplus.id" tvg-name="[ID] Aniplus" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title=" [VIP] Indonesia",[ID] Aniplus
+https://ktiptv.co:443/2229/2229/73884
+#EXTINF:-1 tvg-id="boomerang.id" tvg-name="[ID] Boomerang" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title=" [VIP] Indonesia",[ID] Boomerang
+https://ktiptv.co:443/2229/2229/73885
+#EXTINF:-1 tvg-id="besmart.id" tvg-name="[ID] BeSmart" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/besmart-id.png" group-title=" [VIP] Indonesia",[ID] BeSmart
+https://ktiptv.co:443/2229/2229/73886
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] Baby First" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/babyfirst-tv-us.png" group-title=" [VIP] Indonesia",[ID] Baby First
+https://ktiptv.co:443/2229/2229/73933
+#EXTINF:-1 tvg-id="cartoon.network.id" tvg-name=" [ID] Cartoon Network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title=" [VIP] Indonesia", [ID] Cartoon Network
+https://ktiptv.co:443/2229/2229/73934
+#EXTINF:-1 tvg-id="cbeebies.id" tvg-name="[ID] Cbeebies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_cbeebies_uk.png" group-title=" [VIP] Indonesia",[ID] Cbeebies
+https://ktiptv.co:443/2229/2229/73935
+#EXTINF:-1 tvg-id="disney.junior.id" tvg-name="[ID] Disney Junior" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title=" [VIP] Indonesia",[ID] Disney Junior
+https://ktiptv.co:443/2229/2229/73936
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] Disney XD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png" group-title=" [VIP] Indonesia",[ID] Disney XD
+https://ktiptv.co:443/2229/2229/73937
+#EXTINF:-1 tvg-id="disney.id" tvg-name="[ID] Disney Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png" group-title=" [VIP] Indonesia",[ID] Disney Channel
+https://ktiptv.co:443/2229/2229/73938
+#EXTINF:-1 tvg-id="dreamworks.my" tvg-name="[ID] Dreamworks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title=" [VIP] Indonesia",[ID] Dreamworks
+https://ktiptv.co:443/2229/2229/73940
+#EXTINF:-1 tvg-id="da.vinci.id" tvg-name="[ID] Da Vinci Learning" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png" group-title=" [VIP] Indonesia",[ID] Da Vinci Learning
+https://ktiptv.co:443/2229/2229/73941
+#EXTINF:-1 tvg-id="horee.id" tvg-name="[ID] Horee" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/horee-id.png" group-title=" [VIP] Indonesia",[ID] Horee
+https://ktiptv.co:443/2229/2229/73942
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Lingua Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lingua-channel-id.png" group-title=" [VIP] Indonesia",[ID] Lingua Channel
+https://ktiptv.co:443/2229/2229/73943
+#EXTINF:-1 tvg-id="kids.id" tvg-name="[ID] Kids TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kids-tv-id.png" group-title=" [VIP] Indonesia",[ID] Kids TV
+https://ktiptv.co:443/2229/2229/73944
+#EXTINF:-1 tvg-id="miao.mi.id" tvg-name="[ID] Miao Mi" tvg-logo="https://www.pinclipart.com/picdir/middle/335-3359395_miao-mi-miao-mi-channel-clipart.png" group-title=" [VIP] Indonesia",[ID] Miao Mi
+https://ktiptv.co:443/2229/2229/73945
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] Nick Junior" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title=" [VIP] Indonesia",[ID] Nick Junior
+https://ktiptv.co:443/2229/2229/73946
+#EXTINF:-1 tvg-id="nickelodeon.id" tvg-name="[ID] Nickelodeon" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title=" [VIP] Indonesia",[ID] Nickelodeon
+https://ktiptv.co:443/2229/2229/73947
+#EXTINF:-1 tvg-id="518.zoomoo.hk" tvg-name="[ID] Zoo Moo" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/1553037449576-XMD6HGMMLAGEDGW54F2Q/ke17ZwdGBToddI8pDm48kJksnnVMf8lEu8BuGh8-IlZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIHjMdEQW7CW4JcmYP9BTsJy3zwqeFdHvBmPBRp6lKzrM/ZM_logo_small.png" group-title=" [VIP] Indonesia",[ID] Zoo Moo
+https://ktiptv.co:443/2229/2229/73948
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title=" [VIP] Indonesia",[ID] Smithsonian Channel
+https://ktiptv.co:443/2229/2229/73962
+#EXTINF:-1 tvg-id="love.nature.my" tvg-name="[ID] Love Nature 4K" tvg-logo="https://videotron.com/vtrn/images/products/television/chaines/love-nature/love-nature-large.png" group-title=" [VIP] Indonesia",[ID] Love Nature 4K
+https://ktiptv.co:443/2229/2229/73963
+#EXTINF:-1 tvg-id="national.geographic.people.id" tvg-name="[ID] TechStorm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Techstorm-logo.jpg" group-title=" [VIP] Indonesia",[ID] TechStorm
+https://ktiptv.co:443/2229/2229/73964
+#EXTINF:-1 tvg-id="national.geographic.wild.id" tvg-name="[ID] NatGeo Wild" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title=" [VIP] Indonesia",[ID] NatGeo Wild
+https://ktiptv.co:443/2229/2229/73965
+#EXTINF:-1 tvg-id="national.geographic.id" tvg-name="[ID] NatGeo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title=" [VIP] Indonesia",[ID] NatGeo
+https://ktiptv.co:443/2229/2229/73966
+#EXTINF:-1 tvg-id="history.id" tvg-name="[ID] History" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title=" [VIP] Indonesia",[ID] History
+https://ktiptv.co:443/2229/2229/73968
+#EXTINF:-1 tvg-id="animal.planet.id" tvg-name="[ID] Animal Planet" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title=" [VIP] Indonesia",[ID] Animal Planet
+https://ktiptv.co:443/2229/2229/73969
+#EXTINF:-1 tvg-id="discovery.asia.my" tvg-name="[ID] Discovery Asia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png" group-title=" [VIP] Indonesia",[ID] Discovery Asia
+https://ktiptv.co:443/2229/2229/73970
+#EXTINF:-1 tvg-id="bbc.earth.id" tvg-name="[ID] BBC Earth" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-earth-uk.png" group-title=" [VIP] Indonesia",[ID] BBC Earth
+https://ktiptv.co:443/2229/2229/73972
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] BBC Lifestyle" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_lifestyle_uk.png" group-title=" [VIP] Indonesia",[ID] BBC Lifestyle
+https://ktiptv.co:443/2229/2229/73973
+#EXTINF:-1 tvg-id="" tvg-name="[ID] idku" tvg-logo="https://www.useetv.com/assets/images/channel/logo_seatoday_small.png" group-title=" [VIP] Indonesia",[ID] idku
+https://ktiptv.co:443/2229/2229/73974
+#EXTINF:-1 tvg-id="hgtv.id" tvg-name="[ID] HGTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hgtv_us.png" group-title=" [VIP] Indonesia",[ID] HGTV
+https://ktiptv.co:443/2229/2229/73975
+#EXTINF:-1 tvg-id="asian.food.network.id" tvg-name="[ID] Asia Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title=" [VIP] Indonesia",[ID] Asia Food Network
+https://ktiptv.co:443/2229/2229/73976
+#EXTINF:-1 tvg-id="tlc.id" tvg-name="[ID] TLC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" group-title=" [VIP] Indonesia",[ID] TLC
+https://ktiptv.co:443/2229/2229/73977
+#EXTINF:-1 tvg-id="wakuwaku.japan.id" tvg-name="[ID] Waku-Waku Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title=" [VIP] Indonesia",[ID] Waku-Waku Japan
+https://ktiptv.co:443/2229/2229/73978
+#EXTINF:-1 tvg-id="fashion.id" tvg-name="[ID] FashionTV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-1.png" group-title=" [VIP] Indonesia",[ID] FashionTV
+https://ktiptv.co:443/2229/2229/73979
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Eat & Go" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eat_and_go_id.png" group-title=" [VIP] Indonesia",[ID] Eat & Go
+https://ktiptv.co:443/2229/2229/73981
+#EXTINF:-1 tvg-id="blue.ant.entertainment.my" tvg-name=" [ID] Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title=" [VIP] Indonesia", [ID] Blue Ant Entertainment
+https://ktiptv.co:443/2229/2229/73982
+#EXTINF:-1 tvg-id="blue.ant.extreme.my" tvg-name="[ID] Blue Ant Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title=" [VIP] Indonesia",[ID] Blue Ant Extreme
+https://ktiptv.co:443/2229/2229/73983
+#EXTINF:-1 tvg-id="k.plus.my" tvg-name="[ID] K+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/k_plus_kr.png" group-title=" [VIP] Indonesia",[ID] K+
+https://ktiptv.co:443/2229/2229/73984
+#EXTINF:-1 tvg-id="tvn.id" tvg-name="[ID] TvN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" group-title=" [VIP] Indonesia",[ID] TvN
+https://ktiptv.co:443/2229/2229/73985
+#EXTINF:-1 tvg-id="tvn.movies.id" tvg-name="[ID] TvN Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvnmovies.png" group-title=" [VIP] Indonesia",[ID] TvN Movies
+https://ktiptv.co:443/2229/2229/73986
+#EXTINF:-1 tvg-id="cctv1.cn" tvg-name="[ID] Sony One" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title=" [VIP] Indonesia",[ID] Sony One
+https://ktiptv.co:443/2229/2229/73987
+#EXTINF:-1 tvg-id="" tvg-name="[ID] KDrama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/k_drama_id.png" group-title=" [VIP] Indonesia",[ID] KDrama
+https://ktiptv.co:443/2229/2229/73988
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Arirang" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arirang_kr.png" group-title=" [VIP] Indonesia",[ID] Arirang
+https://ktiptv.co:443/2229/2229/73990
+#EXTINF:-1 tvg-id="" tvg-name="[ID] i-konser" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_ikonser_small.png" group-title=" [VIP] Indonesia",[ID] i-konser
+https://ktiptv.co:443/2229/2229/73991
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Prambors TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/1200px-Prambors.svg.png" group-title=" [VIP] Indonesia",[ID] Prambors TV
+https://ktiptv.co:443/2229/2229/73992
+#EXTINF:-1 tvg-id="music.id" tvg-name="[ID] Music TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/04/Music_TV_%282020%29.png" group-title=" [VIP] Indonesia",[ID] Music TV
+https://ktiptv.co:443/2229/2229/73995
+#EXTINF:-1 tvg-id="mtv.asia.my" tvg-name="[ID] MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title=" [VIP] Indonesia",[ID] MTV Live
+https://ktiptv.co:443/2229/2229/73996
+#EXTINF:-1 tvg-id="tawaf.id" tvg-name="[ID] Tawaf TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tawaf-tv-id.png" group-title=" [VIP] Indonesia",[ID] Tawaf TV
+https://ktiptv.co:443/2229/2229/73998
+#EXTINF:-1 tvg-id="muslim.id" tvg-name="[ID] Muslim TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/muslim-tv-id.png" group-title=" [VIP] Indonesia",[ID] Muslim TV
+https://ktiptv.co:443/2229/2229/73999
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TVMu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_mu_id.png" group-title=" [VIP] Indonesia",[ID] TVMu
+https://ktiptv.co:443/2229/2229/74000
+#EXTINF:-1 tvg-id="rodja.id" tvg-name="[ID] Rodja TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rodja_tv.png" group-title=" [VIP] Indonesia",[ID] Rodja TV
+https://ktiptv.co:443/2229/2229/74001
+#EXTINF:-1 tvg-id="makkal.my" tvg-name="[ID] Makkah TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/makkal_tv.png" group-title=" [VIP] Indonesia",[ID] Makkah TV
+https://ktiptv.co:443/2229/2229/74002
+#EXTINF:-1 tvg-id="" tvg-name="[ID] EWTN" tvg-logo="http://allvectorlogo.com/img/2016/07/ewtn-global-catholic-network-logo.png" group-title=" [VIP] Indonesia",[ID] EWTN
+https://ktiptv.co:443/2229/2229/80549
